@@ -7,142 +7,142 @@
 #: bim/module/geometry/ui.py
 #: bim/module/resource/ui.py
 msgid "Y"
-msgstr ""
+msgstr "年"
 
 #: bim/helper.py
 #: bim/module/resource/ui.py
 msgid "M"
-msgstr ""
+msgstr "月"
 
 #: bim/helper.py
 #: bim/module/drawing/decoration.py
 #: bim/module/resource/ui.py
 msgid "D"
-msgstr ""
+msgstr "日"
 
 #: bim/helper.py
 #: bim/module/resource/ui.py
 msgid "H"
-msgstr ""
+msgstr "时"
 
 #: bim/helper.py
 #: bim/module/resource/ui.py
 msgid "Min"
-msgstr ""
+msgstr "分"
 
 #: bim/helper.py
 #: bim/module/resource/ui.py
 msgid "S"
-msgstr ""
+msgstr "秒"
 
 #: bim/helper.py
 msgid "Add Search Group"
-msgstr ""
+msgstr "添加搜索组"
 
 #: bim/helper.py
 #: bim/module/search/operator.py
 msgid "Add Filter"
-msgstr ""
+msgstr "添加过滤器"
 
 #: bim/operator.py
 msgctxt "Operator"
 msgid "Switch Tab"
-msgstr ""
+msgstr "切换标签页"
 
 #: bim/operator.py
 msgctxt "Operator"
 msgid "Open URI"
-msgstr ""
+msgstr "打开 URI"
 
 #: bim/operator.py
 msgctxt "Operator"
 msgid "Select URI Attribute"
-msgstr ""
+msgstr "选择 URI 属性"
 
 #: bim/operator.py
 msgctxt "Operator"
 msgid "Select IFC File"
-msgstr ""
+msgstr "选择 IFC 文件"
 
 #: bim/operator.py
 msgctxt "Operator"
 msgid "Select Data Directory"
-msgstr ""
+msgstr "选择数据目录"
 
 #: bim/operator.py
 msgctxt "Operator"
 msgid "Select Schema Directory"
-msgstr ""
+msgstr "选择 Schema 目录"
 
 #: bim/operator.py
 msgctxt "Operator"
 msgid "Associate BlenderBIM with *.ifc files"
-msgstr ""
+msgstr "将 BlenderBIM 与 *.ifc 文件关联"
 
 #: bim/operator.py
 msgctxt "Operator"
 msgid "Remove BlenderBIM *.ifc association"
-msgstr ""
+msgstr "移除 BlenderBIM 与 *.ifc 文件的关联"
 
 #: bim/operator.py
 msgctxt "Operator"
 msgid "Open Upstream Reference"
-msgstr ""
+msgstr "打开上游引用"
 
 #: bim/operator.py
 msgctxt "Operator"
 msgid "Add Temporary Section Cutaway"
-msgstr ""
+msgstr "添加临时剖切"
 
 #: bim/operator.py
 msgctxt "Operator"
 msgid "Remove Temporary Section Cutaway"
-msgstr ""
+msgstr "移除临时剖切"
 
 #: bim/operator.py
 msgctxt "Operator"
 msgid "Reload IFC File"
-msgstr ""
+msgstr "重新加载 IFC 文件"
 
 #: bim/operator.py
 msgctxt "Operator"
 msgid "Add IFC File"
-msgstr ""
+msgstr "添加 IFC 文件"
 
 #: bim/operator.py
 msgctxt "Operator"
 msgid "Remove IFC File"
-msgstr ""
+msgstr "移除 IFC 文件"
 
 #: bim/operator.py
 msgctxt "Operator"
 msgid "Open URL"
-msgstr ""
+msgstr "打开 URL"
 
 #: bim/operator.py
 msgctxt "Operator"
 msgid "Select Material File"
-msgstr ""
+msgstr "选择材质文件"
 
 #: bim/operator.py
 msgctxt "Operator"
 msgid "Fetch External Material"
-msgstr ""
+msgstr "获取外部材质"
 
 #: bim/operator.py
 msgctxt "Operator"
 msgid "Fetch Object Passport"
-msgstr ""
+msgstr "获取 Object Passport"
 
 #: bim/operator.py
 msgctxt "Operator"
 msgid "Search For Property"
-msgstr ""
+msgstr "搜索属性"
 
 #: bim/operator.py
 msgctxt "Operator"
 msgid "Add or Remove Blender Collection Item"
-msgstr ""
+msgstr "添加或移除 Blender Collection 项目"
 
 #: bim/operator.py
 #: bim/prop.py
@@ -152,121 +152,121 @@ msgstr ""
 #: bim/module/tester/prop.py
 msgctxt "Operator"
 msgid "Description"
-msgstr ""
+msgstr "描述"
 
 #: bim/operator.py
 msgid "Switches to the last used tab"
-msgstr ""
+msgstr "切换到上一次使用的标签页"
 
 #: bim/operator.py
 msgid "Select a local file"
-msgstr ""
+msgstr "选择本地文件"
 
 #: bim/operator.py
 msgid "Select the directory that contains all IFC data es. PSet, styles, etc..."
-msgstr ""
+msgstr "选择包含所有 IFC 数据（例如 PSet、styles 等）的目录"
 
 #: bim/operator.py
 msgid "Select the directory containing the IFC schema specification"
-msgstr ""
+msgstr "选择包含 IFC schema 规范的目录"
 
 #: bim/operator.py
 msgid "Creates a Desktop launcher and associates it with IFC files"
-msgstr ""
+msgstr "创建桌面启动器并将其与 IFC 文件关联"
 
 #: bim/operator.py
 msgid "Removes Desktop launcher and unassociates it with IFC files"
-msgstr ""
+msgstr "移除桌面启动器并取消与 IFC 文件的关联"
 
 #: bim/operator.py
 msgid "Reload an updated IFC file"
-msgstr ""
+msgstr "重新加载更新后的 IFC 文件"
 
 #: bim/operator.py
 msgid "Open the URL in your Web Browser"
-msgstr ""
+msgstr "在您的网络浏览器中打开 URL"
 
 #: bim/operator.py
 msgid "On the next step to create file association "
-msgstr ""
+msgstr "在下一步创建文件关联时"
 
 #: bim/operator.py
 msgid "the system console will be opened "
-msgstr ""
+msgstr "系统控制台将会打开"
 
 #: bim/operator.py
 msgid "to create an association."
-msgstr ""
+msgstr "以创建关联."
 
 #: bim/operator.py
 #: bim/ui.py
 msgid "Online IFC Documentation"
-msgstr ""
+msgstr "在线 IFC 文档"
 
 #: bim/operator.py
 msgid "Data Path"
-msgstr ""
+msgstr "数据路径"
 
 #: bim/operator.py
 #: bim/module/drawing/operator.py
 #: bim/module/project/operator.py
 msgid "Use Relative Path"
-msgstr ""
+msgstr "使用相对路径"
 
 #: bim/operator.py
 #: bim/module/pset/prop.py
 msgid "Property"
-msgstr ""
+msgstr "属性"
 
 #: bim/operator.py
 msgid "Associations established."
-msgstr ""
+msgstr "关联已建立."
 
 #: bim/operator.py
 msgid "Association removed."
-msgstr ""
+msgstr "关联已移除."
 
 #: bim/ui.py
 msgctxt "Operator"
 msgid "Temporary Section Cutaways"
-msgstr ""
+msgstr "临时剖切"
 
 #: bim/ui.py
 msgctxt "Operator"
 msgid "BlenderBIM Add-on"
-msgstr ""
+msgstr "BlenderBIM 插件"
 
 #: bim/ui.py
 #: bim/module/brick/ui.py
 msgctxt "Operator"
 msgid "Project Info"
-msgstr ""
+msgstr "项目信息"
 
 #: bim/ui.py
 msgctxt "Operator"
 msgid "Project Setup"
-msgstr ""
+msgstr "项目设置"
 
 #: bim/ui.py
 msgctxt "Operator"
 msgid "Stakeholders"
-msgstr ""
+msgstr "利益相关者"
 
 #: bim/ui.py
 msgctxt "Operator"
 msgid "Collaboration"
-msgstr ""
+msgstr "协作"
 
 #: bim/ui.py
 msgctxt "Operator"
 msgid "Grouping and Filtering"
-msgstr ""
+msgstr "分组与筛选"
 
 #: bim/ui.py
 #: bim/module/model/pie.py
 msgctxt "Operator"
 msgid "Geometry"
-msgstr ""
+msgstr "几何"
 
 #: bim/ui.py
 #: bim/module/clash/prop.py
@@ -276,7 +276,7 @@ msgstr ""
 #: bim/module/sequence/ui.py
 msgctxt "Operator"
 msgid "Status"
-msgstr ""
+msgstr "状态"
 
 #: bim/ui.py
 #: bim/module/cost/ui.py
@@ -284,83 +284,83 @@ msgstr ""
 #: bim/module/resource/prop.py
 msgctxt "Operator"
 msgid "Resources"
-msgstr ""
+msgstr "资源"
 
 #: bim/ui.py
 msgctxt "Operator"
 msgid "Cost"
-msgstr ""
+msgstr "成本"
 
 #: bim/ui.py
 msgctxt "Operator"
 msgid "Construction Scheduling"
-msgstr ""
+msgstr "施工进度安排"
 
 #: bim/ui.py
 msgctxt "Operator"
 msgid "Structural"
-msgstr ""
+msgstr "结构"
 
 #: bim/ui.py
 msgctxt "Operator"
 msgid "Services"
-msgstr ""
+msgstr "服务"
 
 #: bim/ui.py
 #: bim/module/system/ui.py
 #: bim/module/system/prop.py
 msgctxt "Operator"
 msgid "Zones"
-msgstr ""
+msgstr "区域"
 
 #: bim/ui.py
 msgctxt "Operator"
 msgid "Quality Control"
-msgstr ""
+msgstr "质量控制"
 
 #: bim/ui.py
 msgctxt "Operator"
 msgid "Clash Detection"
-msgstr ""
+msgstr "冲突检测"
 
 #: bim/ui.py
 msgctxt "Operator"
 msgid "Sandbox"
-msgstr ""
+msgstr "沙盒"
 
 #: bim/ui.py
 msgctxt "Operator"
 msgid "Object Metadata"
-msgstr ""
+msgstr "对象元数据"
 
 #: bim/ui.py
 #: bim/module/geometry/ui.py
 msgctxt "Operator"
 msgid "Placement"
-msgstr ""
+msgstr "放置"
 
 #: bim/ui.py
 #: bim/module/geometry/ui.py
 msgctxt "Operator"
 msgid "Representations"
-msgstr ""
+msgstr "Representations"
 
 #: bim/ui.py
 msgctxt "Operator"
 msgid "Geometric Relationships"
-msgstr ""
+msgstr "几何关系"
 
 #: bim/ui.py
 msgctxt "Operator"
 msgid "Parametric Geometry"
-msgstr ""
+msgstr "参数化几何"
 
 #: bim/ui.py
 #: bim/module/material/ui.py
 #: bim/module/material/prop.py
 msgctxt "Operator"
 msgid "Materials"
-msgstr ""
+msgstr "材质"
 
 #: bim/ui.py
 #: bim/module/material/prop.py
@@ -368,7 +368,7 @@ msgstr ""
 #: bim/module/style/prop.py
 msgctxt "Operator"
 msgid "Styles"
-msgstr ""
+msgstr "样式"
 
 #: bim/ui.py
 #: bim/module/material/prop.py
@@ -376,28 +376,28 @@ msgstr ""
 #: bim/module/profile/prop.py
 msgctxt "Operator"
 msgid "Profiles"
-msgstr ""
+msgstr "型材"
 
 #: bim/ui.py
 #: bim/module/drawing/ui.py
 #: bim/module/drawing/prop.py
 msgctxt "Operator"
 msgid "Sheets"
-msgstr ""
+msgstr "图纸"
 
 #: bim/ui.py
 #: bim/module/drawing/ui.py
 #: bim/module/drawing/prop.py
 msgctxt "Operator"
 msgid "Drawings"
-msgstr ""
+msgstr "绘图"
 
 #: bim/ui.py
 #: bim/module/drawing/ui.py
 #: bim/module/drawing/prop.py
 msgctxt "Operator"
 msgid "Schedules"
-msgstr ""
+msgstr "明细表"
 
 #: bim/ui.py
 #: bim/module/drawing/ui.py
@@ -405,74 +405,74 @@ msgstr ""
 #: bim/module/library/prop.py
 msgctxt "Operator"
 msgid "References"
-msgstr ""
+msgstr "引用"
 
 #: bim/ui.py
 msgctxt "Operator"
 msgid "Misc."
-msgstr ""
+msgstr "杂项"
 
 #: bim/ui.py
 msgctxt "Operator"
 msgid "Commissioning and Handover"
-msgstr ""
+msgstr "调试与交接"
 
 #: bim/ui.py
 msgctxt "Operator"
 msgid "Operations and Maintenance"
-msgstr ""
+msgstr "运营与维护"
 
 #: bim/ui.py
 msgid "IFC Header Specifications"
-msgstr ""
+msgstr "IFC Header 规范"
 
 #: bim/ui.py
 msgid "Upgrade to IFC4"
-msgstr ""
+msgstr "升级到 IFC4"
 
 #: bim/ui.py
 msgid "Upgrade to IFC4X3"
-msgstr ""
+msgstr "升级到 IFC4X3"
 
 #: bim/ui.py
 msgid "Save the .blend file first "
-msgstr ""
+msgstr "请先保存 .blend 文件"
 
 #: bim/ui.py
 msgid "to use relative paths for .ifc."
-msgstr ""
+msgstr "以便为 .ifc 使用相对路径."
 
 #: bim/ui.py
 msgid "output"
-msgstr ""
+msgstr "输出"
 
 #: bim/ui.py
 msgid "To uninstall: 1) Disable the add-on 2) Restart Blender 3) Press the 'Remove' button."
-msgstr ""
+msgstr "卸载方法：1) 禁用插件 2) 重启 Blender 3) 点击 '移除' 按钮."
 
 #: bim/ui.py
 msgid "To upgrade, first uninstall your current BlenderBIM Add-on, then install the new version."
-msgstr ""
+msgstr "升级方法：首先卸载当前的 BlenderBIM 插件，然后安装新版本."
 
 #: bim/ui.py
 msgid "Help Donate to Fund Development!"
-msgstr ""
+msgstr "帮助捐赠以资助开发！"
 
 #: bim/ui.py
 msgid "Visit Homepage"
-msgstr ""
+msgstr "访问主页"
 
 #: bim/ui.py
 msgid "Visit Documentation"
-msgstr ""
+msgstr "访问文档"
 
 #: bim/ui.py
 msgid "Visit Wiki"
-msgstr ""
+msgstr "访问 Wiki"
 
 #: bim/ui.py
 msgid "Visit Community"
-msgstr ""
+msgstr "访问社区"
 
 #: bim/ui.py
 #: bim/module/model/ui.py
@@ -521,51 +521,51 @@ msgstr ""
 #: bim/module/gis/ui.py
 #: bim/module/spatial/ui.py
 msgid "scene"
-msgstr ""
+msgstr "场景"
 
 #: bim/ui.py
 msgid "More Experimental Than Usual"
-msgstr ""
+msgstr "比平常更具实验性"
 
 #: bim/ui.py
 msgid "IFC Description"
-msgstr ""
+msgstr "IFC 描述"
 
 #: bim/ui.py
 msgid "SVG to PDF Command"
-msgstr ""
+msgstr "SVG 转 PDF 命令"
 
 #: bim/ui.py
 msgid "SVG Command"
-msgstr ""
+msgstr "SVG 命令"
 
 #: bim/ui.py
 msgid "Layout SVG Command"
-msgstr ""
+msgstr "布局 SVG 命令"
 
 #: bim/ui.py
 msgid "PDF Command"
-msgstr ""
+msgstr "PDF 命令"
 
 #: bim/ui.py
 msgid "Spreadsheet Command"
-msgstr ""
+msgstr "电子表格命令"
 
 #: bim/ui.py
 msgid "OpenLCA IPC Port"
-msgstr ""
+msgstr "OpenLCA IPC 端口"
 
 #: bim/ui.py
 msgid "Should Hide Empty Properties"
-msgstr ""
+msgstr "应隐藏空属性"
 
 #: bim/ui.py
 msgid "Should Setup Workspace Layout for BIM"
-msgstr ""
+msgstr "应设置 BIM 工作区布局"
 
 #: bim/ui.py
 msgid "Should Lock Grids By Default"
-msgstr ""
+msgstr "默认应锁定网格"
 
 #: bim/prop.py
 #: bim/module/model/prop.py
@@ -607,39 +607,39 @@ msgstr ""
 #: bim/module/demo/prop.py
 #: bim/module/spatial/prop.py
 msgid "Name"
-msgstr ""
+msgstr "名称"
 
 #: bim/prop.py
 msgid "Display Name"
-msgstr ""
+msgstr "显示名称"
 
 #: bim/prop.py
 msgid "Ifc Class"
-msgstr ""
+msgstr "IFC 类"
 
 #: bim/prop.py
 msgid "Data Type"
-msgstr ""
+msgstr "数据类型"
 
 #: bim/prop.py
 #: bim/module/drawing/prop.py
 #: bim/module/pset/prop.py
 #: bim/module/pset_template/prop.py
 msgid "Value"
-msgstr ""
+msgstr "值"
 
 #: bim/prop.py
 #: bim/module/style/prop.py
 msgid "Is Null"
-msgstr ""
+msgstr "是否为空"
 
 #: bim/prop.py
 msgid "Is Optional"
-msgstr ""
+msgstr "是否可选"
 
 #: bim/prop.py
 msgid "Is Uri"
-msgstr ""
+msgstr "是否为 URI"
 
 #: bim/prop.py
 #: bim/module/drawing/prop.py
@@ -648,43 +648,43 @@ msgstr ""
 #: bim/module/sequence/prop.py
 #: bim/module/spatial/prop.py
 msgid "Is Selected"
-msgstr ""
+msgstr "是否选中"
 
 #: bim/prop.py
 msgid "Has Calculator"
-msgstr ""
+msgstr "是否有计算器"
 
 #: bim/prop.py
 msgid "Special Value Type"
-msgstr ""
+msgstr "特殊值类型"
 
 #: bim/prop.py
 msgid "Tab"
-msgstr ""
+msgstr "标签"
 
 #: bim/prop.py
 msgid "Previous Tab"
-msgstr ""
+msgstr "上一个标签"
 
 #: bim/prop.py
 msgid "Alt Tab"
-msgstr ""
+msgstr "Alt Tab"
 
 #: bim/prop.py
 msgid "Active Tab"
-msgstr ""
+msgstr "活动标签"
 
 #: bim/prop.py
 msgid "Inactive Tab"
-msgstr ""
+msgstr "非活动标签"
 
 #: bim/prop.py
 msgid "Is Dirty"
-msgstr ""
+msgstr "是否已修改"
 
 #: bim/prop.py
 msgid "Default Psets Directory"
-msgstr ""
+msgstr "默认 Psets 目录"
 
 #: bim/prop.py
 #: bim/module/bimtester/prop.py
@@ -692,25 +692,25 @@ msgstr ""
 #: bim/module/tester/prop.py
 #: bim/module/fm/prop.py
 msgid "IFC File"
-msgstr ""
+msgstr "IFC 文件"
 
 #: bim/prop.py
 msgid "Last Transaction"
-msgstr ""
+msgstr "上一次事务"
 
 #: bim/prop.py
 msgid "Section Selected Objects"
-msgstr ""
+msgstr "剖切选中对象"
 
 #: bim/prop.py
 #: bim/module/debug/prop.py
 #: bim/module/style/ui.py
 msgid "STEP ID"
-msgstr ""
+msgstr "STEP ID"
 
 #: bim/prop.py
 msgid "Index"
-msgstr ""
+msgstr "索引"
 
 #: bim/prop.py
 #: bim/module/type/ui.py
@@ -720,13 +720,13 @@ msgstr ""
 #: bim/module/sequence/operator.py
 #: bim/module/sequence/prop.py
 msgid "Type"
-msgstr ""
+msgstr "类型"
 
 #: bim/prop.py
 #: bim/module/bsdd/prop.py
 #: bim/module/pset/prop.py
 msgid "Properties"
-msgstr ""
+msgstr "属性"
 
 #: bim/prop.py
 #: bim/module/drawing/prop.py
@@ -737,12 +737,12 @@ msgstr ""
 #: bim/module/sequence/prop.py
 #: bim/module/spatial/prop.py
 msgid "Is Expanded"
-msgstr ""
+msgstr "是否展开"
 
 #: bim/prop.py
 #: bim/module/bcf/prop.py
 msgid "Is Editable"
-msgstr ""
+msgstr "是否可编辑"
 
 #: bim/prop.py
 #: bim/module/drawing/prop.py
@@ -765,32 +765,32 @@ msgstr ""
 #: bim/module/sequence/prop.py
 #: bim/module/spatial/prop.py
 msgid "IFC Definition ID"
-msgstr ""
+msgstr "IFC 定义 ID"
 
 #: bim/prop.py
 msgid "Is Reassigning Class"
-msgstr ""
+msgstr "是否重新分配类别"
 
 #: bim/prop.py
 msgid "Is Renaming"
-msgstr ""
+msgstr "是否重命名"
 
 #: bim/prop.py
 msgid "Location Checksum"
-msgstr ""
+msgstr "位置校验和"
 
 #: bim/prop.py
 msgid "Rotation Checksum"
-msgstr ""
+msgstr "旋转校验和"
 
 #: bim/prop.py
 msgid "Has External Definition"
-msgstr ""
+msgstr "是否具有外部定义"
 
 #: bim/prop.py
 #: bim/module/geometry/ui.py
 msgid "Location"
-msgstr ""
+msgstr "位置"
 
 #: bim/prop.py
 #: bim/module/drawing/operator.py
@@ -800,16 +800,16 @@ msgstr ""
 #: bim/module/classification/prop.py
 #: bim/module/sequence/prop.py
 msgid "Identification"
-msgstr ""
+msgstr "标识"
 
 #: bim/prop.py
 #: bim/module/pset/prop.py
 msgid "Pset Name"
-msgstr ""
+msgstr "属性集名称"
 
 #: bim/prop.py
 msgid "Psets"
-msgstr ""
+msgstr "属性集"
 
 #: bim/prop.py
 #: bim/module/debug/prop.py
@@ -820,227 +820,227 @@ msgstr ""
 #: bim/module/style/prop.py
 #: bim/module/sequence/ui.py
 msgid "Attributes"
-msgstr ""
+msgstr "属性"
 
 #: bim/prop.py
 msgid "IFC Style ID"
-msgstr ""
+msgstr "IFC 样式 ID"
 
 #: bim/prop.py
 msgid "Shading Checksum"
-msgstr ""
+msgstr "着色校验和"
 
 #: bim/prop.py
 msgid "IFC Boolean ID"
-msgstr ""
+msgstr "IFC Boolean ID"
 
 #: bim/prop.py
 msgid "Has Openings Applied"
-msgstr ""
+msgstr "是否应用了开口"
 
 #: bim/prop.py
 msgid "Is Native"
-msgstr ""
+msgstr "是否原生"
 
 #: bim/prop.py
 msgid "Is Swept Solid"
-msgstr ""
+msgstr "是否为扫掠实体"
 
 #: bim/prop.py
 msgid "Is Parametric"
-msgstr ""
+msgstr "是否参数化"
 
 #: bim/prop.py
 msgid "Subshape Type"
-msgstr ""
+msgstr "子形状类型"
 
 #: bim/prop.py
 msgid "IFC Definition"
-msgstr ""
+msgstr "IFC 定义"
 
 #: bim/prop.py
 msgid "IFC Parameters"
-msgstr ""
+msgstr "IFC 参数"
 
 #: bim/prop.py
 msgid "Material Checksum"
-msgstr ""
+msgstr "材质校验和"
 
 #: bim/prop.py
 msgid "Mesh Checksum"
-msgstr ""
+msgstr "网格校验和"
 
 #: bim/prop.py
 #: bim/module/pset/prop.py
 msgid "Pset"
-msgstr ""
+msgstr "属性集"
 
 #: bim/prop.py
 msgid "filters"
-msgstr ""
+msgstr "过滤器"
 
 #: bim/module/model/railing.py
 #: bim/module/model/ui.py
 msgctxt "Operator"
 msgid "Railing"
-msgstr ""
+msgstr "栏杆"
 
 #: bim/module/model/railing.py
 msgctxt "Operator"
 msgid "Add Railing"
-msgstr ""
+msgstr "添加栏杆"
 
 #: bim/module/model/railing.py
 msgctxt "Operator"
 msgid "Enable Editing Railing"
-msgstr ""
+msgstr "启用栏杆编辑"
 
 #: bim/module/model/railing.py
 msgctxt "Operator"
 msgid "Cancel Editing Railing"
-msgstr ""
+msgstr "取消栏杆编辑"
 
 #: bim/module/model/railing.py
 msgctxt "Operator"
 msgid "Finish Editing Railing"
-msgstr ""
+msgstr "完成栏杆编辑"
 
 #: bim/module/model/railing.py
 msgctxt "Operator"
 msgid "Flip Railing Path Order"
-msgstr ""
+msgstr "翻转栏杆路径顺序"
 
 #: bim/module/model/railing.py
 msgctxt "Operator"
 msgid "Enable Editing Railing Path"
-msgstr ""
+msgstr "启用栏杆路径编辑"
 
 #: bim/module/model/railing.py
 msgctxt "Operator"
 msgid "Cancel Editing Railing Path"
-msgstr ""
+msgstr "取消栏杆路径编辑"
 
 #: bim/module/model/railing.py
 msgctxt "Operator"
 msgid "Finish Editing Railing Path"
-msgstr ""
+msgstr "完成栏杆路径编辑"
 
 #: bim/module/model/railing.py
 msgctxt "Operator"
 msgid "Remove Railing"
-msgstr ""
+msgstr "移除栏杆"
 
 #: bim/module/model/railing.py
 msgid "Can be useful to maintain railing supports direction"
-msgstr ""
+msgstr "可用于保持栏杆支撑方向"
 
 #: bim/module/model/railing.py
 msgid "You need to start IFC project first to create a railing."
-msgstr ""
+msgstr "您需要先启动 IFC 项目以创建栏杆."
 
 #: bim/module/model/mep.py
 msgctxt "Operator"
 msgid "Regenerate Distribution Element"
-msgstr ""
+msgstr "重新生成分配元素"
 
 #: bim/module/model/mep.py
 msgctxt "Operator"
 msgid "Fit Flow Segments"
-msgstr ""
+msgstr "调整流段"
 
 #: bim/module/model/mep.py
 msgctxt "Operator"
 msgid "Add Obstruction"
-msgstr ""
+msgstr "添加障碍物"
 
 #: bim/module/model/mep.py
 msgctxt "Operator"
 msgid "Add Transition"
-msgstr ""
+msgstr "添加过渡"
 
 #: bim/module/model/mep.py
 msgctxt "Operator"
 msgid "Add Bend"
-msgstr ""
+msgstr "添加弯头"
 
 #: bim/module/model/mep.py
 msgid "Add a fitting based on currently selected elements and cursor"
-msgstr ""
+msgstr "根据当前选中的元素和光标位置添加一个配件"
 
 #: bim/module/model/mep.py
 msgid "Adds obstruction to the MEP segment"
-msgstr ""
+msgstr "为 MEP 段添加障碍物"
 
 #: bim/module/model/mep.py
 msgid "Adds a bend between two MEP elements. Elements are either provided by ID or selected in Blender"
-msgstr ""
+msgstr "在两个 MEP 元素之间添加一个弯头。元素可以通过 ID 提供或在 Blender 中选中"
 
 #: bim/module/model/mep.py
 msgid "Segment Element ID"
-msgstr ""
+msgstr "段元素 ID"
 
 #: bim/module/model/mep.py
 msgid "Start Segment Element ID"
-msgstr ""
+msgstr "起始段元素 ID"
 
 #: bim/module/model/mep.py
 msgid "End Segment Element ID"
-msgstr ""
+msgstr "结束段元素 ID"
 
 #: bim/module/model/workspace.py
 msgctxt "Operator"
 msgid "Create Element"
-msgstr ""
+msgstr "创建元素"
 
 #: bim/module/model/workspace.py
 msgctxt "Operator"
 msgid "Create Wall"
-msgstr ""
+msgstr "创建墙体"
 
 #: bim/module/model/workspace.py
 msgctxt "Operator"
 msgid "Create Slab"
-msgstr ""
+msgstr "创建楼板"
 
 #: bim/module/model/workspace.py
 msgctxt "Operator"
 msgid "Create Door"
-msgstr ""
+msgstr "创建门"
 
 #: bim/module/model/workspace.py
 msgctxt "Operator"
 msgid "Create Window"
-msgstr ""
+msgstr "创建窗户"
 
 #: bim/module/model/workspace.py
 msgctxt "Operator"
 msgid "Create Column"
-msgstr ""
+msgstr "创建柱"
 
 #: bim/module/model/workspace.py
 msgctxt "Operator"
 msgid "Create Beam"
-msgstr ""
+msgstr "创建梁"
 
 #: bim/module/model/workspace.py
 msgctxt "Operator"
 msgid "Create Duct"
-msgstr ""
+msgstr "创建风管"
 
 #: bim/module/model/workspace.py
 msgctxt "Operator"
 msgid "Create Cable Carrier"
-msgstr ""
+msgstr "创建电缆桥架"
 
 #: bim/module/model/workspace.py
 msgctxt "Operator"
 msgid "Create Pipe"
-msgstr ""
+msgstr "创建管道"
 
 #: bim/module/model/workspace.py
 msgctxt "Operator"
 msgid "Create Cable"
-msgstr ""
+msgstr "创建电缆"
 
 #: bim/module/model/workspace.py
 #: bim/module/drawing/workspace.py
@@ -1049,51 +1049,51 @@ msgstr ""
 #: bim/module/spatial/workspace.py
 msgctxt "Operator"
 msgid "Hotkey"
-msgstr ""
+msgstr "快捷键"
 
 #: bim/module/model/workspace.py
 msgid "Gives you BIM authoring related superpowers"
-msgstr ""
+msgstr "赋予您与BIM创作相关的超能力"
 
 #: bim/module/model/workspace.py
 msgid "Create and edit walls"
-msgstr ""
+msgstr "创建和编辑墙体"
 
 #: bim/module/model/workspace.py
 msgid "Create and edit slabs"
-msgstr ""
+msgstr "创建和编辑楼板"
 
 #: bim/module/model/workspace.py
 msgid "Create and edit doors"
-msgstr ""
+msgstr "创建和编辑门"
 
 #: bim/module/model/workspace.py
 msgid "Create and edit windows"
-msgstr ""
+msgstr "创建和编辑窗户"
 
 #: bim/module/model/workspace.py
 msgid "Create and edit columns"
-msgstr ""
+msgstr "创建和编辑柱"
 
 #: bim/module/model/workspace.py
 msgid "Create and edit beams"
-msgstr ""
+msgstr "创建和编辑梁"
 
 #: bim/module/model/workspace.py
 msgid "Create and edit ducks"
-msgstr ""
+msgstr "创建和编辑风管"
 
 #: bim/module/model/workspace.py
 msgid "Create and edit cable carriers"
-msgstr ""
+msgstr "创建和编辑电缆桥架"
 
 #: bim/module/model/workspace.py
 msgid "Create and edit pipes"
-msgstr ""
+msgstr "创建和编辑管道"
 
 #: bim/module/model/workspace.py
 msgid "Create and edit cables"
-msgstr ""
+msgstr "创建和编辑电缆"
 
 #: bim/module/model/workspace.py
 #: bim/module/drawing/workspace.py
@@ -1101,69 +1101,69 @@ msgstr ""
 #: bim/module/structural/workspace.py
 #: bim/module/spatial/workspace.py
 msgid "No IFC Project"
-msgstr ""
+msgstr "无 IFC 项目"
 
 #: bim/module/model/workspace.py
 #: bim/module/model/prop.py
 #: bim/module/covering/workspace.py
 #: bim/module/spatial/workspace.py
 msgid "RL"
-msgstr ""
+msgstr "RL"
 
 #: bim/module/model/workspace.py
 #: bim/module/model/stair.py
 #: bim/module/model/prop.py
 #: bim/module/drawing/prop.py
 msgid "Height"
-msgstr ""
+msgstr "高度"
 
 #: bim/module/model/workspace.py
 msgid "Length"
-msgstr ""
+msgstr "长度"
 
 #: bim/module/model/workspace.py
 #: bim/module/model/wall.py
 #: bim/module/model/prop.py
 #: bim/module/structural/ui.py
 msgid "X Angle"
-msgstr ""
+msgstr "X 角度"
 
 #: bim/module/model/workspace.py
 msgid "Axis"
-msgstr ""
+msgstr "轴"
 
 #: bim/module/model/workspace.py
 msgid "Edit Railing Path"
-msgstr ""
+msgstr "编辑栏杆路径"
 
 #: bim/module/model/workspace.py
 msgid "Edit Roof Path"
-msgstr ""
+msgstr "编辑屋顶路径"
 
 #: bim/module/model/workspace.py
 msgid "Apply Void"
-msgstr ""
+msgstr "应用空洞"
 
 #: bim/module/model/workspace.py
 msgid "Add Void"
-msgstr ""
+msgstr "添加空洞"
 
 #: bim/module/model/workspace.py
 #: bim/module/model/opening.py
 msgid "Clone Opening"
-msgstr ""
+msgstr "克隆开口"
 
 #: bim/module/model/workspace.py
 msgid "Align"
-msgstr ""
+msgstr "对齐"
 
 #: bim/module/model/workspace.py
 msgid "Mode"
-msgstr ""
+msgstr "模式"
 
 #: bim/module/model/workspace.py
 msgid "Aggregation"
-msgstr ""
+msgstr "聚合"
 
 #: bim/module/model/workspace.py
 #: bim/module/model/product.py
@@ -1171,27 +1171,27 @@ msgstr ""
 #: bim/module/covering/workspace.py
 #: bim/module/sequence/ui.py
 msgid "Add"
-msgstr ""
+msgstr "添加"
 
 #: bim/module/model/workspace.py
 msgid "No Construction Type"
-msgstr ""
+msgstr "无施工类型"
 
 #: bim/module/model/workspace.py
 msgid "No Element Types Found"
-msgstr ""
+msgstr "未找到元素类型"
 
 #: bim/module/model/workspace.py
 #: bim/module/model/ui.py
 #: bim/module/covering/workspace.py
 msgid "Launch Type Manager"
-msgstr ""
+msgstr "启动类型管理器"
 
 #: bim/module/model/workspace.py
 #: bim/module/model/ui.py
 #: bim/module/covering/workspace.py
 msgid "Load Thumbnails"
-msgstr ""
+msgstr "加载缩略图"
 
 #: bim/module/model/workspace.py
 #: bim/module/model/prop.py
@@ -1200,594 +1200,594 @@ msgstr ""
 #: bim/module/cad/prop.py
 #: bim/module/geometry/ui.py
 msgid "X"
-msgstr ""
+msgstr "X"
 
 #: bim/module/model/workspace.py
 #: bim/module/model/prop.py
 #: bim/module/model/opening.py
 #: bim/module/geometry/ui.py
 msgid "Z"
-msgstr ""
+msgstr "Z"
 
 #: bim/module/model/grid.py
 msgctxt "Operator"
 msgid "Grid"
-msgstr ""
+msgstr "网格"
 
 #: bim/module/model/grid.py
 msgid "U Spacing"
-msgstr ""
+msgstr "U 间距"
 
 #: bim/module/model/grid.py
 msgid "Number of U Grids"
-msgstr ""
+msgstr "U 网格数量"
 
 #: bim/module/model/grid.py
 msgid "V Spacing"
-msgstr ""
+msgstr "V 间距"
 
 #: bim/module/model/grid.py
 msgid "Number of V Grids"
-msgstr ""
+msgstr "V 网格数量"
 
 #: bim/module/model/roof.py
 msgctxt "Operator"
 msgid "Generate Hipped Roof"
-msgstr ""
+msgstr "生成四坡屋顶"
 
 #: bim/module/model/roof.py
 #: bim/module/model/ui.py
 msgctxt "Operator"
 msgid "Roof"
-msgstr ""
+msgstr "屋顶"
 
 #: bim/module/model/roof.py
 msgctxt "Operator"
 msgid "Add Roof"
-msgstr ""
+msgstr "添加屋顶"
 
 #: bim/module/model/roof.py
 msgctxt "Operator"
 msgid "Enable Editing Roof"
-msgstr ""
+msgstr "启用屋顶编辑"
 
 #: bim/module/model/roof.py
 msgctxt "Operator"
 msgid "Cancel Editing Roof"
-msgstr ""
+msgstr "取消屋顶编辑"
 
 #: bim/module/model/roof.py
 msgctxt "Operator"
 msgid "Finish Editing Roof"
-msgstr ""
+msgstr "完成屋顶编辑"
 
 #: bim/module/model/roof.py
 msgctxt "Operator"
 msgid "Enable Editing Roof Path"
-msgstr ""
+msgstr "启用屋顶路径编辑"
 
 #: bim/module/model/roof.py
 msgctxt "Operator"
 msgid "Cancel Editing Roof Path"
-msgstr ""
+msgstr "取消屋顶路径编辑"
 
 #: bim/module/model/roof.py
 msgctxt "Operator"
 msgid "Finish Editing Roof Path"
-msgstr ""
+msgstr "完成屋顶路径编辑"
 
 #: bim/module/model/roof.py
 msgctxt "Operator"
 msgid "Remove Roof"
-msgstr ""
+msgstr "移除屋顶"
 
 #: bim/module/model/roof.py
 msgctxt "Operator"
 msgid "Set Gable Roof Edge Angle"
-msgstr ""
+msgstr "设置山墙屋顶边缘角度"
 
 #: bim/module/model/roof.py
 #: bim/module/drawing/annotation.py
 #: bim/module/geometry/helper.py
 msgid "FACES_ONLY"
-msgstr ""
+msgstr "仅面"
 
 #: bim/module/model/roof.py
 msgid "EDGES"
-msgstr ""
+msgstr "边缘"
 
 #: bim/module/model/roof.py
 msgid "Roof Generation Method"
-msgstr ""
+msgstr "屋顶生成方法"
 
 #: bim/module/model/roof.py
 msgid "Slope Angle"
-msgstr ""
+msgstr "坡度角"
 
 #: bim/module/model/roof.py
 msgid "Angle"
-msgstr ""
+msgstr "角度"
 
 #: bim/module/model/roof.py
 #: bim/module/cad/prop.py
 msgid "Separate Verts"
-msgstr ""
+msgstr "分离顶点"
 
 #: bim/module/model/roof.py
 msgid "Need to select some object first."
-msgstr ""
+msgstr "请先选择某个对象."
 
 #: bim/module/model/roof.py
 msgid "You need to start IFC project first to create a roof."
-msgstr ""
+msgstr "您需要先启动 IFC 项目以创建屋顶."
 
 #: bim/module/model/stair.py
 msgctxt "Operator"
 msgid "Dumb Stair"
-msgstr ""
+msgstr "普通楼梯"
 
 #: bim/module/model/stair.py
 msgctxt "Operator"
 msgid "Clever Stair"
-msgstr ""
+msgstr "智能楼梯"
 
 #: bim/module/model/stair.py
 msgctxt "Operator"
 msgid "Add Stair"
-msgstr ""
+msgstr "添加楼梯"
 
 #: bim/module/model/stair.py
 msgctxt "Operator"
 msgid "Cancel Editing Stair"
-msgstr ""
+msgstr "取消楼梯编辑"
 
 #: bim/module/model/stair.py
 msgctxt "Operator"
 msgid "Finish Editing Stair"
-msgstr ""
+msgstr "完成楼梯编辑"
 
 #: bim/module/model/stair.py
 msgctxt "Operator"
 msgid "Enable Editing Stair"
-msgstr ""
+msgstr "启用楼梯编辑"
 
 #: bim/module/model/stair.py
 msgctxt "Operator"
 msgid "Remove Stair"
-msgstr ""
+msgstr "移除楼梯"
 
 #: bim/module/model/stair.py
 #: bim/module/model/prop.py
 #: bim/module/drawing/prop.py
 msgid "Width"
-msgstr ""
+msgstr "宽度"
 
 #: bim/module/model/stair.py
 #: bim/module/model/prop.py
 msgid "Tread Depth"
-msgstr ""
+msgstr "踏步深度"
 
 #: bim/module/model/stair.py
 msgid "Number of Treads (Goings)"
-msgstr ""
+msgstr "踏步数量（步幅）"
 
 #: bim/module/model/stair.py
 msgid "Tread Length (Going)"
-msgstr ""
+msgstr "踏步长度（步幅）"
 
 #: bim/module/model/stair.py
 msgid "*Calculated* Riser Height"
-msgstr ""
+msgstr "*计算* 踏步高度"
 
 #: bim/module/model/stair.py
 msgid "*Calculated* Length"
-msgstr ""
+msgstr "*计算* 长度"
 
 #: bim/module/model/stair.py
 msgid "You need to start IFC project first to create a stair."
-msgstr ""
+msgstr "您需要先启动 IFC 项目以创建楼梯."
 
 #: bim/module/model/product.py
 msgctxt "Operator"
 msgid "Enable Add Type"
-msgstr ""
+msgstr "启用添加类型"
 
 #: bim/module/model/product.py
 msgctxt "Operator"
 msgid "Disable Add Type"
-msgstr ""
+msgstr "禁用添加类型"
 
 #: bim/module/model/product.py
 msgctxt "Operator"
 msgid "Add Empty Type"
-msgstr ""
+msgstr "添加空类型"
 
 #: bim/module/model/product.py
 msgctxt "Operator"
 msgid "Add Default Type"
-msgstr ""
+msgstr "添加默认类型"
 
 #: bim/module/model/product.py
 msgctxt "Operator"
 msgid "Change Type Page"
-msgstr ""
+msgstr "切换类型页面"
 
 #: bim/module/model/product.py
 msgctxt "Operator"
 msgid "Align Product"
-msgstr ""
+msgstr "对齐产品"
 
 #: bim/module/model/product.py
 msgctxt "Operator"
 msgid "Load Type Thumbnails"
-msgstr ""
+msgstr "加载类型缩略图"
 
 #: bim/module/model/product.py
 msgctxt "Operator"
 msgid "Mirror Elements"
-msgstr ""
+msgstr "镜像元素"
 
 #: bim/module/model/product.py
 msgctxt "Operator"
 msgid "Sync Modeling"
-msgstr ""
+msgstr "同步建模"
 
 #: bim/module/model/product.py
 msgid "Add Type Instance to the model"
-msgstr ""
+msgstr "向模型中添加类型实例"
 
 #: bim/module/model/product.py
 msgid "Faux-mirrors the selected objects by an active empty along a mirror plane"
-msgstr ""
+msgstr "通过沿镜像平面使用活动空对象伪镜像选定对象"
 
 #: bim/module/model/array.py
 msgctxt "Operator"
 msgid "Add Array"
-msgstr ""
+msgstr "添加阵列"
 
 #: bim/module/model/array.py
 msgctxt "Operator"
 msgid "Disable Editing Array"
-msgstr ""
+msgstr "禁用阵列编辑"
 
 #: bim/module/model/array.py
 msgctxt "Operator"
 msgid "Enable Editing Array"
-msgstr ""
+msgstr "启用阵列编辑"
 
 #: bim/module/model/array.py
 msgctxt "Operator"
 msgid "Edit Array"
-msgstr ""
+msgstr "编辑阵列"
 
 #: bim/module/model/array.py
 msgctxt "Operator"
 msgid "Apply Array"
-msgstr ""
+msgstr "应用阵列"
 
 #: bim/module/model/array.py
 msgctxt "Operator"
 msgid "Remove Array"
-msgstr ""
+msgstr "移除阵列"
 
 #: bim/module/model/array.py
 msgctxt "Operator"
 msgid "Select Array Parent"
-msgstr ""
+msgstr "选择阵列父对象"
 
 #: bim/module/model/array.py
 msgctxt "Operator"
 msgid "Select All Array Objects"
-msgstr ""
+msgstr "选择所有阵列对象"
 
 #: bim/module/model/array.py
 msgctxt "Operator"
 msgid "Get 3d Cursor X Input for Array"
-msgstr ""
+msgstr "获取阵列的 3D 光标 X 输入"
 
 #: bim/module/model/array.py
 msgctxt "Operator"
 msgid "Get 3d Cursor Y Input for Array"
-msgstr ""
+msgstr "获取阵列的 3D 光标 Y 输入"
 
 #: bim/module/model/array.py
 msgctxt "Operator"
 msgid "Get 3d Cursor Z Input for Array"
-msgstr ""
+msgstr "获取阵列的 3D 光标 Z 输入"
 
 #: bim/module/model/array.py
 msgid "Apply the array and keep children as separate entities. Only available for the last array"
-msgstr ""
+msgstr "应用阵列并将子对象保持为独立实体。仅对最后一个阵列可用"
 
 #: bim/module/model/array.py
 msgid "Keep Objects"
-msgstr ""
+msgstr "保留对象"
 
 #: bim/module/model/window.py
 #: bim/module/model/ui.py
 msgctxt "Operator"
 msgid "Window"
-msgstr ""
+msgstr "窗户"
 
 #: bim/module/model/window.py
 msgctxt "Operator"
 msgid "Add Window"
-msgstr ""
+msgstr "添加窗户"
 
 #: bim/module/model/window.py
 msgctxt "Operator"
 msgid "Cancel Editing Window"
-msgstr ""
+msgstr "取消窗户编辑"
 
 #: bim/module/model/window.py
 msgctxt "Operator"
 msgid "Finish Editing Window"
-msgstr ""
+msgstr "完成窗户编辑"
 
 #: bim/module/model/window.py
 msgctxt "Operator"
 msgid "Enable Editing Window"
-msgstr ""
+msgstr "启用窗户编辑"
 
 #: bim/module/model/window.py
 msgctxt "Operator"
 msgid "Remove Window"
-msgstr ""
+msgstr "移除窗户"
 
 #: bim/module/model/window.py
 msgid "You need to start IFC project first to create a window."
-msgstr ""
+msgstr "您需要先启动 IFC 项目以创建窗户."
 
 #: bim/module/model/ui.py
 msgctxt "Operator"
 msgid "Architectural"
-msgstr ""
+msgstr "建筑"
 
 #: bim/module/model/ui.py
 msgctxt "Operator"
 msgid "Grids"
-msgstr ""
+msgstr "网格"
 
 #: bim/module/model/ui.py
 msgctxt "Operator"
 msgid "Array"
-msgstr ""
+msgstr "阵列"
 
 #: bim/module/model/ui.py
 msgctxt "Operator"
 msgid "Stair"
-msgstr ""
+msgstr "楼梯"
 
 #: bim/module/model/ui.py
 msgctxt "Operator"
 msgid "Sverchok"
-msgstr ""
+msgstr "Sverchok"
 
 #: bim/module/model/ui.py
 #: bim/module/model/door.py
 msgctxt "Operator"
 msgid "Door"
-msgstr ""
+msgstr "门"
 
 #: bim/module/model/ui.py
 msgctxt "Operator"
 msgid "Objects"
-msgstr ""
+msgstr "对象"
 
 #: bim/module/model/ui.py
 msgid "Display all available Construction Types to add new instances"
-msgstr ""
+msgstr "显示所有可用的施工类型以添加新实例"
 
 #: bim/module/model/ui.py
 #: bim/module/drawing/workspace.py
 msgid "Save New Type"
-msgstr ""
+msgstr "保存新类型"
 
 #: bim/module/model/ui.py
 #: bim/module/drawing/workspace.py
 msgid "Create New Type"
-msgstr ""
+msgstr "创建新类型"
 
 #: bim/module/model/ui.py
 msgid "Add Grids"
-msgstr ""
+msgstr "添加网格"
 
 #: bim/module/model/ui.py
 msgid "No Array Found"
-msgstr ""
+msgstr "未找到阵列"
 
 #: bim/module/model/ui.py
 msgid "Stair parameters"
-msgstr ""
+msgstr "楼梯参数"
 
 #: bim/module/model/ui.py
 msgid "Finish Editing"
-msgstr ""
+msgstr "完成编辑"
 
 #: bim/module/model/ui.py
 msgid "No Stair Found"
-msgstr ""
+msgstr "未找到楼梯"
 
 #: bim/module/model/ui.py
 msgid "Requires Sverchok Add-on"
-msgstr ""
+msgstr "需要 Sverchok 插件"
 
 #: bim/module/model/ui.py
 msgid "Import JSON"
-msgstr ""
+msgstr "导入 JSON"
 
 #: bim/module/model/ui.py
 msgid "Export to JSON"
-msgstr ""
+msgstr "导出到 JSON"
 
 #: bim/module/model/ui.py
 msgid "Window parameters"
-msgstr ""
+msgstr "窗户参数"
 
 #: bim/module/model/ui.py
 msgid "Lining properties"
-msgstr ""
+msgstr "内衬属性"
 
 #: bim/module/model/ui.py
 msgid "Panel properties"
-msgstr ""
+msgstr "面板属性"
 
 #: bim/module/model/ui.py
 msgid "No Window Found"
-msgstr ""
+msgstr "未找到窗户"
 
 #: bim/module/model/ui.py
 msgid "Door parameters"
-msgstr ""
+msgstr "门参数"
 
 #: bim/module/model/ui.py
 msgid "No Door Found"
-msgstr ""
+msgstr "未找到门"
 
 #: bim/module/model/ui.py
 msgid "Railing parameters"
-msgstr ""
+msgstr "栏杆参数"
 
 #: bim/module/model/ui.py
 msgid "No Railing Found"
-msgstr ""
+msgstr "未找到栏杆"
 
 #: bim/module/model/ui.py
 msgid "Roof parameters"
-msgstr ""
+msgstr "屋顶参数"
 
 #: bim/module/model/ui.py
 msgid "No Roof Found"
-msgstr ""
+msgstr "未找到屋顶"
 
 #: bim/module/model/ui.py
 msgid "Empty Type"
-msgstr ""
+msgstr "空类型"
 
 #: bim/module/model/ui.py
 msgid "Half Space Proxy"
-msgstr ""
+msgstr "半空间代理"
 
 #: bim/module/model/ui.py
 msgid "Opening Proxy"
-msgstr ""
+msgstr "开口代理"
 
 #: bim/module/model/covering.py
 msgctxt "Operator"
 msgid "Add Flooring From Cursor"
-msgstr ""
+msgstr "从光标位置添加地板"
 
 #: bim/module/model/covering.py
 msgctxt "Operator"
 msgid "Add Ceiling From Cursor"
-msgstr ""
+msgstr "从光标位置添加天花板"
 
 #: bim/module/model/covering.py
 #: bim/module/spatial/workspace.py
 msgctxt "Operator"
 msgid "Regen"
-msgstr ""
+msgstr "重新生成"
 
 #: bim/module/model/covering.py
 msgctxt "Operator"
 msgid "Add Flooring From Walls"
-msgstr ""
+msgstr "从墙体添加地板"
 
 #: bim/module/model/covering.py
 msgctxt "Operator"
 msgid "Add Ceilings From Walls"
-msgstr ""
+msgstr "从墙体添加天花板"
 
 #: bim/module/model/covering.py
 msgid "Add a typed instance flooring covering from cursor position. Move the cursor position into the desired position, select the right space collection and run the operator"
-msgstr ""
+msgstr "从光标位置添加一个带类型的地板覆盖实例。将光标移动到期望位置，选择正确的空间集合，然后运行该操作"
 
 #: bim/module/model/covering.py
 msgid "Add a typed instance ceiling covering from cursor position. Move the cursor position into the desired position, select the right space collection and run the operator"
-msgstr ""
+msgstr "从光标位置添加一个带类型的天花板覆盖实例。将光标移动到期望位置，选择正确的空间集合，然后运行该操作"
 
 #: bim/module/model/covering.py
 msgid "Regen selected covering object"
-msgstr ""
+msgstr "重新生成选定的覆盖对象"
 
 #: bim/module/model/covering.py
 msgid "Add instance flooring coverings from selected walls. The active object must be a wall and layered vertically"
-msgstr ""
+msgstr "从选定的墙体添加地板覆盖实例。活动对象必须是墙体且垂直排列"
 
 #: bim/module/model/covering.py
 msgid "Add instance ceiling coverings from selected walls. The active object must be a wall and layered vertically"
-msgstr ""
+msgstr "从选定的墙体添加天花板覆盖实例。活动对象必须是墙体且垂直排列"
 
 #: bim/module/model/covering.py
 #: bim/module/model/space.py
 #: bim/module/boundary/operator.py
 msgid "NO ACTIVE STOREY"
-msgstr ""
+msgstr "无活动楼层"
 
 #: bim/module/model/covering.py
 #: bim/module/model/space.py
 msgid "No active object. Please select a wall"
-msgstr ""
+msgstr "没有活动对象。请选择一堵墙"
 
 #: bim/module/model/covering.py
 #: bim/module/model/space.py
 msgid "The active object is not a wall. Please select a wall."
-msgstr ""
+msgstr "活动对象不是墙。请选择一堵墙."
 
 #: bim/module/model/covering.py
 #: bim/module/model/space.py
 msgid "The wall is not contained."
-msgstr ""
+msgstr "该墙体未被包含."
 
 #: bim/module/model/covering.py
 #: bim/module/model/space.py
 msgid "No selected objects found. Please select walls."
-msgstr ""
+msgstr "未找到选定对象。请选择墙体."
 
 #: bim/module/model/wall.py
 msgctxt "Operator"
 msgid "Join Wall"
-msgstr ""
+msgstr "连接墙体"
 
 #: bim/module/model/wall.py
 msgctxt "Operator"
 msgid "Align Wall"
-msgstr ""
+msgstr "对齐墙体"
 
 #: bim/module/model/wall.py
 msgctxt "Operator"
 msgid "Flip Wall"
-msgstr ""
+msgstr "翻转墙体"
 
 #: bim/module/model/wall.py
 msgctxt "Operator"
 msgid "Split Wall"
-msgstr ""
+msgstr "拆分墙体"
 
 #: bim/module/model/wall.py
 msgctxt "Operator"
 msgid "Merge Wall"
-msgstr ""
+msgstr "合并墙体"
 
 #: bim/module/model/wall.py
 msgctxt "Operator"
 msgid "Recalculate Wall"
-msgstr ""
+msgstr "重新计算墙体"
 
 #: bim/module/model/wall.py
 msgctxt "Operator"
 msgid "Change Extrusion Depth"
-msgstr ""
+msgstr "改变拉伸深度"
 
 #: bim/module/model/wall.py
 msgctxt "Operator"
 msgid "Change Extrusion X Angle"
-msgstr ""
+msgstr "改变拉伸 X 角度"
 
 #: bim/module/model/wall.py
 msgctxt "Operator"
 msgid "Change Layer Length"
-msgstr ""
+msgstr "改变层长度"
 
 #: bim/module/model/wall.py
 #: bim/module/boundary/operator.py
@@ -1796,19 +1796,19 @@ msgstr ""
 
 #: bim/module/model/wall.py
 msgid "Switch the origin from the min XY corner to the max XY corner, and rotates the origin by 180"
-msgstr ""
+msgstr "将原点从最小 XY 角切换到最大 XY 角，并旋转原点 180 度"
 
 #: bim/module/model/wall.py
 msgid "Merge selected walls into one object"
-msgstr ""
+msgstr "将选中的墙体合并为一个对象"
 
 #: bim/module/model/prop.py
 msgid "Construction Class"
-msgstr ""
+msgstr "施工类别"
 
 #: bim/module/model/prop.py
 msgid "Type Page"
-msgstr ""
+msgstr "类型页面"
 
 #: bim/module/model/prop.py
 #: bim/module/system/prop.py
@@ -1816,389 +1816,389 @@ msgstr ""
 #: bim/module/profile/prop.py
 #: bim/module/unit/prop.py
 msgid "IFC Class"
-msgstr ""
+msgstr "IFC 类"
 
 #: bim/module/model/prop.py
 #: bim/module/root/prop.py
 msgid "Predefined Type"
-msgstr ""
+msgstr "预定义类型"
 
 #: bim/module/model/prop.py
 msgid "Boundary Class"
-msgstr ""
+msgstr "边界类别"
 
 #: bim/module/model/prop.py
 msgid "Count"
-msgstr ""
+msgstr "数量"
 
 #: bim/module/model/prop.py
 msgid "Number of Treads"
-msgstr ""
+msgstr "踏步数量"
 
 #: bim/module/model/prop.py
 msgid "Tread Run"
-msgstr ""
+msgstr "踏步跨度"
 
 #: bim/module/model/prop.py
 msgid "Base Slab Depth"
-msgstr ""
+msgstr "基础板深度"
 
 #: bim/module/model/prop.py
 msgid "Top Slab Depth"
-msgstr ""
+msgstr "顶板深度"
 
 #: bim/module/model/prop.py
 msgid "Has Top Nib"
-msgstr ""
+msgstr "是否有顶端突出部分"
 
 #: bim/module/model/prop.py
 msgid "Node Group"
-msgstr ""
+msgstr "节点组"
 
 #: bim/module/model/prop.py
 msgid "Overall Height"
-msgstr ""
+msgstr "总体高度"
 
 #: bim/module/model/prop.py
 msgid "Overall Width"
-msgstr ""
+msgstr "总体宽度"
 
 #: bim/module/model/prop.py
 msgid "Lining Depth"
-msgstr ""
+msgstr "内衬深度"
 
 #: bim/module/model/prop.py
 msgid "Lining Thickness"
-msgstr ""
+msgstr "内衬厚度"
 
 #: bim/module/model/prop.py
 msgid "Lining Offset"
-msgstr ""
+msgstr "内衬偏移"
 
 #: bim/module/model/prop.py
 msgid "Mullion Thickness"
-msgstr ""
+msgstr "竖框厚度"
 
 #: bim/module/model/prop.py
 msgid "Transom Thickness"
-msgstr ""
+msgstr "横框厚度"
 
 #: bim/module/model/prop.py
 msgid "Frame Depth"
-msgstr ""
+msgstr "框架深度"
 
 #: bim/module/model/prop.py
 msgid "Door Operation Type"
-msgstr ""
+msgstr "门开启类型"
 
 #: bim/module/model/prop.py
 msgid "Casing Depth"
-msgstr ""
+msgstr "门套深度"
 
 #: bim/module/model/prop.py
 msgid "Threshold Depth"
-msgstr ""
+msgstr "门槛深度"
 
 #: bim/module/model/prop.py
 msgid "Panel Depth"
-msgstr ""
+msgstr "面板深度"
 
 #: bim/module/model/prop.py
 msgid "Window Frame Thickness"
-msgstr ""
+msgstr "窗框厚度"
 
 #: bim/module/model/prop.py
 msgid "Window Frame Depth"
-msgstr ""
+msgstr "窗框深度"
 
 #: bim/module/model/prop.py
 msgid "Railing Type"
-msgstr ""
+msgstr "栏杆类型"
 
 #: bim/module/model/prop.py
 msgid "Thickness"
-msgstr ""
+msgstr "厚度"
 
 #: bim/module/model/prop.py
 msgid "Spacing"
-msgstr ""
+msgstr "间距"
 
 #: bim/module/model/prop.py
 msgid "Railing Diameter"
-msgstr ""
+msgstr "栏杆直径"
 
 #: bim/module/model/prop.py
 msgid "Terminal Type"
-msgstr ""
+msgstr "终端类型"
 
 #: bim/module/model/prop.py
 msgid "Roof Type"
-msgstr ""
+msgstr "屋顶类型"
 
 #: bim/module/model/prop.py
 msgid "Roof Thickness"
-msgstr ""
+msgstr "屋顶厚度"
 
 #: bim/module/model/prop.py
 msgid "Rafter Edge Angle"
-msgstr ""
+msgstr "椽边角度"
 
 #: bim/module/model/space.py
 msgctxt "Operator"
 msgid "Generate Space"
-msgstr ""
+msgstr "生成空间"
 
 #: bim/module/model/space.py
 msgctxt "Operator"
 msgid "Generate Spaces From Walls"
-msgstr ""
+msgstr "从墙体生成空间"
 
 #: bim/module/model/space.py
 msgctxt "Operator"
 msgid "Toggle Space Visibility"
-msgstr ""
+msgstr "切换空间可见性"
 
 #: bim/module/model/space.py
 msgctxt "Operator"
 msgid "Toggle Hide Spaces"
-msgstr ""
+msgstr "切换隐藏空间"
 
 #: bim/module/model/space.py
 msgid "Create a space from the cursor position. Move the cursor position into the desired position, select the right space collection and run the operator"
-msgstr ""
+msgstr "从光标位置创建空间。将光标移动到期望位置，选择正确的空间集合，然后运行该操作"
 
 #: bim/module/model/space.py
 msgid "Generate spaces from selected walls. The active object must be a wall"
-msgstr ""
+msgstr "从选中的墙体生成空间。活动对象必须是墙体"
 
 #: bim/module/model/space.py
 msgid "Change the space visibility"
-msgstr ""
+msgstr "改变空间可见性"
 
 #: bim/module/model/space.py
 msgid "Hide or Unhide all spaces"
-msgstr ""
+msgstr "隐藏或显示所有空间"
 
 #: bim/module/model/profile.py
 msgctxt "Operator"
 msgid "Extend Profile"
-msgstr ""
+msgstr "扩展型材"
 
 #: bim/module/model/profile.py
 msgctxt "Operator"
 msgid "Recalculate Profile"
-msgstr ""
+msgstr "重新计算型材"
 
 #: bim/module/model/profile.py
 msgctxt "Operator"
 msgid "Change Profile Length"
-msgstr ""
+msgstr "改变型材长度"
 
 #: bim/module/model/profile.py
 msgctxt "Operator"
 msgid "Change Cardinal Point"
-msgstr ""
+msgstr "改变基准点"
 
 #: bim/module/model/profile.py
 msgctxt "Operator"
 msgid "Rotate 90"
-msgstr ""
+msgstr "旋转 90度"
 
 #: bim/module/model/profile.py
 msgctxt "Operator"
 msgid "Set MEP segment Material Profile"
-msgstr ""
+msgstr "设置 MEP 段材质型材"
 
 #: bim/module/model/profile.py
 msgctxt "Operator"
 msgid "Enable Editing Extrusion Axis"
-msgstr ""
+msgstr "启用编辑挤出轴"
 
 #: bim/module/model/profile.py
 msgctxt "Operator"
 msgid "Disable Editing Extrusion Axis"
-msgstr ""
+msgstr "禁用编辑挤出轴"
 
 #: bim/module/model/profile.py
 msgctxt "Operator"
 msgid "Edit Extrusion Axis"
-msgstr ""
+msgstr "编辑挤出轴"
 
 #: bim/module/model/sverchok_modifier.py
 msgctxt "Operator"
 msgid "Create New Sverchok Graph"
-msgstr ""
+msgstr "创建新的 Sverchok 图"
 
 #: bim/module/model/sverchok_modifier.py
 msgctxt "Operator"
 msgid "Delete Selected Sverchok Graph"
-msgstr ""
+msgstr "删除选定的 Sverchok 图"
 
 #: bim/module/model/sverchok_modifier.py
 msgctxt "Operator"
 msgid "Update Data From Sverchok"
-msgstr ""
+msgstr "从 Sverchok 更新数据"
 
 #: bim/module/model/sverchok_modifier.py
 msgctxt "Operator"
 msgid "Import Sverchok Graph"
-msgstr ""
+msgstr "导入 Sverchok 图"
 
 #: bim/module/model/sverchok_modifier.py
 msgctxt "Operator"
 msgid "Export Sverchok Graph"
-msgstr ""
+msgstr "导出 Sverchok 图"
 
 #: bim/module/model/sverchok_modifier.py
 msgid "WARNING. The graph will be removed permanently."
-msgstr ""
+msgstr "警告：该图将被永久删除。"
 
 #: bim/module/model/sverchok_modifier.py
 msgid "WARNING. Sverchok data will be emptied"
-msgstr ""
+msgstr "警告：Sverchok 数据将被清空"
 
 #: bim/module/model/sverchok_modifier.py
 msgid "because no sverchok node group is selected."
-msgstr ""
+msgstr "因为未选择任何 Sverchok 节点组。"
 
 #: bim/module/model/sverchok_modifier.py
 msgid "Destination tree to import JSON:"
-msgstr ""
+msgstr "导入 JSON 的目标树："
 
 #: bim/module/model/sverchok_modifier.py
 msgid "Create ZIP archive"
-msgstr ""
+msgstr "创建 ZIP 压缩包"
 
 #: bim/module/model/slab.py
 msgctxt "Operator"
 msgid "Enable Editing Sketch Extrusion Profile"
-msgstr ""
+msgstr "启用编辑草图挤出型材"
 
 #: bim/module/model/slab.py
 msgctxt "Operator"
 msgid "Edit Sketch Extrusion Profile"
-msgstr ""
+msgstr "编辑草图挤出型材"
 
 #: bim/module/model/slab.py
 msgctxt "Operator"
 msgid "Disable Editing Sketch Extrusion Profile"
-msgstr ""
+msgstr "禁用编辑草图挤出型材"
 
 #: bim/module/model/slab.py
 msgctxt "Operator"
 msgid "Disable Editing Extrusion Profile"
-msgstr ""
+msgstr "禁用编辑挤出型材"
 
 #: bim/module/model/slab.py
 msgctxt "Operator"
 msgid "Enable Editing Extrusion Profile"
-msgstr ""
+msgstr "启用编辑挤出型材"
 
 #: bim/module/model/slab.py
 msgctxt "Operator"
 msgid "Edit Extrusion Profile"
-msgstr ""
+msgstr "编辑挤出型材"
 
 #: bim/module/model/slab.py
 #: bim/module/cad/workspace.py
 msgctxt "Operator"
 msgid "Reset Vertex"
-msgstr ""
+msgstr "重置顶点"
 
 #: bim/module/model/slab.py
 msgctxt "Operator"
 msgid "Set Arc Index"
-msgstr ""
+msgstr "设置弧索引"
 
 #: bim/module/model/slab.py
 #: bim/module/boundary/operator.py
 msgid "INVALID PROFILE"
-msgstr ""
+msgstr "无效型材"
 
 #: bim/module/model/opening.py
 msgctxt "Operator"
 msgid "Add Filled Opening"
-msgstr ""
+msgstr "添加填充开口"
 
 #: bim/module/model/opening.py
 msgctxt "Operator"
 msgid "Recalculate Fill"
-msgstr ""
+msgstr "重新计算填充"
 
 #: bim/module/model/opening.py
 msgctxt "Operator"
 msgid "Flip Fill"
-msgstr ""
+msgstr "翻转填充"
 
 #: bim/module/model/opening.py
 msgctxt "Operator"
 msgid "Add Potential Opening"
-msgstr ""
+msgstr "添加潜在开口"
 
 #: bim/module/model/opening.py
 msgctxt "Operator"
 msgid "Add Potential Half Space Solid"
-msgstr ""
+msgstr "添加潜在半空间实体"
 
 #: bim/module/model/opening.py
 msgctxt "Operator"
 msgid "Add Boolean"
-msgstr ""
+msgstr "添加布尔运算"
 
 #: bim/module/model/opening.py
 msgctxt "Operator"
 msgid "Show Booleans"
-msgstr ""
+msgstr "显示布尔运算"
 
 #: bim/module/model/opening.py
 msgctxt "Operator"
 msgid "Hide Booleans"
-msgstr ""
+msgstr "隐藏布尔运算"
 
 #: bim/module/model/opening.py
 msgctxt "Operator"
 msgid "Remove Booleans"
-msgstr ""
+msgstr "移除布尔运算"
 
 #: bim/module/model/opening.py
 msgctxt "Operator"
 msgid "Show Openings"
-msgstr ""
+msgstr "显示开口"
 
 #: bim/module/model/opening.py
 msgctxt "Operator"
 msgid "Hide Openings"
-msgstr ""
+msgstr "隐藏开口"
 
-#: bim/module/model/opening.py
+#: bim/module/opening.py
 msgctxt "Operator"
 msgid "Edit Openings"
-msgstr ""
+msgstr "编辑开口"
 
 #: bim/module/model/opening.py
 msgid "Applies a boolean to the selected IFC object using the other selected blender object as a void"
-msgstr ""
+msgstr "对选定的 IFC 对象应用布尔运算，将另一个选定的 Blender 对象用作空洞"
 
 #: bim/module/model/opening.py
 msgid "Create and assign to the selected element the selected opening and assign to it the same representation and object placement"
-msgstr ""
+msgstr "为选定的元素创建并分配选定的开口，并赋予其相同的表示和对象放置"
 
 #: bim/module/model/pie.py
 msgctxt "Operator"
 msgid "Open Pie Class"
-msgstr ""
+msgstr "打开 Pie 类"
 
 #: bim/module/model/pie.py
 #: bim/module/void/operator.py
 #: bim/module/void/ui.py
 msgctxt "Operator"
 msgid "Add Opening"
-msgstr ""
+msgstr "添加开口"
 
 #: bim/module/model/pie.py
 msgctxt "Operator"
 msgid "Update Spatial Container"
-msgstr ""
+msgstr "更新空间容器"
 
 #: bim/module/model/pie.py
 #: bim/module/system/prop.py
@@ -2209,295 +2209,295 @@ msgstr ""
 #: bim/module/style/ui.py
 msgctxt "Operator"
 msgid "Class"
-msgstr ""
+msgstr "类别"
 
 #: bim/module/model/pie.py
 #: bim/module/root/operator.py
 msgid "Assign IFC Class"
-msgstr ""
+msgstr "分配 IFC 类"
 
 #: bim/module/model/pie.py
 msgid "Assign Aggregation"
-msgstr ""
+msgstr "分配聚合"
 
 #: bim/module/model/pie.py
 msgid "Unassign Aggregation"
-msgstr ""
+msgstr "取消聚合分配"
 
 #: bim/module/model/pie.py
 msgid "IfcWall"
-msgstr ""
+msgstr "IfcWall"
 
 #: bim/module/model/pie.py
 msgid "IfcSlab"
-msgstr ""
+msgstr "IfcSlab"
 
 #: bim/module/model/pie.py
 msgid "IfcStair"
-msgstr ""
+msgstr "IfcStair"
 
 #: bim/module/model/pie.py
 msgid "IfcDoor"
-msgstr ""
+msgstr "IfcDoor"
 
 #: bim/module/model/pie.py
 msgid "IfcWindow"
-msgstr ""
+msgstr "IfcWindow"
 
 #: bim/module/model/pie.py
 msgid "IfcColumn"
-msgstr ""
+msgstr "IfcColumn"
 
 #: bim/module/model/pie.py
 msgid "IfcBeam"
-msgstr ""
+msgstr "IfcBeam"
 
 #: bim/module/model/door.py
 msgctxt "Operator"
 msgid "Add Door"
-msgstr ""
+msgstr "添加门"
 
 #: bim/module/model/door.py
 msgctxt "Operator"
 msgid "Cancel Editing Door"
-msgstr ""
+msgstr "取消门编辑"
 
 #: bim/module/model/door.py
 msgctxt "Operator"
 msgid "Finish Editing Door"
-msgstr ""
+msgstr "完成门编辑"
 
 #: bim/module/model/door.py
 msgctxt "Operator"
 msgid "Enable Editing Door"
-msgstr ""
+msgstr "启用门编辑"
 
 #: bim/module/model/door.py
 msgctxt "Operator"
 msgid "Remove Door"
-msgstr ""
+msgstr "移除门"
 
 #: bim/module/model/door.py
 msgid "You need to start IFC project first to create a door."
-msgstr ""
+msgstr "您需要先启动 IFC 项目以创建门."
 
 #: bim/module/debug/operator.py
 msgctxt "Operator"
 msgid "Copy Debug Information"
-msgstr ""
+msgstr "复制调试信息"
 
 #: bim/module/debug/operator.py
 msgctxt "Operator"
 msgid "Print IFC File"
-msgstr ""
+msgstr "打印 IFC 文件"
 
 #: bim/module/debug/operator.py
 msgctxt "Operator"
 msgid "Purge IFC Links"
-msgstr ""
+msgstr "清除 IFC 链接"
 
 #: bim/module/debug/operator.py
 msgctxt "Operator"
 msgid "Convert To Blender File"
-msgstr ""
+msgstr "转换为 Blender 文件"
 
 #: bim/module/debug/operator.py
 msgctxt "Operator"
 msgid "Validate IFC File"
-msgstr ""
+msgstr "验证 IFC 文件"
 
 #: bim/module/debug/operator.py
 msgctxt "Operator"
 msgid "Profile Import IFC"
-msgstr ""
+msgstr "导入 IFC 型材"
 
 #: bim/module/debug/operator.py
 msgctxt "Operator"
 msgid "Test All Shapes"
-msgstr ""
+msgstr "测试所有形状"
 
 #: bim/module/debug/operator.py
 msgctxt "Operator"
 msgid "Create Shape From STEP ID"
-msgstr ""
+msgstr "从 STEP ID 创建形状"
 
 #: bim/module/debug/operator.py
 msgctxt "Operator"
 msgid "Select High Polygon Meshes"
-msgstr ""
+msgstr "选择高多边形网格"
 
 #: bim/module/debug/operator.py
 msgctxt "Operator"
 msgid "Select Highest Polygon Meshes"
-msgstr ""
+msgstr "选择最高多边形网格"
 
 #: bim/module/debug/operator.py
 msgctxt "Operator"
 msgid "Rewind Inspector"
-msgstr ""
+msgstr "重置检视器"
 
 #: bim/module/debug/operator.py
 msgctxt "Operator"
 msgid "Inspect From STEP ID"
-msgstr ""
+msgstr "从 STEP ID 检查"
 
 #: bim/module/debug/operator.py
 msgctxt "Operator"
 msgid "Inspect From Object"
-msgstr ""
+msgstr "从对象检查"
 
 #: bim/module/debug/operator.py
 msgctxt "Operator"
 msgid "Print Object Placement"
-msgstr ""
+msgstr "打印对象放置"
 
 #: bim/module/debug/operator.py
 msgctxt "Operator"
 msgid "Parse Express"
-msgstr ""
+msgstr "解析 EXPRESS"
 
 #: bim/module/debug/operator.py
 msgctxt "Operator"
 msgid "Select Express File"
-msgstr ""
+msgstr "选择 EXPRESS 文件"
 
 #: bim/module/debug/operator.py
 msgctxt "Operator"
 msgid "Purge HDF5 Cache"
-msgstr ""
+msgstr "清除 HDF5 缓存"
 
 #: bim/module/debug/operator.py
 msgctxt "Operator"
 msgid "Override Display Type"
-msgstr ""
+msgstr "覆盖显示类型"
 
 #: bim/module/debug/operator.py
 msgctxt "Operator"
 msgid "Print Unused Elements Stats"
-msgstr ""
+msgstr "打印未使用元素统计"
 
 #: bim/module/debug/operator.py
 msgctxt "Operator"
 msgid "Purge Unused Elements By Class"
-msgstr ""
+msgstr "按类别清除未使用元素"
 
 #: bim/module/debug/operator.py
 msgid "Copies debugging information to your clipboard for use in bugreports"
-msgstr ""
+msgstr "将调试信息复制到剪贴板，以用于错误报告"
 
 #: bim/module/debug/operator.py
 msgid "Prints the file contents in the system console.\nAccess it with Window > Toggle System Console"
-msgstr ""
+msgstr "在系统控制台中打印文件内容。\n通过 Window > Toggle System Console 访问"
 
 #: bim/module/debug/operator.py
 msgid "Purge all definitions and references from the file.\nWarning : Cannot be undone."
-msgstr ""
+msgstr "清除文件中的所有定义和引用。\n警告：此操作不可撤销。"
 
 #: bim/module/debug/operator.py
 msgid "Removes all IFC data, and converts the file to a simple Blender file."
-msgstr ""
+msgstr "移除所有 IFC 数据，并将文件转换为简单的 Blender 文件。"
 
 #: bim/module/debug/operator.py
 msgid "Look for errors in all the shapes contained in the file"
-msgstr ""
+msgstr "查找文件中所有形状的错误"
 
 #: bim/module/debug/operator.py
 msgid "Recreate a mesh object from a STEP ID"
-msgstr ""
+msgstr "根据 STEP ID 重新创建网格对象"
 
 #: bim/module/debug/operator.py
 msgid "Select objects containing more polygons than the specified number"
-msgstr ""
+msgstr "选择多边形数量超过指定数值的对象"
 
 #: bim/module/debug/operator.py
 msgid "Select objects with a number of polygons superior to the specified percentile"
-msgstr ""
+msgstr "选择多边形数量高于指定百分位的对象"
 
 #: bim/module/debug/operator.py
 msgid "Rewind the Inspector to the previously inspected element"
-msgstr ""
+msgstr "将检视器重置到之前检查的元素"
 
 #: bim/module/debug/operator.py
 msgid "Inspect the attributes and references by looking up the specified STEP ID"
-msgstr ""
+msgstr "通过查找指定的 STEP ID 检查属性和引用"
 
 #: bim/module/debug/operator.py
 msgid "Inspect the Active Object's attributes and references"
-msgstr ""
+msgstr "检查活动对象的属性和引用"
 
 #: bim/module/debug/operator.py
 msgid "Select an IFC EXPRESS definition"
-msgstr ""
+msgstr "选择一个 IFC EXPRESS 定义"
 
 #: bim/module/debug/operator.py
 msgid "\n"
-msgstr ""
+msgstr "\n"
 
 #: bim/module/debug/operator.py
 msgid "Create Empty Object"
-msgstr ""
+msgstr "创建空对象"
 
 #: bim/module/debug/operator.py
 msgid "Arrow Size"
-msgstr ""
+msgstr "箭头大小"
 
 #: bim/module/debug/operator.py
 msgid "Ignore Contexts"
-msgstr ""
+msgstr "忽略上下文"
 
 #: bim/module/debug/operator.py
 msgid "Ignore Relationships"
-msgstr ""
+msgstr "忽略关系"
 
 #: bim/module/debug/operator.py
 msgid "Ignore Types"
-msgstr ""
+msgstr "忽略类型"
 
 #: bim/module/debug/operator.py
 msgid "Ignoer Styled Items"
-msgstr ""
+msgstr "忽略样式项"
 
 #: bim/module/debug/operator.py
 msgid "Check validation results in the system console."
-msgstr ""
+msgstr "在系统控制台检查验证结果。"
 
 #: bim/module/debug/operator.py
 msgid "No validation issues found."
-msgstr ""
+msgstr "未发现验证问题。"
 
 #: bim/module/debug/ui.py
 msgctxt "Operator"
 msgid "Debug"
-msgstr ""
+msgstr "调试"
 
 #: bim/module/debug/ui.py
 msgid "Incrementally Reload Changes"
-msgstr ""
+msgstr "增量重新加载更改"
 
 #: bim/module/debug/ui.py
 #: bim/module/geometry/ui.py
 msgid "Manually Save Representation"
-msgstr ""
+msgstr "手动保存表示"
 
 #: bim/module/debug/ui.py
 msgid "Purge Orphaned"
-msgstr ""
+msgstr "清除孤立数据"
 
 #: bim/module/debug/ui.py
 msgid "Inspector:"
-msgstr ""
+msgstr "检视器："
 
 #: bim/module/debug/ui.py
 msgid "Direct attributes:"
-msgstr ""
+msgstr "直接属性："
 
 #: bim/module/debug/ui.py
 msgid "Inverse attributes:"
-msgstr ""
+msgstr "反向属性："
 
 #: bim/module/debug/ui.py
 msgid "Inverse references:"
-msgstr ""
+msgstr "反向引用："
 
 #: bim/module/debug/prop.py
 msgid "Number of Polygons"
