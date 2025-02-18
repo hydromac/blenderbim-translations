@@ -8003,5219 +8003,5218 @@ msgstr "添加成本列"
 #: bim/module/cost/operator.py
 msgctxt "Operator"
 msgid "Remove Cost Column"
-msgstr ""
+msgstr "移除成本列"
 
 #: bim/module/cost/operator.py
 msgctxt "Operator"
 msgid "Load Cost Item Quantities"
-msgstr ""
+msgstr "加载成本项数量"
 
 #: bim/module/cost/operator.py
 msgctxt "Operator"
 msgid "Load Cost Item Element Quantities"
-msgstr ""
+msgstr "加载成本项元素数量"
 
 #: bim/module/cost/operator.py
 msgctxt "Operator"
 msgid "Load Cost Item Task Quantities"
-msgstr ""
+msgstr "加载成本项任务数量"
 
 #: bim/module/cost/operator.py
 msgctxt "Operator"
 msgid "Load Cost Item Resource Quantities"
-msgstr ""
+msgstr "加载成本项资源数量"
 
 #: bim/module/cost/operator.py
 msgctxt "Operator"
 msgid "Load Cost Item Types"
-msgstr ""
+msgstr "加载成本项类型"
 
 #: bim/module/cost/operator.py
 msgctxt "Operator"
 msgid "Assign Cost Rate Value"
-msgstr ""
+msgstr "分配成本费率值"
 
 #: bim/module/cost/operator.py
 msgctxt "Operator"
 msgid "Load Schedule of Rates"
-msgstr ""
+msgstr "加载费率表"
 
 #: bim/module/cost/operator.py
 msgctxt "Operator"
 msgid "Expand Cost Item Rate"
-msgstr ""
+msgstr "展开成本项费率"
 
 #: bim/module/cost/operator.py
 msgctxt "Operator"
 msgid "Contract Cost Item Rate"
-msgstr ""
+msgstr "折叠成本项费率"
 
 #: bim/module/cost/operator.py
 msgctxt "Operator"
 msgid "Calculate Cost Item Resource Value"
-msgstr ""
+msgstr "计算成本项资源数值"
 
 #: bim/module/cost/operator.py
 msgctxt "Operator"
 msgid "Export Cost Schedule"
-msgstr ""
+msgstr "导出成本进度表"
 
 #: bim/module/cost/operator.py
 msgctxt "Operator"
 msgid "Clear Cost Item Product Assignments"
-msgstr ""
+msgstr "清除成本项产品分配"
 
 #: bim/module/cost/operator.py
 msgctxt "Operator"
 msgid "Get Product Cost Assignments"
-msgstr ""
+msgstr "获取产品成本分配"
 
 #: bim/module/cost/operator.py
 msgctxt "Operator"
 msgid "Highlight Product Cost Items"
-msgstr ""
+msgstr "高亮显示产品成本项"
 
 #: bim/module/cost/operator.py
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Reorder Nesting"
-msgstr ""
+msgstr "重新排序嵌套"
 
 #: bim/module/cost/operator.py
 msgctxt "Operator"
 msgid "Select Unassigned Products"
-msgstr ""
+msgstr "选择未分配产品"
 
 #: bim/module/cost/operator.py
 msgctxt "Operator"
 msgid "Change Parent Cost Item"
-msgstr ""
+msgstr "更改父成本项"
 
 #: bim/module/cost/operator.py
 msgctxt "Operator"
 msgid "Add Currency"
-msgstr ""
+msgstr "添加货币"
 
 #: bim/module/cost/operator.py
 msgid "Add a new cost schedule"
-msgstr ""
+msgstr "添加新的成本进度表"
 
 #: bim/module/cost/operator.py
 msgid "Enable editing cost schedule"
-msgstr ""
+msgstr "启用成本进度表编辑"
 
 #: bim/module/cost/operator.py
 msgid "Add a summary cost item"
-msgstr ""
+msgstr "添加汇总成本项"
 
 #: bim/module/cost/operator.py
 msgid "Add a new cost item"
-msgstr ""
+msgstr "添加新的成本项"
 
 #: bim/module/cost/operator.py
 msgid "Copy a cost item"
-msgstr ""
+msgstr "复制成本项"
 
 #: bim/module/cost/operator.py
 msgid "Expand this cost item"
-msgstr ""
+msgstr "展开此成本项"
 
 #: bim/module/cost/operator.py
 msgid "Expand all cost items"
-msgstr ""
+msgstr "展开所有成本项"
 
 #: bim/module/cost/operator.py
 msgid "Contract a cost item"
-msgstr ""
+msgstr "折叠成本项"
 
 #: bim/module/cost/operator.py
 msgid "Collapse cost item tree"
-msgstr ""
+msgstr "折叠成本项树"
 
 #: bim/module/cost/operator.py
 msgid "Unassign cost item quantity"
-msgstr ""
+msgstr "取消分配成本项数量"
 
 #: bim/module/cost/operator.py
 msgid "Enable editing cost item quantities"
-msgstr ""
+msgstr "启用成本项数量编辑"
 
 #: bim/module/cost/operator.py
 msgid "Enable editing cost item values"
-msgstr ""
+msgstr "启用成本项数值编辑"
 
 #: bim/module/cost/operator.py
 msgid "Add cost item quantity"
-msgstr ""
+msgstr "添加成本项数量"
 
 #: bim/module/cost/operator.py
 msgid "Remove cost item quantity"
-msgstr ""
+msgstr "移除成本项数量"
 
 #: bim/module/cost/operator.py
 msgid "Enable editing cost item quantity"
-msgstr ""
+msgstr "启用成本项数量编辑"
 
 #: bim/module/cost/operator.py
 msgid "Disable editing cost item quantity"
-msgstr ""
+msgstr "禁用成本项数量编辑"
 
 #: bim/module/cost/operator.py
 msgid "Export a cost schedule to a CSV, XSLX OR ODS file"
-msgstr ""
+msgstr "将成本进度表导出为 CSV、XSLX 或 ODS 文件"
 
 #: bim/module/cost/operator.py
 #: bim/module/sequence/operator.py
 msgid "Object type"
-msgstr ""
+msgstr "对象类型"
 
 #: bim/module/cost/operator.py
 msgid "Choose a format"
-msgstr ""
+msgstr "选择格式"
 
 #: bim/module/cost/operator.py
 msgid "Is Schedule Of Rates"
-msgstr ""
+msgstr "是否为费率表"
 
 #: bim/module/cost/ui.py
 msgctxt "Operator"
 msgid "Cost Schedules"
-msgstr ""
+msgstr "成本进度表"
 
 #: bim/module/cost/ui.py
 msgctxt "Operator"
 msgid "Cost Item Types"
-msgstr ""
+msgstr "成本项类型"
 
 #: bim/module/cost/ui.py
 msgctxt "Operator"
 msgid "Cost Item Quantities"
-msgstr ""
+msgstr "成本项数量"
 
 #: bim/module/cost/ui.py
 #: bim/module/cost/prop.py
 msgctxt "Operator"
 msgid "Cost Item Rates"
-msgstr ""
+msgstr "成本项费率"
 
 #: bim/module/cost/ui.py
 msgctxt "Operator"
 msgid "5D Tools"
-msgstr ""
+msgstr "5D 工具"
 
 #: bim/module/cost/ui.py
 msgid "Export All Schedules"
-msgstr ""
+msgstr "导出所有进度表"
 
 #: bim/module/cost/ui.py
 msgid "No Cost Schedules found."
-msgstr ""
+msgstr "未找到成本进度表。"
 
 #: bim/module/cost/ui.py
 #: bim/module/sequence/ui.py
 msgid "Schedule tools"
-msgstr ""
+msgstr "进度表工具"
 
 #: bim/module/cost/ui.py
 msgid "Export"
-msgstr ""
+msgstr "导出"
 
 #: bim/module/cost/ui.py
 msgid "Assigned"
-msgstr ""
+msgstr "已分配"
 
 #: bim/module/cost/ui.py
 msgid "Unassigned"
-msgstr ""
+msgstr "未分配"
 
 #: bim/module/cost/ui.py
 #: bim/module/sequence/ui.py
 msgid "Settings"
-msgstr ""
+msgstr "设置"
 
 #: bim/module/cost/ui.py
 msgid "Project Currency"
-msgstr ""
+msgstr "项目货币"
 
 #: bim/module/cost/ui.py
 #: bim/module/sequence/ui.py
 msgid "Schedule Columns"
-msgstr ""
+msgstr "进度表列"
 
 #: bim/module/cost/ui.py
 msgid "Disable Editing"
-msgstr ""
+msgstr "禁用编辑"
 
 #: bim/module/cost/ui.py
 msgid "No currency set"
-msgstr ""
+msgstr "未设置货币"
 
 #: bim/module/cost/ui.py
 msgid "Cost Item Tools"
-msgstr ""
+msgstr "成本项工具"
 
 #: bim/module/cost/ui.py
 msgid "Add Summary Cost"
-msgstr ""
+msgstr "添加汇总成本"
 
 #: bim/module/cost/ui.py
 #: bim/module/sequence/ui.py
 msgid "Expand All"
-msgstr ""
+msgstr "展开全部"
 
 #: bim/module/cost/ui.py
 #: bim/module/sequence/ui.py
 msgid "Contract All"
-msgstr ""
+msgstr "折叠全部"
 
 #: bim/module/cost/ui.py
 #: bim/module/sequence/ui.py
 msgid "Copy"
-msgstr ""
+msgstr "复制"
 
 #: bim/module/cost/ui.py
 #: bim/module/sequence/ui.py
 #: bim/module/spatial/ui.py
 msgid "Delete"
-msgstr ""
+msgstr "删除"
 
 #: bim/module/cost/ui.py
 msgid "Add Value"
-msgstr ""
+msgstr "添加数值"
 
 #: bim/module/cost/ui.py
 msgid "Elements"
-msgstr ""
+msgstr "元素"
 
 #: bim/module/cost/ui.py
 #: bim/module/sequence/ui.py
 #: bim/module/sequence/prop.py
 msgid "Tasks"
-msgstr ""
+msgstr "任务"
 
 #: bim/module/cost/ui.py
 msgid "Show nested"
-msgstr ""
+msgstr "显示嵌套"
 
 #: bim/module/cost/ui.py
 msgid "Clear assignments"
-msgstr ""
+msgstr "清除分配"
 
 #: bim/module/cost/ui.py
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #: bim/module/cost/prop.py
 #: bim/module/resource/prop.py
 #: bim/module/sequence/prop.py
 #: bim/module/spatial/prop.py
 msgid "Level Index"
-msgstr ""
+msgstr "层级索引"
 
 #: bim/module/cost/prop.py
 msgid "Total Quantity"
-msgstr ""
+msgstr "总数量"
 
 #: bim/module/cost/prop.py
 msgid "Unit Symbol"
-msgstr ""
+msgstr "单位符号"
 
 #: bim/module/cost/prop.py
 msgid "Is Cost Update Enabled"
-msgstr ""
+msgstr "是否启用成本更新"
 
 #: bim/module/cost/prop.py
 msgid "Cost Schedule Attributes"
-msgstr ""
+msgstr "成本进度表属性"
 
 #: bim/module/cost/prop.py
 msgid "Active Cost Schedule Id"
-msgstr ""
+msgstr "激活的成本进度表 ID"
 
 #: bim/module/cost/prop.py
 msgid "Cost Items"
-msgstr ""
+msgstr "成本项"
 
 #: bim/module/cost/prop.py
 msgid "Active Cost Id"
-msgstr ""
+msgstr "激活的成本 ID"
 
 #: bim/module/cost/prop.py
 msgid "Cost Item Editing Type"
-msgstr ""
+msgstr "成本项编辑类型"
 
 #: bim/module/cost/prop.py
 msgid "Active Cost Item Index"
-msgstr ""
+msgstr "激活的成本项索引"
 
 #: bim/module/cost/prop.py
 #: bim/module/sequence/prop.py
 msgid "Task Attributes"
-msgstr ""
+msgstr "任务属性"
 
 #: bim/module/cost/prop.py
 msgid "Contracted Cost Items"
-msgstr ""
+msgstr "已折叠的成本项"
 
 #: bim/module/cost/prop.py
 #: bim/module/resource/prop.py
 msgid "Quantity Types"
-msgstr ""
+msgstr "数量类型"
 
 #: bim/module/cost/prop.py
 msgid "Product Quantity Names"
-msgstr ""
+msgstr "产品数量名称"
 
 #: bim/module/cost/prop.py
 msgid "Process Quantity Names"
-msgstr ""
+msgstr "工序数量名称"
 
 #: bim/module/cost/prop.py
 msgid "Resource Quantity Names"
-msgstr ""
+msgstr "资源数量名称"
 
 #: bim/module/cost/prop.py
 msgid "Active Cost Item Quantity Id"
-msgstr ""
+msgstr "激活的成本项数量 ID"
 
 #: bim/module/cost/prop.py
 #: bim/module/resource/prop.py
 msgid "Quantity Attributes"
-msgstr ""
+msgstr "数量属性"
 
 #: bim/module/cost/prop.py
 #: bim/module/resource/prop.py
 msgid "Cost Category"
-msgstr ""
+msgstr "成本类别"
 
 #: bim/module/cost/prop.py
 msgid "Fixed Cost Value"
-msgstr ""
+msgstr "固定成本数值"
 
 #: bim/module/cost/prop.py
 msgid "Active Cost Item Value Id"
-msgstr ""
+msgstr "激活的成本项数值 ID"
 
 #: bim/module/cost/prop.py
 #: bim/module/resource/prop.py
 msgid "Cost Value Editing Type"
-msgstr ""
+msgstr "成本数值编辑类型"
 
 #: bim/module/cost/prop.py
 #: bim/module/resource/prop.py
 msgid "Cost Value Attributes"
-msgstr ""
+msgstr "成本数值属性"
 
 #: bim/module/cost/prop.py
 #: bim/module/resource/prop.py
 msgid "Cost Value Formula"
-msgstr ""
+msgstr "成本数值公式"
 
 #: bim/module/cost/prop.py
 msgid "Cost Column"
-msgstr ""
+msgstr "成本列"
 
 #: bim/module/cost/prop.py
 #: bim/module/sequence/prop.py
 msgid "Should Show Column UI"
-msgstr ""
+msgstr "是否显示列界面"
 
 #: bim/module/cost/prop.py
 msgid "Should Show Currency UI"
-msgstr ""
+msgstr "是否显示货币界面"
 
 #: bim/module/cost/prop.py
 #: bim/module/sequence/prop.py
 msgid "Columns"
-msgstr ""
+msgstr "列"
 
 #: bim/module/cost/prop.py
 #: bim/module/sequence/prop.py
 msgid "Active Column Index"
-msgstr ""
+msgstr "激活的列索引"
 
 #: bim/module/cost/prop.py
 msgid "Cost Item Products"
-msgstr ""
+msgstr "成本项产品"
 
 #: bim/module/cost/prop.py
 msgid "Active Cost Item Product Index"
-msgstr ""
+msgstr "激活的成本项产品索引"
 
 #: bim/module/cost/prop.py
 msgid "Cost Item Processes"
-msgstr ""
+msgstr "成本项工序"
 
 #: bim/module/cost/prop.py
 msgid "Active Cost Item Process Index"
-msgstr ""
+msgstr "激活的成本项工序索引"
 
 #: bim/module/cost/prop.py
 msgid "Cost Item Resources"
-msgstr ""
+msgstr "成本项资源"
 
 #: bim/module/cost/prop.py
 msgid "Active Cost Item Resource Index"
-msgstr ""
+msgstr "激活的成本项资源索引"
 
 #: bim/module/cost/prop.py
 msgid "Cost Item Type Products"
-msgstr ""
+msgstr "成本项类型产品"
 
 #: bim/module/cost/prop.py
 msgid "Active Cost Item Type Product Index"
-msgstr ""
+msgstr "激活的成本项类型产品索引"
 
 #: bim/module/cost/prop.py
 msgid "Active Cost Rate Index"
-msgstr ""
+msgstr "激活的成本费率索引"
 
 #: bim/module/cost/prop.py
 msgid "Contracted Cost Item Rates"
-msgstr ""
+msgstr "折叠的成本项费率"
 
 #: bim/module/cost/prop.py
 msgid "Product Cost Items"
-msgstr ""
+msgstr "产品成本项"
 
 #: bim/module/cost/prop.py
 msgid "Active Product Cost Item Index"
-msgstr ""
+msgstr "激活的产品成本项索引"
 
 #: bim/module/cost/prop.py
 #: bim/module/sequence/prop.py
 msgid "Enable Reorder"
-msgstr ""
+msgstr "启用重新排序"
 
 #: bim/module/cost/prop.py
 #: bim/module/sequence/prop.py
 msgid "Show Nested Tasks"
-msgstr ""
+msgstr "显示嵌套任务"
 
 #: bim/module/cost/prop.py
 msgid "Change Cost Item Parent"
-msgstr ""
+msgstr "更改成本项父项"
 
 #: bim/module/cost/prop.py
 msgid "Show Cost Item Operators"
-msgstr ""
+msgstr "显示成本项操作"
 
 #: bim/module/cost/prop.py
 msgid "Currencies"
-msgstr ""
+msgstr "货币"
 
 #: bim/module/tester/operator.py
 msgctxt "Operator"
 msgid "Execute IfcTester"
-msgstr ""
+msgstr "执行 IfcTester"
 
 #: bim/module/tester/operator.py
 msgctxt "Operator"
 msgid "Select IDS"
-msgstr ""
+msgstr "选择 IDS"
 
 #: bim/module/tester/operator.py
 msgctxt "Operator"
 msgid "Select IfcTester IFC File"
-msgstr ""
+msgstr "选择 IfcTester IFC 文件"
 
 #: bim/module/tester/operator.py
 msgctxt "Operator"
 msgid "Select Specification"
-msgstr ""
+msgstr "选择规范"
 
 #: bim/module/tester/operator.py
 msgctxt "Operator"
 msgid "Select Failed Entities"
-msgstr ""
+msgstr "选择失败的实体"
 
 #: bim/module/tester/operator.py
 msgctxt "Operator"
 msgid "Select Entity"
-msgstr ""
+msgstr "选择实体"
 
 #: bim/module/tester/operator.py
 #: bim/module/tester/ui.py
 msgctxt "Operator"
 msgid "Export BCF"
-msgstr ""
+msgstr "导出 BCF"
 
 #: bim/module/tester/operator.py
 msgid "Finished exporting!"
-msgstr ""
+msgstr "导出完成！"
 
 #: bim/module/tester/ui.py
 msgctxt "Operator"
 msgid "IFC Tester"
-msgstr ""
+msgstr "IFC 测试器"
 
 #: bim/module/tester/prop.py
 msgid "IFC ID"
-msgstr ""
+msgstr "IFC ID"
 
 #: bim/module/tester/prop.py
 msgid "Element"
-msgstr ""
+msgstr "元素"
 
 #: bim/module/tester/prop.py
 msgid "Reason"
-msgstr ""
+msgstr "原因"
 
 #: bim/module/tester/prop.py
 msgid "IDS File"
-msgstr ""
+msgstr "IDS 文件"
 
 #: bim/module/tester/prop.py
 msgid "Generate HTML report"
-msgstr ""
+msgstr "生成 HTML 报告"
 
 #: bim/module/tester/prop.py
 msgid "Flag Failed Entities"
-msgstr ""
+msgstr "标记失败的实体"
 
 #: bim/module/tester/prop.py
 msgid "Active Specification Index"
-msgstr ""
+msgstr "激活的规范索引"
 
 #: bim/module/tester/prop.py
 msgid "Active Failed Entity Index"
-msgstr ""
+msgstr "激活的失败实体索引"
 
 #: bim/module/tester/prop.py
 msgid "Specifications"
-msgstr ""
+msgstr "规范"
 
 #: bim/module/tester/prop.py
 msgid "FailedEntities"
-msgstr ""
+msgstr "失败实体"
 
 #: bim/module/classification/operator.py
 msgctxt "Operator"
 msgid "Load Classification Library"
-msgstr ""
+msgstr "加载分类库"
 
 #: bim/module/classification/operator.py
 #: bim/module/classification/ui.py
 msgctxt "Operator"
 msgid "Add Classification"
-msgstr ""
+msgstr "添加分类"
 
 #: bim/module/classification/operator.py
 msgctxt "Operator"
 msgid "Add Manual Classification"
-msgstr ""
+msgstr "添加手动分类"
 
 #: bim/module/classification/operator.py
 msgctxt "Operator"
 msgid "Add Manual Classification Reference"
-msgstr ""
+msgstr "添加手动分类参考"
 
 #: bim/module/classification/operator.py
 msgctxt "Operator"
 msgid "Add Classification From bSDD"
-msgstr ""
+msgstr "从 bSDD 添加分类"
 
 #: bim/module/classification/operator.py
 msgctxt "Operator"
 msgid "Enable Adding Manual Classification"
-msgstr ""
+msgstr "启用添加手动分类"
 
 #: bim/module/classification/operator.py
 msgctxt "Operator"
 msgid "Disable Adding Manual Classification"
-msgstr ""
+msgstr "禁用添加手动分类"
 
 #: bim/module/classification/operator.py
 msgctxt "Operator"
 msgid "Enable Adding Manual Classification Reference"
-msgstr ""
+msgstr "启用添加手动分类参考"
 
 #: bim/module/classification/operator.py
 msgctxt "Operator"
 msgid "Disable Adding Manual Classification Reference"
-msgstr ""
+msgstr "禁用添加手动分类参考"
 
 #: bim/module/classification/operator.py
 msgctxt "Operator"
 msgid "Enable Editing Classification"
-msgstr ""
+msgstr "启用分类编辑"
 
 #: bim/module/classification/operator.py
 msgctxt "Operator"
 msgid "Disable Editing Classification"
-msgstr ""
+msgstr "禁用分类编辑"
 
 #: bim/module/classification/operator.py
 msgctxt "Operator"
 msgid "Remove Classification"
-msgstr ""
+msgstr "移除分类"
 
 #: bim/module/classification/operator.py
 msgctxt "Operator"
 msgid "Edit Classification"
-msgstr ""
+msgstr "编辑分类"
 
 #: bim/module/classification/operator.py
 msgctxt "Operator"
 msgid "Enable Editing Classification Reference"
-msgstr ""
+msgstr "启用编辑分类参考"
 
 #: bim/module/classification/operator.py
 msgctxt "Operator"
 msgid "Disable Editing Classification Reference"
-msgstr ""
+msgstr "禁用编辑分类参考"
 
 #: bim/module/classification/operator.py
 msgctxt "Operator"
 msgid "Remove Classification Reference"
-msgstr ""
+msgstr "移除分类参考"
 
 #: bim/module/classification/operator.py
 msgctxt "Operator"
 msgid "Edit Classification Reference"
-msgstr ""
+msgstr "编辑分类参考"
 
 #: bim/module/classification/operator.py
 #: bim/module/classification/ui.py
 msgctxt "Operator"
 msgid "Add Classification Reference"
-msgstr ""
+msgstr "添加分类参考"
 
 #: bim/module/classification/operator.py
 msgctxt "Operator"
 msgid "Add Classification Reference From bSDD"
-msgstr ""
+msgstr "从 bSDD 添加分类参考"
 
 #: bim/module/classification/operator.py
 msgctxt "Operator"
 msgid "Change Classification Level"
-msgstr ""
+msgstr "更改分类级别"
 
 #: bim/module/classification/operator.py
 msgctxt "Operator"
 msgid "Disable Editing Classification References"
-msgstr ""
+msgstr "禁用编辑分类参考"
 
 #: bim/module/classification/ui.py
 msgctxt "Operator"
 msgid "Classification References"
-msgstr ""
+msgstr "分类参考"
 
 #: bim/module/classification/ui.py
 msgctxt "Operator"
 msgid "Material Classifications"
-msgstr ""
+msgstr "材料分类"
 
 #: bim/module/classification/ui.py
 msgctxt "Operator"
 msgid "Cost Classifications"
-msgstr ""
+msgstr "成本分类"
 
 #: bim/module/classification/ui.py
 msgid "Source"
-msgstr ""
+msgstr "来源"
 
 #: bim/module/classification/ui.py
 #: bim/module/brick/ui.py
 msgid "Save"
-msgstr ""
+msgstr "保存"
 
 #: bim/module/classification/ui.py
 msgid "No Active Classification Library"
-msgstr ""
+msgstr "没有激活的分类库"
 
 #: bim/module/classification/ui.py
 msgid "Save changes"
-msgstr ""
+msgstr "保存更改"
 
 #: bim/module/classification/ui.py
 #: bim/module/brick/ui.py
 #: bim/module/library/ui.py
 msgid "No References"
-msgstr ""
+msgstr "无参考"
 
 #: bim/module/classification/ui.py
 msgid "No Search Results"
-msgstr ""
+msgstr "没有搜索结果"
 
 #: bim/module/classification/prop.py
 msgid "Has References"
-msgstr ""
+msgstr "有参考"
 
 #: bim/module/classification/prop.py
 msgid "Available Classifications"
-msgstr ""
+msgstr "可用分类"
 
 #: bim/module/classification/prop.py
 msgid "Classification Attributes"
-msgstr ""
+msgstr "分类属性"
 
 #: bim/module/classification/prop.py
 msgid "Active Classification Id"
-msgstr ""
+msgstr "激活的分类 ID"
 
 #: bim/module/classification/prop.py
 msgid "Available Library References"
-msgstr ""
+msgstr "可用的库参考"
 
 #: bim/module/classification/prop.py
 msgid "Active Library Referenced Source"
-msgstr ""
+msgstr "激活的库引用来源"
 
 #: bim/module/classification/prop.py
 msgid "Active Library Reference Index"
-msgstr ""
+msgstr "激活的库参考索引"
 
 #: bim/module/classification/prop.py
 msgid "Reference Attributes"
-msgstr ""
+msgstr "参考属性"
 
 #: bim/module/classification/prop.py
 #: bim/module/library/prop.py
 msgid "Active Reference Id"
-msgstr ""
+msgstr "激活的参考 ID"
 
 #: bim/module/covering/workspace.py
 msgctxt "Operator"
 msgid "Covering Tool"
-msgstr ""
+msgstr "覆面工具"
 
 #: bim/module/covering/workspace.py
 msgid "Create and edit coverings"
-msgstr ""
+msgstr "创建和编辑覆面"
 
 #: bim/module/covering/workspace.py
 msgid "Ceiling Height"
-msgstr ""
+msgstr "天花板高度"
 
 #: bim/module/covering/workspace.py
 msgid "ceiling height"
-msgstr ""
+msgstr "天花板高度"
 
 #: bim/module/covering/prop.py
 msgid "ceiling_height"
-msgstr ""
+msgstr "天花板高度"
 
 #: bim/module/constraint/operator.py
 msgctxt "Operator"
 msgid "Load Objectives"
-msgstr ""
+msgstr "加载目标"
 
 #: bim/module/constraint/operator.py
 msgctxt "Operator"
 msgid "Disable Constraint Editing UI"
-msgstr ""
+msgstr "禁用约束编辑界面"
 
 #: bim/module/constraint/operator.py
 msgctxt "Operator"
 msgid "Enable Editing Constraint"
-msgstr ""
+msgstr "启用约束编辑"
 
 #: bim/module/constraint/operator.py
 msgctxt "Operator"
 msgid "Disable Editing Constraint"
-msgstr ""
+msgstr "禁用约束编辑"
 
 #: bim/module/constraint/operator.py
 msgctxt "Operator"
 msgid "Add Objective"
-msgstr ""
+msgstr "添加目标"
 
 #: bim/module/constraint/operator.py
 msgctxt "Operator"
 msgid "Edit Objective"
-msgstr ""
+msgstr "编辑目标"
 
 #: bim/module/constraint/operator.py
 msgctxt "Operator"
 msgid "Remove Constraint"
-msgstr ""
+msgstr "移除约束"
 
 #: bim/module/constraint/operator.py
 msgctxt "Operator"
 msgid "Enable Assigning Constraint"
-msgstr ""
+msgstr "启用约束分配"
 
 #: bim/module/constraint/operator.py
 msgctxt "Operator"
 msgid "Disable Assigning Constraint"
-msgstr ""
+msgstr "禁用约束分配"
 
 #: bim/module/constraint/operator.py
 msgctxt "Operator"
 msgid "Assign Constraint"
-msgstr ""
+msgstr "分配约束"
 
 #: bim/module/constraint/operator.py
 msgctxt "Operator"
 msgid "Unassign Constraint"
-msgstr ""
+msgstr "取消分配约束"
 
 #: bim/module/constraint/ui.py
 #: bim/module/constraint/prop.py
 msgctxt "Operator"
 msgid "Constraints"
-msgstr ""
+msgstr "约束"
 
 #: bim/module/constraint/ui.py
 msgid "No Constraints"
-msgstr ""
+msgstr "无约束"
 
 #: bim/module/constraint/prop.py
 msgid "Constraint Attributes"
-msgstr ""
+msgstr "约束属性"
 
 #: bim/module/constraint/prop.py
 msgid "Active Constraint Id"
-msgstr ""
+msgstr "激活的约束 ID"
 
 #: bim/module/constraint/prop.py
 msgid "Active Constraint Index"
-msgstr ""
+msgstr "激活的约束索引"
 
 #: bim/module/constraint/prop.py
 msgid "Available Constraint Types"
-msgstr ""
+msgstr "可用约束类型"
 
 #: bim/module/brick/operator.py
 msgctxt "Operator"
 msgid "Load Brickschema Project"
-msgstr ""
+msgstr "加载 Brickschema 项目"
 
 #: bim/module/brick/operator.py
 msgctxt "Operator"
 msgid "View Brick Class"
-msgstr ""
+msgstr "查看 Brick 类"
 
 #: bim/module/brick/operator.py
 msgctxt "Operator"
 msgid "View Brick Item"
-msgstr ""
+msgstr "查看 Brick 项"
 
 #: bim/module/brick/operator.py
 msgctxt "Operator"
 msgid "Rewind Brick Class"
-msgstr ""
+msgstr "回退 Brick 类"
 
 #: bim/module/brick/operator.py
 msgctxt "Operator"
 msgid "Close Brick Project"
-msgstr ""
+msgstr "关闭 Brick 项目"
 
 #: bim/module/brick/operator.py
 msgctxt "Operator"
 msgid "Convert Brick Project"
-msgstr ""
+msgstr "转换 Brick 项目"
 
 #: bim/module/brick/operator.py
 msgctxt "Operator"
 msgid "Assign Brick Reference"
-msgstr ""
+msgstr "分配 Brick 参考"
 
 #: bim/module/brick/operator.py
 msgctxt "Operator"
 msgid "Add Brick"
-msgstr ""
+msgstr "添加 Brick"
 
 #: bim/module/brick/operator.py
 msgctxt "Operator"
 msgid "Add Brick Relation"
-msgstr ""
+msgstr "添加 Brick 关系"
 
 #: bim/module/brick/operator.py
 msgctxt "Operator"
 msgid "Convert IFC To Brick"
-msgstr ""
+msgstr "将 IFC 转换为 Brick"
 
 #: bim/module/brick/operator.py
 msgctxt "Operator"
 msgid "New Brick File"
-msgstr ""
+msgstr "新建 Brick 文件"
 
 #: bim/module/brick/operator.py
 msgctxt "Operator"
 msgid "Refresh Brick Viewer"
-msgstr ""
+msgstr "刷新 Brick 查看器"
 
 #: bim/module/brick/operator.py
 msgctxt "Operator"
 msgid "Remove Brick"
-msgstr ""
+msgstr "移除 Brick"
 
 #: bim/module/brick/operator.py
 msgctxt "Operator"
 msgid "Serialize Brick"
-msgstr ""
+msgstr "序列化 Brick"
 
 #: bim/module/brick/operator.py
 msgctxt "Operator"
 msgid "Add Brick Namespace"
-msgstr ""
+msgstr "添加 Brick 命名空间"
 
 #: bim/module/brick/operator.py
 msgctxt "Operator"
 msgid "Remove Relation"
-msgstr ""
+msgstr "移除关系"
 
 #: bim/module/brick/operator.py
 msgid "Load in a Brick project from a file"
-msgstr ""
+msgstr "从文件中加载 Brick 项目"
 
 #: bim/module/brick/operator.py
 msgid "Inspect the subclasses of this class"
-msgstr ""
+msgstr "检查此类的子类"
 
 #: bim/module/brick/operator.py
 msgid "Inspect this entity in the viewer"
-msgstr ""
+msgstr "在查看器中检查此实体"
 
 #: bim/module/brick/operator.py
 msgid "Go back to the previous list view"
-msgstr ""
+msgstr "返回到之前的列表视图"
 
 #: bim/module/brick/operator.py
 msgid "Close the Brick project"
-msgstr ""
+msgstr "关闭 Brick 项目"
 
 #: bim/module/brick/operator.py
 msgid "Create an Ifc library for this Brick project"
-msgstr ""
+msgstr "为此 Brick 项目创建一个 Ifc 库"
 
 #: bim/module/brick/operator.py
 msgid "Assign the selected Ifc entity to the selected Brick entity"
-msgstr ""
+msgstr "将选定的 Ifc 实体分配给选定的 Brick 实体"
 
 #: bim/module/brick/operator.py
 msgid "Create the Brick entity"
-msgstr ""
+msgstr "创建 Brick 实体"
 
 #: bim/module/brick/operator.py
 msgid "Create the Brick relationship"
-msgstr ""
+msgstr "创建 Brick 关系"
 
 #: bim/module/brick/operator.py
 msgid "Convert Ifc entities and relations to Brick entities and relations"
-msgstr ""
+msgstr "将 Ifc 实体和关系转换为 Brick 实体和关系"
 
 #: bim/module/brick/operator.py
 msgid "Create a Brick project from scratch"
-msgstr ""
+msgstr "从头开始创建一个 Brick 项目"
 
 #: bim/module/brick/operator.py
 msgid "Refresh the list view"
-msgstr ""
+msgstr "刷新列表视图"
 
 #: bim/module/brick/operator.py
 msgid "Delete this entity"
-msgstr ""
+msgstr "删除此实体"
 
 #: bim/module/brick/operator.py
 msgid "Bind a new namespace to the Brick project"
-msgstr ""
+msgstr "为 Brick 项目绑定新的命名空间"
 
 #: bim/module/brick/operator.py
 msgid "Delete this relationship"
-msgstr ""
+msgstr "删除此关系"
 
 #: bim/module/brick/operator.py
 msgid "Brick Class"
-msgstr ""
+msgstr "Brick 类"
 
 #: bim/module/brick/operator.py
 msgid "Split Screen"
-msgstr ""
+msgstr "分屏"
 
 #: bim/module/brick/operator.py
 msgid "Brick Item"
-msgstr ""
+msgstr "Brick 项"
 
 #: bim/module/brick/operator.py
 msgid "Relation"
-msgstr ""
+msgstr "关系"
 
 #: bim/module/brick/operator.py
 msgid "Object"
-msgstr ""
+msgstr "对象"
 
 #: bim/module/brick/ui.py
 msgctxt "Operator"
 msgid "Brickschema Project"
-msgstr ""
+msgstr "Brickschema 项目"
 
 #: bim/module/brick/ui.py
 msgctxt "Operator"
 msgid "Namespaces"
-msgstr ""
+msgstr "命名空间"
 
 #: bim/module/brick/ui.py
 msgctxt "Operator"
 msgid "Create Entity"
-msgstr ""
+msgstr "创建实体"
 
 #: bim/module/brick/ui.py
 msgctxt "Operator"
 msgid "Viewport"
-msgstr ""
+msgstr "视口"
 
 #: bim/module/brick/ui.py
 msgctxt "Operator"
 msgid "Brickschema References"
-msgstr ""
+msgstr "Brickschema 参考"
 
 #: bim/module/brick/ui.py
 msgid "No file"
-msgstr ""
+msgstr "无文件"
 
 #: bim/module/brick/ui.py
 msgid "Not saved"
-msgstr ""
+msgstr "未保存"
 
 #: bim/module/brick/ui.py
 msgid "Save As"
-msgstr ""
+msgstr "另存为"
 
 #: bim/module/brick/ui.py
 msgid "Active Namespace:"
-msgstr ""
+msgstr "当前命名空间:"
 
 #: bim/module/brick/ui.py
 msgid "Bind New Namespace:"
-msgstr ""
+msgstr "绑定新命名空间:"
 
 #: bim/module/brick/ui.py
 msgid ":"
-msgstr ""
+msgstr ":"
 
 #: bim/module/brick/ui.py
 msgid "Label:"
-msgstr ""
+msgstr "标签:"
 
 #: bim/module/brick/ui.py
 msgid "No selection"
-msgstr ""
+msgstr "无选择"
 
 #: bim/module/brick/ui.py
 msgid "Failed to find this entity!"
-msgstr ""
+msgstr "未能找到该实体!"
 
 #: bim/module/brick/ui.py
 msgid "No Brickschema Project Loaded"
-msgstr ""
+msgstr "未加载 Brickschema 项目"
 
 #: bim/module/brick/ui.py
 msgid "No IFC Libraries"
-msgstr ""
+msgstr "无 IFC 库"
 
 #: bim/module/brick/ui.py
 msgid "No IFC Libraries: save the Brick project to create a new library"
-msgstr ""
+msgstr "无 IFC 库：请保存 Brick 项目以创建新库"
 
 #: bim/module/brick/ui.py
-msgid "Libraries must have location pointing to a \"
-msgstr ""
+msgid "Libraries must have location pointing to a \""
+msgstr "库必须具有指向 \" 的位置信息"
 
 #: bim/module/brick/prop.py
 msgid "Total Items"
-msgstr ""
+msgstr "总项目数"
 
 #: bim/module/brick/prop.py
 msgid "Active Brick Class"
-msgstr ""
+msgstr "当前激活的 Brick 类"
 
 #: bim/module/brick/prop.py
 msgid "Brick Breadcrumbs"
-msgstr ""
+msgstr "Brick 面包屑导航"
 
 #: bim/module/brick/prop.py
 msgid "Bricks"
-msgstr ""
+msgstr "Bricks"
 
 #: bim/module/brick/prop.py
 msgid "Active Brick Index"
-msgstr ""
+msgstr "当前激活的 Brick 索引"
 
 #: bim/module/brick/prop.py
 #: bim/module/library/ui.py
 msgid "Libraries"
-msgstr ""
+msgstr "库"
 
 #: bim/module/brick/prop.py
 msgid "Set List Root Toggled"
-msgstr ""
+msgstr "设置列表根目录切换状态"
 
 #: bim/module/brick/prop.py
 msgid "Brick List Root"
-msgstr ""
+msgstr "Brick 列表根目录"
 
 #: bim/module/brick/prop.py
 msgid "Namespace"
-msgstr ""
+msgstr "命名空间"
 
 #: bim/module/brick/prop.py
 msgid "New Brick Namespace Alias"
-msgstr ""
+msgstr "新的 Brick 命名空间别名"
 
 #: bim/module/brick/prop.py
 msgid "New Brick Namespace URI"
-msgstr ""
+msgstr "新的 Brick 命名空间 URI"
 
 #: bim/module/brick/prop.py
 msgid "New Brick Label"
-msgstr ""
+msgstr "新的 Brick 标签"
 
 #: bim/module/brick/prop.py
 msgid "Brick Entity Types"
-msgstr ""
+msgstr "Brick 实体类型"
 
 #: bim/module/brick/prop.py
 msgid "Brick Equipment Class"
-msgstr ""
+msgstr "Brick 设备类"
 
 #: bim/module/brick/prop.py
 msgid "Brick Create Relations Toggled"
-msgstr ""
+msgstr "Brick 创建关系切换状态"
 
 #: bim/module/brick/prop.py
 msgid "Brick Edit Relations Toggled"
-msgstr ""
+msgstr "Brick 编辑关系切换状态"
 
 #: bim/module/brick/prop.py
 msgid "New Brick Relation Type"
-msgstr ""
+msgstr "新的 Brick 关系类型"
 
 #: bim/module/brick/prop.py
 msgid "New Brick Relation Object"
-msgstr ""
+msgstr "新的 Brick 关系对象"
 
 #: bim/module/brick/prop.py
 msgid "Add Relation Failed"
-msgstr ""
+msgstr "添加关系失败"
 
 #: bim/module/brick/prop.py
 msgid "Split Screen Toggled"
-msgstr ""
+msgstr "分屏切换状态"
 
 #: bim/module/brick/prop.py
 msgid "Split Screen Bricks"
-msgstr ""
+msgstr "分屏 Brick"
 
 #: bim/module/brick/prop.py
 msgid "Split Screen Active Brick Index"
-msgstr ""
+msgstr "分屏中当前激活的 Brick 索引"
 
 #: bim/module/brick/prop.py
 msgid "Split Screen Active Brick Class"
-msgstr ""
+msgstr "分屏中当前激活的 Brick 类"
 
 #: bim/module/brick/prop.py
 msgid "Split Screen Brick Breadcrumbs"
-msgstr ""
+msgstr "分屏 Brick 面包屑导航"
 
 #: bim/module/brick/prop.py
 msgid "Split Screen Brick List Root"
-msgstr ""
+msgstr "分屏 Brick 列表根目录"
 
 #: bim/module/misc/operator.py
 msgctxt "Operator"
 msgid "Set Override Colour"
-msgstr ""
+msgstr "设置覆盖颜色"
 
 #: bim/module/misc/operator.py
 msgctxt "Operator"
 msgid "Set Viewport Shadow from Sun"
-msgstr ""
+msgstr "根据太阳设置视口阴影"
 
 #: bim/module/misc/operator.py
 msgctxt "Operator"
 msgid "Snap Spaces Together"
-msgstr ""
+msgstr "对齐空间"
 
 #: bim/module/misc/operator.py
 msgctxt "Operator"
 msgid "Resize To Storey"
-msgstr ""
+msgstr "调整尺寸至楼层"
 
 #: bim/module/misc/operator.py
 msgctxt "Operator"
 msgid "Split Along Edge"
-msgstr ""
+msgstr "沿边分割"
 
 #: bim/module/misc/operator.py
 msgctxt "Operator"
 msgid "Get Connected System Elements"
-msgstr ""
+msgstr "获取连接的系统元素"
 
 #: bim/module/misc/operator.py
 msgctxt "Operator"
 msgid "Draw System Arrows"
-msgstr ""
+msgstr "绘制系统箭头"
 
 #: bim/module/misc/operator.py
 msgid "No sinks/sources found for selected objects."
-msgstr ""
+msgstr "未找到所选对象的接收/源"
 
 #: bim/module/misc/ui.py
 msgctxt "Operator"
 msgid "Miscellaneous"
-msgstr ""
+msgstr "其他"
 
 #: bim/module/misc/ui.py
 msgid "Start Sketching"
-msgstr ""
+msgstr "开始草图绘制"
 
 #: bim/module/misc/ui.py
 msgid "Import Plot Coordinates"
-msgstr ""
+msgstr "导入图纸坐标"
 
 #: bim/module/misc/prop.py
 msgid "Total Storeys"
-msgstr ""
+msgstr "总楼层数"
 
 #: bim/module/fm/operator.py
 msgctxt "Operator"
 msgid "Select FM IFC File"
-msgstr ""
+msgstr "选择 FM IFC 文件"
 
 #: bim/module/fm/operator.py
 msgctxt "Operator"
 msgid "Execute IfcFM"
-msgstr ""
+msgstr "执行 IfcFM"
 
 #: bim/module/fm/operator.py
 msgctxt "Operator"
 msgid "Select FM Spreadsheet Files"
-msgstr ""
+msgstr "选择 FM 电子表格文件"
 
 #: bim/module/fm/operator.py
 msgid "File Path"
-msgstr ""
+msgstr "文件路径"
 
 #: bim/module/fm/ui.py
 msgctxt "Operator"
 msgid "Facility Management"
-msgstr ""
+msgstr "设施管理"
 
 #: bim/module/fm/ui.py
 msgid "Convert To Spreadsheet"
-msgstr ""
+msgstr "转换为电子表格"
 
 #: bim/module/fm/ui.py
 msgid "Merge Spreadsheets"
-msgstr ""
+msgstr "合并电子表格"
 
 #: bim/module/fm/prop.py
 msgid "IFC Files"
-msgstr ""
+msgstr "IFC 文件"
 
 #: bim/module/fm/prop.py
 msgid "Spreadsheets"
-msgstr ""
+msgstr "电子表格"
 
 #: bim/module/fm/prop.py
 msgid "Engine"
-msgstr ""
+msgstr "引擎"
 
 #: bim/module/root/operator.py
 msgctxt "Operator"
 msgid "Enable Reassign IFC Class"
-msgstr ""
+msgstr "启用重新分配 IFC 类"
 
 #: bim/module/root/operator.py
 msgctxt "Operator"
 msgid "Disable Reassign IFC Class"
-msgstr ""
+msgstr "禁用重新分配 IFC 类"
 
 #: bim/module/root/operator.py
 msgctxt "Operator"
 msgid "Reassign IFC Class"
-msgstr ""
+msgstr "重新分配 IFC 类"
 
 #: bim/module/root/operator.py
 msgctxt "Operator"
 msgid "Unlink Object"
-msgstr ""
+msgstr "取消链接对象"
 
 #: bim/module/root/operator.py
 msgctxt "Operator"
 msgid "Copy Class"
-msgstr ""
+msgstr "复制类"
 
 #: bim/module/root/operator.py
 msgid "Assign the IFC Class to the selected object"
-msgstr ""
+msgstr "将 IFC 类分配给选定对象"
 
 #: bim/module/root/operator.py
 msgid "Delete IFC Element"
-msgstr ""
+msgstr "删除 IFC 元素"
 
 #: bim/module/root/operator.py
 msgid "Object must be in OBJECT mode to assign class"
-msgstr ""
+msgstr "对象必须处于 OBJECT 模式才能分配类"
 
 #: bim/module/root/ui.py
 msgid "IFC Element Not Found"
-msgstr ""
+msgstr "未找到 IFC 元素"
 
 #: bim/module/root/prop.py
 msgid "Products"
-msgstr ""
+msgstr "产品"
 
 #: bim/module/root/prop.py
 msgid "Userdefined Type"
-msgstr ""
+msgstr "用户自定义类型"
 
 #: bim/module/pset/operator.py
 msgctxt "Operator"
 msgid "Toggle Pset Expansion"
-msgstr ""
+msgstr "切换 Pset 展开/收起"
 
 #: bim/module/pset/operator.py
 msgctxt "Operator"
 msgid "Enable Pset Editing"
-msgstr ""
+msgstr "启用 Pset 编辑"
 
 #: bim/module/pset/operator.py
 msgctxt "Operator"
 msgid "Disable Pset Editing"
-msgstr ""
+msgstr "禁用 Pset 编辑"
 
 #: bim/module/pset/operator.py
 msgctxt "Operator"
 msgid "Edit Pset"
-msgstr ""
+msgstr "编辑 Pset"
 
 #: bim/module/pset/operator.py
 msgctxt "Operator"
 msgid "Remove Pset"
-msgstr ""
+msgstr "移除 Pset"
 
 #: bim/module/pset/operator.py
 msgctxt "Operator"
 msgid "Add Pset"
-msgstr ""
+msgstr "添加 Pset"
 
 #: bim/module/pset/operator.py
 msgctxt "Operator"
 msgid "Add Qto"
-msgstr ""
+msgstr "添加 Qto"
 
 #: bim/module/pset/operator.py
 msgctxt "Operator"
 msgid "Calculate Quantity"
-msgstr ""
+msgstr "计算数量"
 
 #: bim/module/pset/operator.py
 msgctxt "Operator"
 msgid "Guess Quantity"
-msgstr ""
+msgstr "猜测数量"
 
 #: bim/module/pset/operator.py
 msgctxt "Operator"
 msgid "Copy Property To Selection"
-msgstr ""
+msgstr "复制属性到选定项"
 
 #: bim/module/pset/operator.py
 msgctxt "Operator"
 msgid "Add Edit Rule"
-msgstr ""
+msgstr "添加编辑规则"
 
 #: bim/module/pset/operator.py
 msgctxt "Operator"
 msgid "Remove Property to Be Renamed"
-msgstr ""
+msgstr "移除待重命名的属性"
 
 #: bim/module/pset/operator.py
 msgctxt "Operator"
 msgid "Clear List of Properties"
-msgstr ""
+msgstr "清空属性列表"
 
 #: bim/module/pset/operator.py
 msgctxt "Operator"
 msgid "Rename Parameters"
-msgstr ""
+msgstr "重命名参数"
 
 #: bim/module/pset/operator.py
 msgctxt "Operator"
 msgid "Add or Edit a Custom Property"
-msgstr ""
+msgstr "添加或编辑自定义属性"
 
 #: bim/module/pset/operator.py
 msgctxt "Operator"
 msgid "Bulk Remove Psets from Selected Objects"
-msgstr ""
+msgstr "批量移除选定对象的 Pset"
 
 #: bim/module/pset/operator.py
 msgid "Add Quantity Take Off"
-msgstr ""
+msgstr "添加数量提取"
 
 #: bim/module/pset/operator.py
 msgid "Calculates the quantity with a defined formula for this exact entity and quantity"
-msgstr ""
+msgstr "使用定义的公式计算该特定实体的数量"
 
 #: bim/module/pset/operator.py
 msgid "Rename parameters that are subclasses of IfcElement"
-msgstr ""
+msgstr "重命名 IfcElement 子类的参数"
 
 #: bim/module/pset/operator.py
 msgid "Bulk remove psets from selected objects"
-msgstr ""
+msgstr "批量移除选定对象的 Pset"
 
 #: bim/module/pset/operator.py
 msgid "Could not calculate quantity"
-msgstr ""
+msgstr "无法计算数量"
 
 #: bim/module/pset/operator.py
 msgid "Finished applying changes"
-msgstr ""
+msgstr "已完成应用更改"
 
 #: bim/module/pset/ui.py
 msgctxt "Operator"
 msgid "Object Property Sets"
-msgstr ""
+msgstr "对象属性集"
 
 #: bim/module/pset/ui.py
 msgctxt "Operator"
 msgid "Object Quantity Sets"
-msgstr ""
+msgstr "对象数量集"
 
 #: bim/module/pset/ui.py
 msgctxt "Operator"
 msgid "Material Property Sets"
-msgstr ""
+msgstr "材质属性集"
 
 #: bim/module/pset/ui.py
 msgctxt "Operator"
 msgid "Material Set Property Sets"
-msgstr ""
+msgstr "材质集属性集"
 
 #: bim/module/pset/ui.py
 msgctxt "Operator"
 msgid "Material Set Item Property Sets"
-msgstr ""
+msgstr "材质集项目属性集"
 
 #: bim/module/pset/ui.py
 msgctxt "Operator"
 msgid "Task Quantity Sets"
-msgstr ""
+msgstr "任务数量集"
 
 #: bim/module/pset/ui.py
 msgctxt "Operator"
 msgid "Resource Quantity Sets"
-msgstr ""
+msgstr "资源数量集"
 
 #: bim/module/pset/ui.py
 msgctxt "Operator"
 msgid "Resource Property Sets"
-msgstr ""
+msgstr "资源属性集"
 
 #: bim/module/pset/ui.py
 msgctxt "Operator"
 msgid "Group Quantity Sets"
-msgstr ""
+msgstr "组数量集"
 
 #: bim/module/pset/ui.py
 msgctxt "Operator"
 msgid "Group Property Sets"
-msgstr ""
+msgstr "组属性集"
 
 #: bim/module/pset/ui.py
 msgctxt "Operator"
 msgid "Profile Property Sets"
-msgstr ""
+msgstr "型材属性集"
 
 #: bim/module/pset/ui.py
 msgctxt "Operator"
 msgid "Work Schedule Property Sets"
-msgstr ""
+msgstr "工作计划属性集"
 
 #: bim/module/pset/ui.py
 msgctxt "Operator"
 msgid "Bulk Property Editor"
-msgstr ""
+msgstr "批量属性编辑器"
 
 #: bim/module/pset/ui.py
 msgctxt "Operator"
 msgid "Bulk Rename Properties"
-msgstr ""
+msgstr "批量重命名属性"
 
 #: bim/module/pset/ui.py
 msgctxt "Operator"
 msgid "Bulk Add / Edit Custom Properties"
-msgstr ""
+msgstr "批量添加/编辑自定义属性"
 
 #: bim/module/pset/ui.py
 msgctxt "Operator"
 msgid "Bulk Remove Psets"
-msgstr ""
+msgstr "批量移除 Pset"
 
 #: bim/module/pset/ui.py
 msgid "No Properties Set"
-msgstr ""
+msgstr "无属性集"
 
 #: bim/module/pset/ui.py
 msgid "Inherited Psets:"
-msgstr ""
+msgstr "继承的 Pset:"
 
 #: bim/module/pset/ui.py
 #: bim/module/pset_template/ui.py
 msgid "Add Enum"
-msgstr ""
+msgstr "添加枚举"
 
 #: bim/module/pset/ui.py
 msgid "Apply Changes"
-msgstr ""
+msgstr "应用更改"
 
 #: bim/module/pset/prop.py
 msgid "Active Pset ID"
-msgstr ""
+msgstr "当前激活的 Pset ID"
 
 #: bim/module/pset/prop.py
 msgid "Active Pset Type"
-msgstr ""
+msgstr "当前激活的 Pset 类型"
 
 #: bim/module/pset/prop.py
 #: bim/module/qto/prop.py
 msgid "Qto Name"
-msgstr ""
+msgstr "Qto 名称"
 
 #: bim/module/pset/prop.py
 msgid "Existing Property Name"
-msgstr ""
+msgstr "现有属性名称"
 
 #: bim/module/pset/prop.py
 msgid "New Property Name"
-msgstr ""
+msgstr "新属性名称"
 
 #: bim/module/pset/prop.py
 #: bim/module/pset_template/prop.py
 msgid "Primary Measure Type"
-msgstr ""
+msgstr "主要计量类型"
 
 #: bim/module/pset/prop.py
 #: bim/module/pset_template/prop.py
 msgid "Template Type"
-msgstr ""
+msgstr "模板类型"
 
 #: bim/module/pset/prop.py
 msgid "Enum Values"
-msgstr ""
+msgstr "枚举值"
 
 #: bim/module/style/operator.py
 msgctxt "Operator"
 msgid "Save Current Shading Style"
-msgstr ""
+msgstr "保存当前着色风格"
 
 #: bim/module/style/operator.py
 msgctxt "Operator"
 msgid "Update Style Textures"
-msgstr ""
+msgstr "更新风格纹理"
 
 #: bim/module/style/operator.py
 msgctxt "Operator"
 msgid "Remove Style"
-msgstr ""
+msgstr "移除风格"
 
 #: bim/module/style/operator.py
 msgctxt "Operator"
 msgid "Add Style"
-msgstr ""
+msgstr "添加风格"
 
 #: bim/module/style/operator.py
 msgctxt "Operator"
 msgid "Unlink Style"
-msgstr ""
+msgstr "取消链接风格"
 
 #: bim/module/style/operator.py
 msgctxt "Operator"
 msgid "Enable Editing Style"
-msgstr ""
+msgstr "启用风格编辑"
 
 #: bim/module/style/operator.py
 msgctxt "Operator"
 msgid "Disable Editing Style"
-msgstr ""
+msgstr "禁用风格编辑"
 
 #: bim/module/style/operator.py
 #: bim/module/style/ui.py
 msgctxt "Operator"
 msgid "Edit Style"
-msgstr ""
+msgstr "编辑风格"
 
 #: bim/module/style/operator.py
 msgctxt "Operator"
 msgid "Update Current Style"
-msgstr ""
+msgstr "更新当前风格"
 
 #: bim/module/style/operator.py
 msgctxt "Operator"
 msgid "Browse External Style"
-msgstr ""
+msgstr "浏览外部风格"
 
 #: bim/module/style/operator.py
 msgctxt "Operator"
 msgid "Activate External Style"
-msgstr ""
+msgstr "激活外部风格"
 
 #: bim/module/style/operator.py
 msgctxt "Operator"
 msgid "Disable Editing Styles"
-msgstr ""
+msgstr "禁用风格编辑"
 
 #: bim/module/style/operator.py
 msgctxt "Operator"
 msgid "Load Styles"
-msgstr ""
+msgstr "加载风格"
 
 #: bim/module/style/operator.py
 msgctxt "Operator"
 msgid "Select By Style"
-msgstr ""
+msgstr "按风格选择"
 
 #: bim/module/style/operator.py
 msgctxt "Operator"
 msgid "Choose Texture Map Path"
-msgstr ""
+msgstr "选择纹理贴图路径"
 
 #: bim/module/style/operator.py
 msgctxt "Operator"
 msgid "Remove Texture Map"
-msgstr ""
+msgstr "移除纹理贴图"
 
 #: bim/module/style/operator.py
 msgctxt "Operator"
 msgid "Enable Add Presentation Style"
-msgstr ""
+msgstr "启用添加展示风格"
 
 #: bim/module/style/operator.py
 msgctxt "Operator"
 msgid "Disable Add Presentation Style"
-msgstr ""
+msgstr "禁用添加展示风格"
 
 #: bim/module/style/operator.py
 msgctxt "Operator"
 msgid "Add Presentation Style"
-msgstr ""
+msgstr "添加展示风格"
 
 #: bim/module/style/operator.py
 msgctxt "Operator"
 msgid "Enable Editing Surface Style"
-msgstr ""
+msgstr "启用编辑表面风格"
 
 #: bim/module/style/operator.py
 msgctxt "Operator"
 msgid "Edit Surface Style"
-msgstr ""
+msgstr "编辑表面风格"
 
 #: bim/module/style/operator.py
 msgctxt "Operator"
 msgid "Add Surface Texture"
-msgstr ""
+msgstr "添加表面纹理"
 
 #: bim/module/style/operator.py
 msgctxt "Operator"
 msgid "Save UV To Style"
-msgstr ""
+msgstr "保存 UV 到风格"
 
 #: bim/module/style/operator.py
 msgid "Update IfcSurfaceStyleWithTextures based on current blender material shading graph"
-msgstr ""
+msgstr "基于当前 Blender 材质着色图更新 IfcSurfaceStyleWithTextures"
 
 #: bim/module/style/operator.py
 msgid "Add IfcSurfaceStyle to the active material"
-msgstr ""
+msgstr "将 IfcSurfaceStyle 添加到当前激活材质"
 
 #: bim/module/style/operator.py
 msgid "Data Block Type"
-msgstr ""
+msgstr "数据块类型"
 
 #: bim/module/style/operator.py
 msgid "Data Block"
-msgstr ""
+msgstr "数据块"
 
 #: bim/module/style/operator.py
 msgid "Update All"
-msgstr ""
+msgstr "全部更新"
 
 #: bim/module/style/operator.py
 msgid "Material Name"
-msgstr ""
+msgstr "材质名称"
 
 #: bim/module/style/operator.py
 msgid "Check the system console to see saved style properties"
-msgstr ""
+msgstr "请检查系统控制台以查看保存的风格属性"
 
 #: bim/module/style/operator.py
 msgid "Select a data block type in the side panel of the file browser"
-msgstr ""
+msgstr "在文件浏览器侧栏中选择数据块类型"
 
 #: bim/module/style/operator.py
 msgid "Select a data block in the side panel of the file browser"
-msgstr ""
+msgstr "在文件浏览器侧栏中选择数据块"
 
 #: bim/module/style/operator.py
 msgid "Provide a texture map index"
-msgstr ""
+msgstr "提供纹理贴图索引"
 
 #: bim/module/style/operator.py
 msgid "One of the items is not IfcPolygonalFaceSet, not yet supported."
-msgstr ""
+msgstr "其中一项不是 IfcPolygonalFaceSet，目前不支持."
 
 #: bim/module/style/operator.py
 msgid "One of the facesets is not triangulated, not yet supported."
-msgstr ""
+msgstr "其中一个 faceset 未进行三角化，目前不支持."
 
 #: bim/module/style/operator.py
 msgid "Only 1 faceset item is supported."
-msgstr ""
+msgstr "仅支持一个 faceset 项."
 
 #: bim/module/style/operator.py
 msgid "No texture style found, not yet supported."
-msgstr ""
+msgstr "未找到纹理风格，目前不支持."
 
 #: bim/module/style/operator.py
 msgid "Mesh vertices doesn't match IFC faceset vertices."
-msgstr ""
+msgstr "网格顶点与 IFC faceset 顶点不匹配."
 
 #: bim/module/style/operator.py
 msgid "Couldn't find matching blender face for ifc face."
-msgstr ""
+msgstr "未找到与 IFC 面相匹配的 Blender 面."
 
 #: bim/module/style/ui.py
 msgctxt "Operator"
 msgid "Style"
-msgstr ""
+msgstr "风格"
 
 #: bim/module/style/ui.py
 msgctxt "Operator"
 msgid "Style Attributes"
-msgstr ""
+msgstr "风格属性"
 
 #: bim/module/style/ui.py
 msgid "Save New Style"
-msgstr ""
+msgstr "保存新风格"
 
 #: bim/module/style/ui.py
 msgid "Surface Style Element:"
-msgstr ""
+msgstr "表面风格元素:"
 
 #: bim/module/style/ui.py
 msgid "Shade"
-msgstr ""
+msgstr "着色"
 
 #: bim/module/style/ui.py
 msgid "Render"
-msgstr ""
+msgstr "渲染"
 
 #: bim/module/style/ui.py
 msgid "Texture"
-msgstr ""
+msgstr "纹理"
 
 #: bim/module/style/ui.py
 msgid "Lighting"
-msgstr ""
+msgstr "照明"
 
 #: bim/module/style/ui.py
 msgid "Refract"
-msgstr ""
+msgstr "折射"
 
 #: bim/module/style/ui.py
 msgid "External"
-msgstr ""
+msgstr "外部"
 
 #: bim/module/style/ui.py
 msgid "Save Shading Style"
-msgstr ""
+msgstr "保存着色风格"
 
 #: bim/module/style/ui.py
 msgid "Emissive"
-msgstr ""
+msgstr "自发光"
 
 #: bim/module/style/ui.py
 msgid "Metallic"
-msgstr ""
+msgstr "金属感"
 
 #: bim/module/style/ui.py
 msgid "Specular"
-msgstr ""
+msgstr "镜面反射"
 
 #: bim/module/style/ui.py
 msgid "Roughness"
-msgstr ""
+msgstr "粗糙度"
 
 #: bim/module/style/ui.py
 msgid "Shininess"
-msgstr ""
+msgstr "光泽度"
 
 #: bim/module/style/ui.py
 msgid "Highlight"
-msgstr ""
+msgstr "高光"
 
 #: bim/module/style/ui.py
 msgid "Save Rendering Style"
-msgstr ""
+msgstr "保存渲染风格"
 
 #: bim/module/style/ui.py
 msgid "Save Texture Style"
-msgstr ""
+msgstr "保存纹理风格"
 
 #: bim/module/style/ui.py
 msgid "Append From Blend File"
-msgstr ""
+msgstr "从 Blend 文件中附加"
 
 #: bim/module/style/ui.py
 msgid "Save External Style"
-msgstr ""
+msgstr "保存外部风格"
 
 #: bim/module/style/ui.py
 msgid "Save Refraction Style"
-msgstr ""
+msgstr "保存折射风格"
 
 #: bim/module/style/ui.py
 msgid "Save Lighting Style"
-msgstr ""
+msgstr "保存照明风格"
 
 #: bim/module/style/prop.py
 msgid "Style Classes"
-msgstr ""
+msgstr "风格类别"
 
 #: bim/module/style/prop.py
 msgid "Has Surface Colour"
-msgstr ""
+msgstr "具有表面颜色"
 
 #: bim/module/style/prop.py
 msgid "Has Diffuse Colour"
-msgstr ""
+msgstr "具有漫反射颜色"
 
 #: bim/module/style/prop.py
 msgid "Type Of Texture"
-msgstr ""
+msgstr "纹理类型"
 
 #: bim/module/style/prop.py
 msgid "Texture Path"
-msgstr ""
+msgstr "纹理路径"
 
 #: bim/module/style/prop.py
 msgid "Is Editing Style"
-msgstr ""
+msgstr "正在编辑风格"
 
 #: bim/module/style/prop.py
 msgid "Is Editing Class"
-msgstr ""
+msgstr "正在编辑类别"
 
 #: bim/module/style/prop.py
 msgid "External Style Attributes"
-msgstr ""
+msgstr "外部风格属性"
 
 #: bim/module/style/prop.py
 msgid "Refraction Style Attributes"
-msgstr ""
+msgstr "折射风格属性"
 
 #: bim/module/style/prop.py
 msgid "Lighting Style Colours"
-msgstr ""
+msgstr "照明风格颜色"
 
 #: bim/module/style/prop.py
 msgid "Style Type"
-msgstr ""
+msgstr "风格类型"
 
 #: bim/module/style/prop.py
 msgid "Style Name"
-msgstr ""
+msgstr "风格名称"
 
 #: bim/module/style/prop.py
 msgid "Textures"
-msgstr ""
+msgstr "纹理"
 
 #: bim/module/style/prop.py
 msgid "Active Style Index"
-msgstr ""
+msgstr "当前激活风格索引"
 
 #: bim/module/style/prop.py
 msgid "Is Editing External Style"
-msgstr ""
+msgstr "正在编辑外部风格"
 
 #: bim/module/style/prop.py
 msgid "Actual UV data presented on the geometry"
-msgstr ""
+msgstr "在几何体上呈现的实际 UV 数据"
 
 #: bim/module/style/prop.py
 msgid "Automatically-generated UV from the vertex positions of the mesh"
-msgstr ""
+msgstr "根据网格顶点位置自动生成的 UV"
 
 #: bim/module/style/prop.py
 msgid "UV from position coordinate in camera space"
-msgstr ""
+msgstr "来自相机空间位置坐标的 UV"
 
 #: bim/module/nest/operator.py
 msgctxt "Operator"
 msgid "Assign Object To Nesting"
-msgstr ""
+msgstr "将对象分配到嵌套中"
 
 #: bim/module/nest/operator.py
 msgctxt "Operator"
 msgid "Unassign Object From Nesting"
-msgstr ""
+msgstr "将对象从嵌套中移除"
 
 #: bim/module/nest/operator.py
 msgctxt "Operator"
 msgid "Enable Editing Nest"
-msgstr ""
+msgstr "启用嵌套编辑"
 
 #: bim/module/nest/operator.py
 msgctxt "Operator"
 msgid "Disable Editing Nest"
-msgstr ""
+msgstr "禁用嵌套编辑"
 
 #: bim/module/nest/operator.py
 msgctxt "Operator"
 msgid "Select Components"
-msgstr ""
+msgstr "选择组件"
 
 #: bim/module/nest/operator.py
 msgctxt "Operator"
 msgid "Select Nest"
-msgstr ""
+msgstr "选择嵌套"
 
 #: bim/module/nest/ui.py
 msgctxt "Operator"
 msgid "Nest"
-msgstr ""
+msgstr "嵌套"
 
 #: bim/module/nest/ui.py
 msgid "No Host"
-msgstr ""
+msgstr "无主机"
 
 #: bim/module/nest/ui.py
 msgid "No Components"
-msgstr ""
+msgstr "无组件"
 
 #: bim/module/nest/ui.py
 msgid "1 Component"
-msgstr ""
+msgstr "1 个组件"
 
 #: bim/module/nest/prop.py
 msgid "Nest Host"
-msgstr ""
+msgstr "嵌套主机"
 
 #: bim/module/covetool/operator.py
 msgctxt "Operator"
 msgid "Login to cove.tool"
-msgstr ""
+msgstr "登录 cove.tool"
 
 #: bim/module/covetool/operator.py
 msgctxt "Operator"
 msgid "Run Simple Analysis"
-msgstr ""
+msgstr "运行简单分析"
 
 #: bim/module/covetool/operator.py
 msgctxt "Operator"
 msgid "Run Analysis"
-msgstr ""
+msgstr "运行分析"
 
 #: bim/module/covetool/ui.py
 msgctxt "Operator"
 msgid "cove.tool"
-msgstr ""
+msgstr "cove.tool"
 
 #: bim/module/covetool/prop.py
 msgid "Run Set"
-msgstr ""
+msgstr "运行集合"
 
 #: bim/module/covetool/prop.py
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: bim/module/covetool/prop.py
 msgid "SI Units"
-msgstr ""
+msgstr "SI 单位"
 
 #: bim/module/covetool/prop.py
 msgid "Building Height"
-msgstr ""
+msgstr "建筑高度"
 
 #: bim/module/covetool/prop.py
 msgid "Roof Area"
-msgstr ""
+msgstr "屋顶面积"
 
 #: bim/module/covetool/prop.py
 msgid "Floor Area"
-msgstr ""
+msgstr "楼层面积"
 
 #: bim/module/covetool/prop.py
 msgid "Skylight Area"
-msgstr ""
+msgstr "天窗面积"
 
 #: bim/module/covetool/prop.py
 msgid "Wall Area E"
-msgstr ""
+msgstr "东墙面积"
 
 #: bim/module/covetool/prop.py
 msgid "Wall Area NE"
-msgstr ""
+msgstr "东北墙面积"
 
 #: bim/module/covetool/prop.py
 msgid "Wall Area N"
-msgstr ""
+msgstr "北墙面积"
 
 #: bim/module/covetool/prop.py
 msgid "Wall Area NW"
-msgstr ""
+msgstr "西北墙面积"
 
 #: bim/module/covetool/prop.py
 msgid "Wall Area W"
-msgstr ""
+msgstr "西墙面积"
 
 #: bim/module/covetool/prop.py
 msgid "Wall Area SW"
-msgstr ""
+msgstr "西南墙面积"
 
 #: bim/module/covetool/prop.py
 msgid "Wall Area S"
-msgstr ""
+msgstr "南墙面积"
 
 #: bim/module/covetool/prop.py
 msgid "Wall Area SE"
-msgstr ""
+msgstr "东南墙面积"
 
 #: bim/module/covetool/prop.py
 msgid "Window Area E"
-msgstr ""
+msgstr "东窗面积"
 
 #: bim/module/covetool/prop.py
 msgid "Window Area NE"
-msgstr ""
+msgstr "东北窗面积"
 
 #: bim/module/covetool/prop.py
 msgid "Window Area N"
-msgstr ""
+msgstr "北窗面积"
 
 #: bim/module/covetool/prop.py
 msgid "Window Area NW"
-msgstr ""
+msgstr "西北窗面积"
 
 #: bim/module/covetool/prop.py
 msgid "Window Area W"
-msgstr ""
+msgstr "西窗面积"
 
 #: bim/module/covetool/prop.py
 msgid "Window Area SW"
-msgstr ""
+msgstr "西南窗面积"
 
 #: bim/module/covetool/prop.py
 msgid "Window Area S"
-msgstr ""
+msgstr "南窗面积"
 
 #: bim/module/covetool/prop.py
 msgid "Window Area SE"
-msgstr ""
+msgstr "东南窗面积"
 
 #: bim/module/covetool/prop.py
 msgid "Projects"
-msgstr ""
+msgstr "项目"
 
 #: bim/module/covetool/prop.py
 msgid "Active Project Index"
-msgstr ""
+msgstr "当前激活项目索引"
 
 #: bim/module/layer/operator.py
 msgctxt "Operator"
 msgid "Load Layers"
-msgstr ""
+msgstr "加载图层"
 
 #: bim/module/layer/operator.py
 msgctxt "Operator"
 msgid "Disable Layer Editing UI"
-msgstr ""
+msgstr "禁用图层编辑界面"
 
 #: bim/module/layer/operator.py
 msgctxt "Operator"
 msgid "Enable Editing Layer"
-msgstr ""
+msgstr "启用图层编辑"
 
 #: bim/module/layer/operator.py
 msgctxt "Operator"
 msgid "Disable Editing Layer"
-msgstr ""
+msgstr "禁用图层编辑"
 
 #: bim/module/layer/operator.py
 msgctxt "Operator"
 msgid "Edit Layer"
-msgstr ""
+msgstr "编辑图层"
 
 #: bim/module/layer/operator.py
 msgctxt "Operator"
 msgid "Remove Presentation Layer"
-msgstr ""
+msgstr "移除展示图层"
 
 #: bim/module/layer/operator.py
 msgctxt "Operator"
 msgid "Assign Presentation Layer"
-msgstr ""
+msgstr "分配展示图层"
 
 #: bim/module/layer/operator.py
 msgctxt "Operator"
 msgid "Unassign Presentation Layer"
-msgstr ""
+msgstr "取消分配展示图层"
 
 #: bim/module/layer/operator.py
 msgctxt "Operator"
 msgid "Select Layer Products"
-msgstr ""
+msgstr "选择图层产品"
 
 #: bim/module/layer/operator.py
 msgid "Assign presentation layer to the active representation of the active object"
-msgstr ""
+msgstr "将展示图层分配给当前激活对象的激活表示"
 
 #: bim/module/layer/operator.py
 msgid "Unassign presentation layer from the active representation of the active object"
-msgstr ""
+msgstr "从当前激活对象的激活表示中取消分配展示图层"
 
 #: bim/module/layer/ui.py
 msgctxt "Operator"
 msgid "Presentation Layers"
-msgstr ""
+msgstr "展示图层"
 
 #: bim/module/layer/prop.py
 msgid "Layer Attributes"
-msgstr ""
+msgstr "图层属性"
 
 #: bim/module/layer/prop.py
 msgid "Active Layer Id"
-msgstr ""
+msgstr "当前激活图层ID"
 
 #: bim/module/layer/prop.py
 msgid "Layers"
-msgstr ""
+msgstr "图层"
 
 #: bim/module/layer/prop.py
 msgid "Active Layer Index"
-msgstr ""
+msgstr "当前激活图层索引"
 
 #: bim/module/library/operator.py
 msgctxt "Operator"
 msgid "Add Library"
-msgstr ""
+msgstr "添加库"
 
 #: bim/module/library/operator.py
 msgctxt "Operator"
 msgid "Remove Library"
-msgstr ""
+msgstr "移除库"
 
 #: bim/module/library/operator.py
 msgctxt "Operator"
 msgid "Enable Editing Library References"
-msgstr ""
+msgstr "启用库引用编辑"
 
 #: bim/module/library/operator.py
 msgctxt "Operator"
 msgid "Disable Editing Library References"
-msgstr ""
+msgstr "禁用库引用编辑"
 
 #: bim/module/library/operator.py
 msgctxt "Operator"
 msgid "Enable Editing Library"
-msgstr ""
+msgstr "启用库编辑"
 
 #: bim/module/library/operator.py
 msgctxt "Operator"
 msgid "Disable Editing Library"
-msgstr ""
+msgstr "禁用库编辑"
 
 #: bim/module/library/operator.py
 msgctxt "Operator"
 msgid "Edit Library"
-msgstr ""
+msgstr "编辑库"
 
 #: bim/module/library/operator.py
 msgctxt "Operator"
 msgid "Add Library Reference"
-msgstr ""
+msgstr "添加库引用"
 
 #: bim/module/library/operator.py
 msgctxt "Operator"
 msgid "Remove Library Reference"
-msgstr ""
+msgstr "移除库引用"
 
 #: bim/module/library/operator.py
 msgctxt "Operator"
 msgid "Enable Editing Library Reference"
-msgstr ""
+msgstr "启用库引用编辑"
 
 #: bim/module/library/operator.py
 msgctxt "Operator"
 msgid "Disable Editing Library Reference"
-msgstr ""
+msgstr "禁用库引用编辑"
 
 #: bim/module/library/operator.py
 msgctxt "Operator"
 msgid "Edit Library Reference"
-msgstr ""
+msgstr "编辑库引用"
 
 #: bim/module/library/operator.py
 msgctxt "Operator"
 msgid "Assign Library Reference"
-msgstr ""
+msgstr "分配库引用"
 
 #: bim/module/library/operator.py
 msgctxt "Operator"
 msgid "Unassign Library Reference"
-msgstr ""
+msgstr "取消分配库引用"
 
 #: bim/module/library/ui.py
 msgctxt "Operator"
 msgid "Library References"
-msgstr ""
+msgstr "库引用"
 
 #: bim/module/library/prop.py
 msgid "Editing Mode"
-msgstr ""
+msgstr "编辑模式"
 
 #: bim/module/library/prop.py
 msgid "Library Attributes"
-msgstr ""
+msgstr "库属性"
 
 #: bim/module/library/prop.py
 msgid "Active Library Id"
-msgstr ""
+msgstr "当前激活库ID"
 
 #: bim/module/unit/operator.py
 msgctxt "Operator"
 msgid "Assign Scene Units"
-msgstr ""
+msgstr "分配场景单位"
 
 #: bim/module/unit/operator.py
 msgctxt "Operator"
 msgid "Assign Unit"
-msgstr ""
+msgstr "分配单位"
 
 #: bim/module/unit/operator.py
 msgctxt "Operator"
 msgid "Unassign Unit"
-msgstr ""
+msgstr "取消分配单位"
 
 #: bim/module/unit/operator.py
 msgctxt "Operator"
 msgid "Load Units"
-msgstr ""
+msgstr "加载单位"
 
 #: bim/module/unit/operator.py
 msgctxt "Operator"
 msgid "Disable Unit Editing UI"
-msgstr ""
+msgstr "禁用单位编辑界面"
 
 #: bim/module/unit/operator.py
 msgctxt "Operator"
 msgid "Remove Unit"
-msgstr ""
+msgstr "移除单位"
 
 #: bim/module/unit/operator.py
 msgctxt "Operator"
 msgid "Add Conversion Based Unit"
-msgstr ""
+msgstr "添加基于转换的单位"
 
 #: bim/module/unit/operator.py
 msgctxt "Operator"
 msgid "Add Monetary Unit"
-msgstr ""
+msgstr "添加货币单位"
 
 #: bim/module/unit/operator.py
 msgctxt "Operator"
 msgid "Add SI Unit"
-msgstr ""
+msgstr "添加 SI 单位"
 
 #: bim/module/unit/operator.py
 msgctxt "Operator"
 msgid "Add Context Dependent Unit"
-msgstr ""
+msgstr "添加上下文相关单位"
 
 #: bim/module/unit/operator.py
 msgctxt "Operator"
 msgid "Enable Editing Unit"
-msgstr ""
+msgstr "启用单位编辑"
 
 #: bim/module/unit/operator.py
 msgctxt "Operator"
 msgid "Disable Editing Unit"
-msgstr ""
+msgstr "禁用单位编辑"
 
 #: bim/module/unit/operator.py
 msgctxt "Operator"
 msgid "Edit Unit"
-msgstr ""
+msgstr "编辑单位"
 
 #: bim/module/unit/operator.py
 msgid "Open the loaded units"
-msgstr ""
+msgstr "打开已加载的单位"
 
 #: bim/module/unit/operator.py
 msgid "Close the editing units mode"
-msgstr ""
+msgstr "关闭单位编辑模式"
 
 #: bim/module/unit/ui.py
 #: bim/module/unit/prop.py
 msgctxt "Operator"
 msgid "Units"
-msgstr ""
+msgstr "单位"
 
 #: bim/module/unit/prop.py
 msgid "Unit Type"
-msgstr ""
+msgstr "单位类型"
 
 #: bim/module/unit/prop.py
 msgid "Is Assigned"
-msgstr ""
+msgstr "是否已分配"
 
 #: bim/module/unit/prop.py
 msgid "Active Unit Index"
-msgstr ""
+msgstr "当前激活单位索引"
 
 #: bim/module/unit/prop.py
 msgid "Active Unit Id"
-msgstr ""
+msgstr "当前激活单位ID"
 
 #: bim/module/unit/prop.py
 msgid "Unit Classes"
-msgstr ""
+msgstr "单位类别"
 
 #: bim/module/unit/prop.py
 msgid "Conversion Unit Types"
-msgstr ""
+msgstr "转换单位类型"
 
 #: bim/module/unit/prop.py
 msgid "Named Unit Types"
-msgstr ""
+msgstr "命名单位类型"
 
 #: bim/module/unit/prop.py
 msgid "Unit Attributes"
-msgstr ""
+msgstr "单位属性"
 
 #: bim/module/georeference/operator.py
 msgctxt "Operator"
 msgid "Add Georeferencing"
-msgstr ""
+msgstr "添加地理参考"
 
 #: bim/module/georeference/operator.py
 msgctxt "Operator"
 msgid "Enable Editing Georeferencing"
-msgstr ""
+msgstr "启用地理参考编辑"
 
 #: bim/module/georeference/operator.py
 msgctxt "Operator"
 msgid "Remove Georeferencing"
-msgstr ""
+msgstr "移除地理参考"
 
 #: bim/module/georeference/operator.py
 msgctxt "Operator"
 msgid "Edit Georeferencing"
-msgstr ""
+msgstr "编辑地理参考"
 
 #: bim/module/georeference/operator.py
 msgctxt "Operator"
 msgid "Disable Editing Georeferencing"
-msgstr ""
+msgstr "禁用地理参考编辑"
 
 #: bim/module/georeference/operator.py
 msgctxt "Operator"
 msgid "Set IFC Grid North"
-msgstr ""
+msgstr "设置 IFC 网格北方向"
 
 #: bim/module/georeference/operator.py
 msgctxt "Operator"
 msgid "Set Blender Grid North"
-msgstr ""
+msgstr "设置 Blender 网格北方向"
 
 #: bim/module/georeference/operator.py
 msgctxt "Operator"
 msgid "Get Cursor Location"
-msgstr ""
+msgstr "获取光标位置"
 
 #: bim/module/georeference/operator.py
 msgctxt "Operator"
 msgid "Set Cursor Location"
-msgstr ""
+msgstr "设置光标位置"
 
 #: bim/module/georeference/operator.py
 msgctxt "Operator"
 msgid "Set IFC True North"
-msgstr ""
+msgstr "设置 IFC 真北"
 
 #: bim/module/georeference/operator.py
 msgctxt "Operator"
 msgid "Set Blender True North"
-msgstr ""
+msgstr "设置 Blender 真北"
 
 #: bim/module/georeference/operator.py
 msgctxt "Operator"
 msgid "Convert Local To Global"
-msgstr ""
+msgstr "将本地坐标转换为全局坐标"
 
 #: bim/module/georeference/operator.py
 msgctxt "Operator"
 msgid "Convert Global To Local"
-msgstr ""
+msgstr "将全局坐标转换为本地坐标"
 
 #: bim/module/georeference/operator.py
 msgctxt "Operator"
 msgid "Convert Angle To Y Axis"
-msgstr ""
+msgstr "将角度转换为 Y 轴"
 
 #: bim/module/georeference/operator.py
 msgctxt "Operator"
 msgid "Import Plot"
-msgstr ""
+msgstr "导入图纸"
 
 #: bim/module/georeference/operator.py
 msgid "Add a new georeference"
-msgstr ""
+msgstr "添加新的地理参考"
 
 #: bim/module/georeference/operator.py
 msgid "Enable editing georeferencing"
-msgstr ""
+msgstr "启用地理参考编辑"
 
 #: bim/module/georeference/operator.py
 msgid "Remove the georeferencing"
-msgstr ""
+msgstr "移除地理参考"
 
 #: bim/module/georeference/operator.py
 msgid "Edit the georeferencing"
-msgstr ""
+msgstr "编辑地理参考"
 
 #: bim/module/georeference/operator.py
 msgid "Close editing panel"
-msgstr ""
+msgstr "关闭编辑面板"
 
 #: bim/module/georeference/operator.py
 msgid "Set IFC grid north based on current Blender North Offset"
-msgstr ""
+msgstr "根据当前 Blender 北偏移设置 IFC 网格北方向"
 
 #: bim/module/georeference/operator.py
 msgid "Set Blender North Offset based on current IFC grid north"
-msgstr ""
+msgstr "根据当前 IFC 网格北方向设置 Blender 北偏移"
 
 #: bim/module/georeference/operator.py
 msgid "Insert the current cursor coordinates"
-msgstr ""
+msgstr "插入当前光标坐标"
 
 #: bim/module/georeference/operator.py
 msgid "Move cursor location to the specified coordinates"
-msgstr ""
+msgstr "将光标位置移动到指定坐标"
 
 #: bim/module/georeference/operator.py
 msgid "Set IFC true north based on current Blender North Offset"
-msgstr ""
+msgstr "根据当前 Blender 北偏移设置 IFC 真北"
 
 #: bim/module/georeference/operator.py
 msgid "Set Blender North Offset based on current IFC true north"
-msgstr ""
+msgstr "根据当前 IFC 真北设置 Blender 北偏移"
 
 #: bim/module/georeference/operator.py
 msgid "Convert local coordinate to global coordinate"
-msgstr ""
+msgstr "将本地坐标转换为全局坐标"
 
 #: bim/module/georeference/operator.py
 msgid "Convert global coordinate to local coordinate"
-msgstr ""
+msgstr "将全局坐标转换为本地坐标"
 
 #: bim/module/georeference/operator.py
 msgid "Convert angle to Y axis"
-msgstr ""
+msgstr "将角度转换为 Y 轴"
 
 #: bim/module/georeference/operator.py
 msgid "Import plot"
-msgstr ""
+msgstr "导入图纸"
 
 #: bim/module/georeference/ui.py
 msgctxt "Operator"
 msgid "Georeferencing"
-msgstr ""
+msgstr "地理参考"
 
 #: bim/module/georeference/ui.py
 msgctxt "Operator"
 msgid "Georeferencing Calculator"
-msgstr ""
+msgstr "地理参考计算器"
 
 #: bim/module/georeference/ui.py
 #: bim/module/georeference/prop.py
 msgid "Projected CRS"
-msgstr ""
+msgstr "投影坐标参考系统"
 
 #: bim/module/georeference/ui.py
 #: bim/module/georeference/prop.py
 msgid "Map Conversion"
-msgstr ""
+msgstr "地图转换"
 
 #: bim/module/georeference/ui.py
 msgid "Set IFC North"
-msgstr ""
+msgstr "设置 IFC 北方"
 
 #: bim/module/georeference/ui.py
 msgid "Set Blender North"
-msgstr ""
+msgstr "设置 Blender 北方"
 
 #: bim/module/georeference/ui.py
 msgid "True North"
-msgstr ""
+msgstr "真北"
 
 #: bim/module/georeference/ui.py
 msgid "IFC2X3 Fallback In Use"
-msgstr ""
+msgstr "正在使用 IFC2X3 备用方案"
 
 #: bim/module/georeference/ui.py
 msgid "Not Georeferenced"
-msgstr ""
+msgstr "未进行地理参考"
 
 #: bim/module/georeference/ui.py
 msgid "Eastings"
-msgstr ""
+msgstr "东坐标"
 
 #: bim/module/georeference/ui.py
 msgid "Northings"
-msgstr ""
+msgstr "北坐标"
 
 #: bim/module/georeference/ui.py
 msgid "OrthogonalHeight"
-msgstr ""
+msgstr "正交高度"
 
 #: bim/module/georeference/ui.py
 msgid "XAxisAbscissa"
-msgstr ""
+msgstr "X轴横坐标"
 
 #: bim/module/georeference/ui.py
 msgid "XAxisOrdinate"
-msgstr ""
+msgstr "X轴纵坐标"
 
 #: bim/module/georeference/ui.py
 msgid "Derived Grid North"
-msgstr ""
+msgstr "推导出的网格北"
 
 #: bim/module/georeference/ui.py
 msgid "Derived Angle"
-msgstr ""
+msgstr "推导角度"
 
 #: bim/module/georeference/ui.py
 msgid "Vector"
-msgstr ""
+msgstr "向量"
 
 #: bim/module/georeference/ui.py
 msgid "Input"
-msgstr ""
+msgstr "输入"
 
 #: bim/module/georeference/ui.py
 msgid "Output"
-msgstr ""
+msgstr "输出"
 
 #: bim/module/georeference/ui.py
 msgid "Local to Global"
-msgstr ""
+msgstr "本地转全局"
 
 #: bim/module/georeference/ui.py
 msgid "Global to Local"
-msgstr ""
+msgstr "全局转本地"
 
 #: bim/module/georeference/ui.py
 msgid "Orientation Calculator"
-msgstr ""
+msgstr "方向计算器"
 
 #: bim/module/georeference/ui.py
 msgid "Angle (°) rel to Easting"
-msgstr ""
+msgstr "角度 (°) 相对于东坐标"
 
 #: bim/module/georeference/ui.py
 msgid "XAxis Abscissa"
-msgstr ""
+msgstr "X轴横坐标"
 
 #: bim/module/georeference/ui.py
 msgid "XAxis Ordinate"
-msgstr ""
+msgstr "X轴纵坐标"
 
 #: bim/module/georeference/ui.py
 msgid "Angle (°) rel to to +Y"
-msgstr ""
+msgstr "角度 (°) 相对于 +Y"
 
 #: bim/module/georeference/ui.py
 msgid "North Abscissa"
-msgstr ""
+msgstr "北向横坐标"
 
 #: bim/module/georeference/ui.py
 msgid "North Ordinate"
-msgstr ""
+msgstr "北向纵坐标"
 
 #: bim/module/georeference/prop.py
 msgid "Coordinate Input"
-msgstr ""
+msgstr "坐标输入"
 
 #: bim/module/georeference/prop.py
 msgid "Coordinate Output"
-msgstr ""
+msgstr "坐标输出"
 
 #: bim/module/georeference/prop.py
 msgid "Angle Degree Input"
-msgstr ""
+msgstr "角度输入 (°)"
 
 #: bim/module/georeference/prop.py
 msgid "X Axis Abscissa Ordinate Output"
-msgstr ""
+msgstr "X轴坐标输出"
 
 #: bim/module/georeference/prop.py
 msgid "Y Axis Abscissa Ordinate Output"
-msgstr ""
+msgstr "Y轴坐标输出"
 
 #: bim/module/georeference/prop.py
 msgid "Has Blender Offset"
-msgstr ""
+msgstr "具有 Blender 偏移"
 
 #: bim/module/georeference/prop.py
 msgid "Blender Eastings"
-msgstr ""
+msgstr "Blender 东坐标"
 
 #: bim/module/georeference/prop.py
 msgid "Blender Northings"
-msgstr ""
+msgstr "Blender 北坐标"
 
 #: bim/module/georeference/prop.py
 msgid "Blender Orthogonal Height"
-msgstr ""
+msgstr "Blender 正交高度"
 
 #: bim/module/georeference/prop.py
 msgid "Blender X Axis Abscissa"
-msgstr ""
+msgstr "Blender X轴横坐标"
 
 #: bim/module/georeference/prop.py
 msgid "Blender X Axis Ordinate"
-msgstr ""
+msgstr "Blender X轴纵坐标"
 
 #: bim/module/georeference/prop.py
 msgid "Has True North"
-msgstr ""
+msgstr "具有真北"
 
 #: bim/module/georeference/prop.py
 msgid "True North Abscissa"
-msgstr ""
+msgstr "真北横坐标"
 
 #: bim/module/georeference/prop.py
 msgid "True North Ordinate"
-msgstr ""
+msgstr "真北纵坐标"
 
 #: bim/module/pset_template/operator.py
 msgctxt "Operator"
 msgid "Add Pset Template File"
-msgstr ""
+msgstr "添加 Pset 模板文件"
 
 #: bim/module/pset_template/operator.py
 msgctxt "Operator"
 msgid "Add Pset Template"
-msgstr ""
+msgstr "添加 Pset 模板"
 
 #: bim/module/pset_template/operator.py
 msgctxt "Operator"
 msgid "Remove Pset Template"
-msgstr ""
+msgstr "移除 Pset 模板"
 
 #: bim/module/pset_template/operator.py
 msgctxt "Operator"
 msgid "Enable Editing Pset Template"
-msgstr ""
+msgstr "启用 Pset 模板编辑"
 
 #: bim/module/pset_template/operator.py
 msgctxt "Operator"
 msgid "Disable Editing Pset Template"
-msgstr ""
+msgstr "禁用 Pset 模板编辑"
 
 #: bim/module/pset_template/operator.py
 msgctxt "Operator"
 msgid "Enable Editing Prop Template"
-msgstr ""
+msgstr "启用属性模板编辑"
 
 #: bim/module/pset_template/operator.py
 msgctxt "Operator"
 msgid "Delete Property Enumeration"
-msgstr ""
+msgstr "删除属性枚举"
 
 #: bim/module/pset_template/operator.py
 msgctxt "Operator"
 msgid "Add Property Enumeration"
-msgstr ""
+msgstr "添加属性枚举"
 
 #: bim/module/pset_template/operator.py
 msgctxt "Operator"
 msgid "Disable Editing Prop Template"
-msgstr ""
+msgstr "禁用属性模板编辑"
 
 #: bim/module/pset_template/operator.py
 msgctxt "Operator"
 msgid "Edit Pset Template"
-msgstr ""
+msgstr "编辑 Pset 模板"
 
 #: bim/module/pset_template/operator.py
 msgctxt "Operator"
 msgid "Save Pset Template File"
-msgstr ""
+msgstr "保存 Pset 模板文件"
 
 #: bim/module/pset_template/operator.py
 msgctxt "Operator"
 msgid "Remove Pset Template File"
-msgstr ""
+msgstr "移除 Pset 模板文件"
 
 #: bim/module/pset_template/operator.py
 msgctxt "Operator"
 msgid "Add Prop Template"
-msgstr ""
+msgstr "添加属性模板"
 
 #: bim/module/pset_template/operator.py
 msgctxt "Operator"
 msgid "Remove Prop Template"
-msgstr ""
+msgstr "移除属性模板"
 
 #: bim/module/pset_template/operator.py
 msgctxt "Operator"
 msgid "Edit Prop Template"
-msgstr ""
+msgstr "编辑属性模板"
 
 #: bim/module/pset_template/operator.py
 msgid "Filename:"
-msgstr ""
+msgstr "文件名:"
 
 #: bim/module/pset_template/ui.py
 msgctxt "Operator"
 msgid "Property Set Templates"
-msgstr ""
+msgstr "属性集模板"
 
 #: bim/module/pset_template/ui.py
 msgid "No Pset Templates"
-msgstr ""
+msgstr "无 Pset 模板"
 
 #: bim/module/pset_template/ui.py
 msgid "Property Templates"
-msgstr ""
+msgstr "属性模板"
 
 #: bim/module/pset_template/ui.py
 msgid "Enumerations:"
-msgstr ""
+msgstr "枚举:"
 
 #: bim/module/pset_template/prop.py
 msgid "Pset Templates"
-msgstr ""
+msgstr "Pset 模板"
 
 #: bim/module/pset_template/prop.py
 msgid "Active Pset Template Id"
-msgstr ""
+msgstr "当前激活 Pset 模板ID"
 
 #: bim/module/pset_template/prop.py
 msgid "Active Prop Template Id"
-msgstr ""
+msgstr "当前激活属性模板ID"
 
 #: bim/module/resource/operator.py
 msgctxt "Operator"
 msgid "Load Resources"
-msgstr ""
+msgstr "加载资源"
 
 #: bim/module/resource/operator.py
 msgctxt "Operator"
 msgid "Add Resource"
-msgstr ""
+msgstr "添加资源"
 
 #: bim/module/resource/operator.py
 msgctxt "Operator"
 msgid "Enable Editing Resource"
-msgstr ""
+msgstr "启用资源编辑"
 
 #: bim/module/resource/operator.py
 msgctxt "Operator"
 msgid "Disable Editing Resource"
-msgstr ""
+msgstr "禁用资源编辑"
 
 #: bim/module/resource/operator.py
 msgctxt "Operator"
 msgid "Disable Resources Editing UI"
-msgstr ""
+msgstr "禁用资源编辑界面"
 
 #: bim/module/resource/operator.py
 msgctxt "Operator"
 msgid "Edit Resource"
-msgstr ""
+msgstr "编辑资源"
 
 #: bim/module/resource/operator.py
 msgctxt "Operator"
 msgid "Remove Resource"
-msgstr ""
+msgstr "移除资源"
 
 #: bim/module/resource/operator.py
 msgctxt "Operator"
 msgid "Expand Resource"
-msgstr ""
+msgstr "展开资源"
 
 #: bim/module/resource/operator.py
 msgctxt "Operator"
 msgid "Contract Resource"
-msgstr ""
+msgstr "收起资源"
 
 #: bim/module/resource/operator.py
 msgctxt "Operator"
 msgid "Assign Resource"
-msgstr ""
+msgstr "分配资源"
 
 #: bim/module/resource/operator.py
 msgctxt "Operator"
 msgid "Unassign Resource"
-msgstr ""
+msgstr "取消分配资源"
 
 #: bim/module/resource/operator.py
 msgctxt "Operator"
 msgid "Enable Editing Resource Time"
-msgstr ""
+msgstr "启用资源时间编辑"
 
 #: bim/module/resource/operator.py
 msgctxt "Operator"
 msgid "Disable Editing Resource Time"
-msgstr ""
+msgstr "禁用资源时间编辑"
 
 #: bim/module/resource/operator.py
 msgctxt "Operator"
 msgid "Edit Resource Usage"
-msgstr ""
+msgstr "编辑资源使用情况"
 
 #: bim/module/resource/operator.py
 msgctxt "Operator"
 msgid "Calculate Resource Work"
-msgstr ""
+msgstr "计算资源工作量"
 
 #: bim/module/resource/operator.py
 msgctxt "Operator"
 msgid "Enable Editing Resource Costs"
-msgstr ""
+msgstr "启用资源成本编辑"
 
 #: bim/module/resource/operator.py
 msgctxt "Operator"
 msgid "Disable Editing Resource Cost Value"
-msgstr ""
+msgstr "禁用资源成本数值编辑"
 
 #: bim/module/resource/operator.py
 msgctxt "Operator"
 msgid "Enable Editing Resource Cost Value Formula"
-msgstr ""
+msgstr "启用资源成本公式编辑"
 
 #: bim/module/resource/operator.py
 msgctxt "Operator"
 msgid "Enable Editing Resource Cost Value"
-msgstr ""
+msgstr "启用资源成本数值编辑"
 
 #: bim/module/resource/operator.py
 msgctxt "Operator"
 msgid "Edit Resource Cost Value Formula"
-msgstr ""
+msgstr "编辑资源成本公式"
 
 #: bim/module/resource/operator.py
 msgctxt "Operator"
 msgid "Edit Resource Cost Value"
-msgstr ""
+msgstr "编辑资源成本数值"
 
 #: bim/module/resource/operator.py
 msgctxt "Operator"
 msgid "Enable Editing Resource Base Quantity"
-msgstr ""
+msgstr "启用资源基础数量编辑"
 
 #: bim/module/resource/operator.py
 msgctxt "Operator"
 msgid "Add Resource Quantity"
-msgstr ""
+msgstr "添加资源数量"
 
 #: bim/module/resource/operator.py
 msgctxt "Operator"
 msgid "Remove Resource Quantity"
-msgstr ""
+msgstr "移除资源数量"
 
 #: bim/module/resource/operator.py
 msgctxt "Operator"
 msgid "Enable Editing Resource Quantity"
-msgstr ""
+msgstr "启用资源数量编辑"
 
 #: bim/module/resource/operator.py
 msgctxt "Operator"
 msgid "Disable Editing Resource Quantity"
-msgstr ""
+msgstr "禁用资源数量编辑"
 
 #: bim/module/resource/operator.py
 msgctxt "Operator"
 msgid "Edit Resource Quantity"
-msgstr ""
+msgstr "编辑资源数量"
 
 #: bim/module/resource/operator.py
 msgctxt "Operator"
 msgid "Import Resources"
-msgstr ""
+msgstr "导入资源"
 
 #: bim/module/resource/operator.py
 msgctxt "Operator"
 msgid "Add Productivity"
-msgstr ""
+msgstr "添加生产率"
 
 #: bim/module/resource/operator.py
 #: bim/module/resource/prop.py
 msgctxt "Operator"
 msgid "Edit Productivity"
-msgstr ""
+msgstr "编辑生产率"
 
 #: bim/module/resource/operator.py
 msgctxt "Operator"
 msgid "Constrain Resource Work"
-msgstr ""
+msgstr "限制资源工作量"
 
 #: bim/module/resource/operator.py
 msgctxt "Operator"
 msgid "Remove Usage Constraint"
-msgstr ""
+msgstr "移除使用限制"
 
 #: bim/module/resource/operator.py
 msgctxt "Operator"
 msgid "Go To Resource"
-msgstr ""
+msgstr "定位到资源"
 
 #: bim/module/resource/operator.py
 msgctxt "Operator"
 msgid "Calculate Resource Usage"
-msgstr ""
+msgstr "计算资源使用情况"
 
 #: bim/module/resource/operator.py
 #: bim/module/sequence/ui.py
 #: bim/module/spatial/ui.py
 msgid "Apply"
-msgstr ""
+msgstr "应用"
 
 #: bim/module/resource/operator.py
 msgid "Selects the resource in the Resource Panel"
-msgstr ""
+msgstr "在资源面板中选择该资源"
 
 #: bim/module/resource/ui.py
 msgid "No Resources found."
-msgstr ""
+msgstr "未找到资源。"
 
 #: bim/module/resource/ui.py
 msgid "Resource Tools"
-msgstr ""
+msgstr "资源工具"
 
 #: bim/module/resource/ui.py
 msgid "Resource type cannot have productivity data"
-msgstr ""
+msgstr "该资源类型不能包含生产率数据"
 
 #: bim/module/resource/ui.py
 msgid "Schedule Work"
-msgstr ""
+msgstr "安排工作"
 
 #: bim/module/resource/ui.py
 #: bim/module/resource/prop.py
 #: bim/module/sequence/prop.py
 msgid "Schedule Usage"
-msgstr ""
+msgstr "使用计划"
 
 #: bim/module/resource/ui.py
 msgid "Add SubContract"
-msgstr ""
+msgstr "添加分包"
 
 #: bim/module/resource/ui.py
 msgid "Add Crew"
-msgstr ""
+msgstr "添加团队"
 
 #: bim/module/resource/ui.py
 msgid "Quantity"
-msgstr ""
+msgstr "数量"
 
 #: bim/module/resource/ui.py
 msgid "Time"
-msgstr ""
+msgstr "时间"
 
 #: bim/module/resource/prop.py
 #: bim/module/sequence/prop.py
 msgid "Years"
-msgstr ""
+msgstr "年"
 
 #: bim/module/resource/prop.py
 #: bim/module/sequence/prop.py
 msgid "Months"
-msgstr ""
+msgstr "月"
 
 #: bim/module/resource/prop.py
 #: bim/module/sequence/prop.py
 msgid "Days"
-msgstr ""
+msgstr "天"
 
 #: bim/module/resource/prop.py
 #: bim/module/sequence/prop.py
 msgid "Hours"
-msgstr ""
+msgstr "小时"
 
 #: bim/module/resource/prop.py
 #: bim/module/sequence/prop.py
 msgid "Minutes"
-msgstr ""
+msgstr "分钟"
 
 #: bim/module/resource/prop.py
 #: bim/module/sequence/prop.py
 msgid "Seconds"
-msgstr ""
+msgstr "秒"
 
 #: bim/module/resource/prop.py
 msgid "Resource Attributes"
-msgstr ""
+msgstr "资源属性"
 
 #: bim/module/resource/prop.py
 msgid "Active Resource Index"
-msgstr ""
+msgstr "当前激活资源索引"
 
 #: bim/module/resource/prop.py
 msgid "Active Resource Id"
-msgstr ""
+msgstr "当前激活资源ID"
 
 #: bim/module/resource/prop.py
 msgid "Contracted Resources"
-msgstr ""
+msgstr "已签约资源"
 
 #: bim/module/resource/prop.py
 msgid "Is Resource Update Enabled"
-msgstr ""
+msgstr "资源更新是否启用"
 
 #: bim/module/resource/prop.py
 msgid "Active Resource Usage Id"
-msgstr ""
+msgstr "当前激活资源使用ID"
 
 #: bim/module/resource/prop.py
 msgid "Resource Usage Attributes"
-msgstr ""
+msgstr "资源使用属性"
 
 #: bim/module/resource/prop.py
 msgid "Editing Resource Type"
-msgstr ""
+msgstr "正在编辑的资源类型"
 
 #: bim/module/resource/prop.py
 msgid "Active Resource Cost Value Id"
-msgstr ""
+msgstr "当前激活资源成本数值ID"
 
 #: bim/module/resource/prop.py
 msgid "Is Editing Quantity"
-msgstr ""
+msgstr "是否在编辑数量"
 
 #: bim/module/resource/prop.py
 #: bim/module/sequence/prop.py
 msgid "Duration"
-msgstr ""
+msgstr "持续时间"
 
 #: bim/module/resource/prop.py
 msgid "Quantity Produced"
-msgstr ""
+msgstr "产出数量"
 
 #: bim/module/resource/prop.py
 msgid "Quantity Produced Name"
-msgstr ""
+msgstr "产出数量名称"
 
 #: bim/module/lendlease/operator.py
 msgctxt "Operator"
 msgid "Generate Steel WBS"
-msgstr ""
+msgstr "生成钢结构 WBS"
 
 #: bim/module/lendlease/operator.py
 msgctxt "Operator"
 msgid "Generate WBS"
-msgstr ""
+msgstr "生成 WBS"
 
 #: bim/module/lendlease/operator.py
 msgctxt "Operator"
 msgid "Do FRP"
-msgstr ""
+msgstr "执行 FRP"
 
 #: bim/module/lendlease/operator.py
 msgctxt "Operator"
 msgid "Load Settings Spreadsheet"
-msgstr ""
+msgstr "加载设置电子表格"
 
 #: bim/module/lendlease/operator.py
 msgctxt "Operator"
 msgid "Generate ANZ Work Schedule"
-msgstr ""
+msgstr "生成 ANZ 工作计划"
 
 #: bim/module/lendlease/operator.py
 msgctxt "Operator"
 msgid "Generate Luminaire Control Register"
-msgstr ""
+msgstr "生成灯具控制登记表"
 
 #: bim/module/lendlease/ui.py
 msgctxt "Operator"
 msgid "Lendlease"
-msgstr ""
+msgstr "Lendlease"
 
 #: bim/module/lendlease/ui.py
 msgctxt "Operator"
 msgid "Electrical"
-msgstr ""
+msgstr "电气"
 
 #: bim/module/lendlease/ui.py
 msgctxt "Operator"
 msgid "ANZ Scheduling"
-msgstr ""
+msgstr "ANZ 调度"
 
 #: bim/module/lendlease/ui.py
 msgid "Load Settings"
-msgstr ""
+msgstr "加载设置"
 
 #: bim/module/lendlease/ui.py
 msgid "Generate Schedule"
-msgstr ""
+msgstr "生成计划"
 
 #: bim/module/lendlease/ui.py
 msgid "Schedule Preview:"
-msgstr ""
+msgstr "计划预览:"
 
 #: bim/module/lendlease/ui.py
 msgid "Export MS Project"
-msgstr ""
+msgstr "导出 MS Project"
 
 #: bim/module/lendlease/ui.py
 msgid "Export P6 XML"
-msgstr ""
+msgstr "导出 P6 XML"
 
 #: bim/module/lendlease/ui.py
 msgid "Export PDF"
-msgstr ""
+msgstr "导出 PDF"
 
 #: bim/module/lendlease/prop.py
 msgid "ANZ Settings ODS"
-msgstr ""
+msgstr "ANZ 设置 ODS"
 
 #: bim/module/lendlease/prop.py
 msgid "Total Cranes"
-msgstr ""
+msgstr "起重机总数"
 
 #: bim/module/lendlease/prop.py
 msgid "Total Hoists"
-msgstr ""
+msgstr "总葫芦数"
 
 #: bim/module/lendlease/prop.py
 msgid "Is Piled"
-msgstr ""
+msgstr "是否采用桩基"
 
 #: bim/module/lendlease/prop.py
 msgid "Total Piling Zones"
-msgstr ""
+msgstr "打桩区域总数"
 
 #: bim/module/lendlease/prop.py
 msgid "Has Podium"
-msgstr ""
+msgstr "是否有平台"
 
 #: bim/module/lendlease/prop.py
 msgid "Tower Level"
-msgstr ""
+msgstr "塔楼层级"
 
 #: bim/module/lendlease/prop.py
 msgid "Elevations"
-msgstr ""
+msgstr "标高"
 
 #: bim/module/lendlease/prop.py
 msgid "Podium Elevations"
-msgstr ""
+msgstr "平台标高"
 
 #: bim/module/lendlease/prop.py
 msgid "Tower Elevations"
-msgstr ""
+msgstr "塔楼标高"
 
 #: bim/module/lendlease/prop.py
 msgid "Total Lifts"
-msgstr ""
+msgstr "电梯总数"
 
 #: bim/module/lendlease/prop.py
 msgid "Total Escalators"
-msgstr ""
+msgstr "自动扶梯总数"
 
 #: bim/module/lendlease/prop.py
 msgid "Has External Works"
-msgstr ""
+msgstr "是否有外部工程"
 
 #: bim/module/void/operator.py
 #: bim/module/void/ui.py
 msgctxt "Operator"
 msgid "Remove Opening"
-msgstr ""
+msgstr "移除开口"
 
 #: bim/module/void/operator.py
 msgctxt "Operator"
 msgid "Add Filling"
-msgstr ""
+msgstr "添加填充"
 
 #: bim/module/void/operator.py
 msgctxt "Operator"
 msgid "Remove Filling"
-msgstr ""
+msgstr "移除填充"
 
 #: bim/module/void/operator.py
 msgctxt "Operator"
 msgid "Select Decomposition"
-msgstr ""
+msgstr "选择分解"
 
 #: bim/module/void/operator.py
 msgctxt "Operator"
 msgid "Mark Booleans as Manual"
-msgstr ""
+msgstr "将布尔操作标记为手动"
 
 #: bim/module/void/operator.py
 msgid "Mark as Manual"
-msgstr ""
+msgstr "标记为手动"
 
 #: bim/module/void/operator.py
 msgid "You can't add an opening to another opening."
-msgstr ""
+msgstr "你不能在一个开口上再添加另一个开口。"
 
 #: bim/module/void/ui.py
 msgctxt "Operator"
 msgid "Voids"
-msgstr ""
+msgstr "空洞"
 
 #: bim/module/void/ui.py
 msgctxt "Operator"
 msgid "Booleans"
-msgstr ""
+msgstr "布尔操作"
 
 #: bim/module/void/ui.py
 msgid "No Fillings"
-msgstr ""
+msgstr "无填充"
 
 #: bim/module/void/ui.py
 msgid "No Openings"
-msgstr ""
+msgstr "无开口"
 
 #: bim/module/void/ui.py
 msgid "Remove Boolean"
-msgstr ""
+msgstr "移除布尔操作"
 
 #: bim/module/void/prop.py
 msgid "Desired Opening To Fill"
-msgstr ""
+msgstr "期望填充的开口"
 
 #: bim/module/structural/workspace.py
 msgctxt "Operator"
 msgid "Structural Tool"
-msgstr ""
+msgstr "结构工具"
 
 #: bim/module/structural/workspace.py
 msgid "Gives you Structure related superpowers"
-msgstr ""
+msgstr "赋予你与结构相关的超级能力"
 
 #: bim/module/structural/operator.py
 msgctxt "Operator"
 msgid "Add Structural Member Connection"
-msgstr ""
+msgstr "添加结构构件连接"
 
 #: bim/module/structural/operator.py
 msgctxt "Operator"
 msgid "Enable Editing Structural Connection Condition"
-msgstr ""
+msgstr "启用结构连接条件编辑"
 
 #: bim/module/structural/operator.py
 msgctxt "Operator"
 msgid "Disable Editing Structural Connection Condition"
-msgstr ""
+msgstr "禁用结构连接条件编辑"
 
 #: bim/module/structural/operator.py
 msgctxt "Operator"
 msgid "Remove Structural Connection Condition"
-msgstr ""
+msgstr "移除结构连接条件"
 
 #: bim/module/structural/operator.py
 msgctxt "Operator"
 msgid "Add Structural Boundary Condition"
-msgstr ""
+msgstr "添加结构边界条件"
 
 #: bim/module/structural/operator.py
 msgctxt "Operator"
 msgid "Remove Structural Boundary Condition"
-msgstr ""
+msgstr "移除结构边界条件"
 
 #: bim/module/structural/operator.py
 msgctxt "Operator"
 msgid "Enable Editing Structural Boundary Condition"
-msgstr ""
+msgstr "启用结构边界条件编辑"
 
 #: bim/module/structural/operator.py
 msgctxt "Operator"
 msgid "Edit Structural Boundary Condition"
-msgstr ""
+msgstr "编辑结构边界条件"
 
 #: bim/module/structural/operator.py
 msgctxt "Operator"
 msgid "Disable Editing Structural Boundary Condition"
-msgstr ""
+msgstr "禁用结构边界条件编辑"
 
 #: bim/module/structural/operator.py
 msgctxt "Operator"
 msgid "Load Structural Analysis Models"
-msgstr ""
+msgstr "加载结构分析模型"
 
 #: bim/module/structural/operator.py
 msgctxt "Operator"
 msgid "Disable Structural Analysis Model Editing UI"
-msgstr ""
+msgstr "禁用结构分析模型编辑界面"
 
 #: bim/module/structural/operator.py
 msgctxt "Operator"
 msgid "Add Structural Analysis Model"
-msgstr ""
+msgstr "添加结构分析模型"
 
 #: bim/module/structural/operator.py
 msgctxt "Operator"
 msgid "Edit Structural Analysis Model"
-msgstr ""
+msgstr "编辑结构分析模型"
 
 #: bim/module/structural/operator.py
 msgctxt "Operator"
 msgid "Remove Structural Analysis Model"
-msgstr ""
+msgstr "移除结构分析模型"
 
 #: bim/module/structural/operator.py
 msgctxt "Operator"
 msgid "Enable Editing Structural Analysis Model"
-msgstr ""
+msgstr "启用结构分析模型编辑"
 
 #: bim/module/structural/operator.py
 msgctxt "Operator"
 msgid "Disable Editing Structural Analysis Model"
-msgstr ""
+msgstr "禁用结构分析模型编辑"
 
 #: bim/module/structural/operator.py
 msgctxt "Operator"
 msgid "Assign Structural Analysis Model"
-msgstr ""
+msgstr "分配结构分析模型"
 
 #: bim/module/structural/operator.py
 msgctxt "Operator"
 msgid "Unassign Structural Analysis Model"
-msgstr ""
+msgstr "取消分配结构分析模型"
 
 #: bim/module/structural/operator.py
 msgctxt "Operator"
 msgid "Enable Editing Structural Item Axis"
-msgstr ""
+msgstr "启用结构构件轴编辑"
 
 #: bim/module/structural/operator.py
 msgctxt "Operator"
 msgid "Disable Editing Structural Item Axis"
-msgstr ""
+msgstr "禁用结构构件轴编辑"
 
 #: bim/module/structural/operator.py
 msgctxt "Operator"
 msgid "Edit Structural Item Axis"
-msgstr ""
+msgstr "编辑结构构件轴"
 
 #: bim/module/structural/operator.py
 msgctxt "Operator"
 msgid "Enable Editing Structural Item Connection CS"
-msgstr ""
+msgstr "启用结构构件连接坐标系编辑"
 
 #: bim/module/structural/operator.py
 msgctxt "Operator"
 msgid "Disable Editing Structural Connection CS"
-msgstr ""
+msgstr "禁用结构连接坐标系编辑"
 
 #: bim/module/structural/operator.py
 msgctxt "Operator"
 msgid "Edit Structural Connection CS"
-msgstr ""
+msgstr "编辑结构连接坐标系"
 
 #: bim/module/structural/operator.py
 msgctxt "Operator"
 msgid "Assign Structural Load Case"
-msgstr ""
+msgstr "分配结构工况"
 
 #: bim/module/structural/operator.py
 msgctxt "Operator"
 msgid "Unassign Structural Load Case"
-msgstr ""
+msgstr "取消分配结构工况"
 
 #: bim/module/structural/operator.py
 msgctxt "Operator"
 msgid "Add Structural Load Case"
-msgstr ""
+msgstr "添加结构工况"
 
 #: bim/module/structural/operator.py
 msgctxt "Operator"
 msgid "Edit Structural Load Case"
-msgstr ""
+msgstr "编辑结构工况"
 
 #: bim/module/structural/operator.py
 msgctxt "Operator"
 msgid "Remove Structural Load Case"
-msgstr ""
+msgstr "移除结构工况"
 
 #: bim/module/structural/operator.py
 msgctxt "Operator"
 msgid "Enable Editing Structural Load Case"
-msgstr ""
+msgstr "启用结构工况编辑"
 
 #: bim/module/structural/operator.py
 msgctxt "Operator"
 msgid "Disable Editing Structural Load Case"
-msgstr ""
+msgstr "禁用结构工况编辑"
 
 #: bim/module/structural/operator.py
 msgctxt "Operator"
 msgid "Enable Editing Structural Load Case Groups"
-msgstr ""
+msgstr "启用结构工况组编辑"
 
 #: bim/module/structural/operator.py
 msgctxt "Operator"
 msgid "Add Structural Load Group"
-msgstr ""
+msgstr "添加结构工况组"
 
 #: bim/module/structural/operator.py
 msgctxt "Operator"
 msgid "Remove Structural Load Group"
-msgstr ""
+msgstr "移除结构工况组"
 
 #: bim/module/structural/operator.py
 msgctxt "Operator"
 msgid "Enable Editing Structural Load Group Activities"
-msgstr ""
+msgstr "启用结构工况组活动编辑"
 
 #: bim/module/structural/operator.py
 msgctxt "Operator"
 msgid "Add Structural Activity"
-msgstr ""
+msgstr "添加结构活动"
 
 #: bim/module/structural/operator.py
 msgctxt "Operator"
 msgid "Load Structural Loads"
-msgstr ""
+msgstr "加载结构荷载"
 
 #: bim/module/structural/operator.py
 msgctxt "Operator"
 msgid "Disable Structural Load Editing UI"
-msgstr ""
+msgstr "禁用结构荷载编辑界面"
 
 #: bim/module/structural/operator.py
 msgctxt "Operator"
 msgid "Add Structural Load"
-msgstr ""
+msgstr "添加结构荷载"
 
 #: bim/module/structural/operator.py
 msgctxt "Operator"
 msgid "Enable Editing Structural Load"
-msgstr ""
+msgstr "启用结构荷载编辑"
 
 #: bim/module/structural/operator.py
 msgctxt "Operator"
 msgid "Disable Editing Structural Load"
-msgstr ""
+msgstr "禁用结构荷载编辑"
 
 #: bim/module/structural/operator.py
 msgctxt "Operator"
 msgid "Remove Structural Load"
-msgstr ""
+msgstr "移除结构荷载"
 
 #: bim/module/structural/operator.py
 msgctxt "Operator"
 msgid "Edit Structural Load"
-msgstr ""
+msgstr "编辑结构荷载"
 
 #: bim/module/structural/operator.py
 msgctxt "Operator"
 msgid "Toggle Filter Structural Loads"
-msgstr ""
+msgstr "切换结构荷载过滤"
 
 #: bim/module/structural/operator.py
 msgctxt "Operator"
 msgid "Load Boundary Conditions"
-msgstr ""
+msgstr "加载边界条件"
 
 #: bim/module/structural/operator.py
 msgctxt "Operator"
 msgid "Toggle Filter Boundary Conditions"
-msgstr ""
+msgstr "切换边界条件过滤"
 
 #: bim/module/structural/operator.py
 msgctxt "Operator"
 msgid "Disable Boundary Condition Editing UI"
-msgstr ""
+msgstr "禁用边界条件编辑界面"
 
 #: bim/module/structural/operator.py
 msgctxt "Operator"
 msgid "Add Boundary Condition"
-msgstr ""
+msgstr "添加边界条件"
 
 #: bim/module/structural/operator.py
 msgctxt "Operator"
 msgid "Enable Editing Boundary Condition"
-msgstr ""
+msgstr "启用边界条件编辑"
 
 #: bim/module/structural/operator.py
 msgctxt "Operator"
 msgid "Disable Editing Boundary Condition"
-msgstr ""
+msgstr "禁用边界条件编辑"
 
 #: bim/module/structural/operator.py
 msgctxt "Operator"
 msgid "Remove Boundary Condition"
-msgstr ""
+msgstr "移除边界条件"
 
 #: bim/module/structural/operator.py
 msgctxt "Operator"
 msgid "Edit Boundary Condition"
-msgstr ""
+msgstr "编辑边界条件"
 
 #: bim/module/structural/ui.py
 msgctxt "Operator"
 msgid "Structural Boundary Conditions"
-msgstr ""
+msgstr "结构边界条件"
 
 #: bim/module/structural/ui.py
 msgctxt "Operator"
 msgid "Connected Structural Members"
-msgstr ""
+msgstr "连接的结构构件"
 
 #: bim/module/structural/ui.py
 msgctxt "Operator"
 msgid "Structural Member"
-msgstr ""
+msgstr "结构构件"
 
 #: bim/module/structural/ui.py
 msgctxt "Operator"
 msgid "Structural Connection"
-msgstr ""
+msgstr "结构连接"
 
 #: bim/module/structural/ui.py
 #: bim/module/structural/prop.py
 msgctxt "Operator"
 msgid "Structural Analysis Models"
-msgstr ""
+msgstr "结构分析模型"
 
 #: bim/module/structural/ui.py
 msgctxt "Operator"
 msgid "Structural Load Cases"
-msgstr ""
+msgstr "结构工况"
 
 #: bim/module/structural/ui.py
 #: bim/module/structural/prop.py
 msgctxt "Operator"
 msgid "Structural Loads"
-msgstr ""
+msgstr "结构荷载"
 
 #: bim/module/structural/ui.py
 #: bim/module/structural/prop.py
 msgctxt "Operator"
 msgid "Boundary Conditions"
-msgstr ""
+msgstr "边界条件"
 
 #: bim/module/structural/ui.py
 msgid "No Boundary Condition Found"
-msgstr ""
+msgstr "未找到边界条件"
 
 #: bim/module/structural/ui.py
 msgid "Edit Axis"
-msgstr ""
+msgstr "编辑轴"
 
 #: bim/module/structural/ui.py
 msgid "TODO"
-msgstr ""
+msgstr "待处理"
 
 #: bim/module/structural/ui.py
 msgid "Editing Connection CS"
-msgstr ""
+msgstr "正在编辑连接坐标系"
 
 #: bim/module/structural/ui.py
 msgid "Y Angle"
-msgstr ""
+msgstr "Y 角度"
 
 #: bim/module/structural/ui.py
 msgid "Z Angle"
-msgstr ""
+msgstr "Z 角度"
 
 #: bim/module/structural/ui.py
 msgid "Edit Connection CS"
-msgstr ""
+msgstr "编辑连接坐标系"
 
 #: bim/module/structural/ui.py
 msgid "No Load Groups Found"
-msgstr ""
+msgstr "未找到工况组"
 
 #: bim/module/structural/ui.py
 msgid "FILTER - OFF"
-msgstr ""
+msgstr "过滤 - 关闭"
 
 #: bim/module/structural/prop.py
 msgid "Applied Load Class"
-msgstr ""
+msgstr "应用的荷载类别"
 
 #: bim/module/structural/prop.py
 msgid "Number of Inverse References"
-msgstr ""
+msgstr "逆引用数量"
 
 #: bim/module/structural/prop.py
 msgid "Active Structural Analysis Model Index"
-msgstr ""
+msgstr "当前激活结构分析模型索引"
 
 #: bim/module/structural/prop.py
 msgid "Active Structural Analysis Model Id"
-msgstr ""
+msgstr "当前激活结构分析模型ID"
 
 #: bim/module/structural/prop.py
 msgid "Load Case Editing Type"
-msgstr ""
+msgstr "工况编辑类型"
 
 #: bim/module/structural/prop.py
 msgid "Load Case Attributes"
-msgstr ""
+msgstr "工况属性"
 
 #: bim/module/structural/prop.py
 msgid "Active Load Case Id"
-msgstr ""
+msgstr "当前激活工况ID"
 
 #: bim/module/structural/prop.py
 msgid "Load Group Editing Type"
-msgstr ""
+msgstr "工况组编辑类型"
 
 #: bim/module/structural/prop.py
 msgid "Load Group Attributes"
-msgstr ""
+msgstr "工况组属性"
 
 #: bim/module/structural/prop.py
 msgid "Active Load Group Id"
-msgstr ""
+msgstr "当前激活工况组ID"
 
 #: bim/module/structural/prop.py
 msgid "Applicable Structural Loads"
-msgstr ""
+msgstr "适用的结构荷载"
 
 #: bim/module/structural/prop.py
 msgid "Load Group Activities"
-msgstr ""
+msgstr "工况组活动"
 
 #: bim/module/structural/prop.py
 msgid "Active Load Group Activity Index"
-msgstr ""
+msgstr "当前激活工况组活动索引"
 
 #: bim/module/structural/prop.py
 msgid "Active Structural Load Index"
-msgstr ""
+msgstr "当前激活结构荷载索引"
 
 #: bim/module/structural/prop.py
 msgid "Active Structural Load Id"
-msgstr ""
+msgstr "当前激活结构荷载ID"
 
 #: bim/module/structural/prop.py
 msgid "Is Editing Loads"
-msgstr ""
+msgstr "是否在编辑荷载"
 
 #: bim/module/structural/prop.py
 msgid "Structural Load Types"
-msgstr ""
+msgstr "结构荷载类型"
 
 #: bim/module/structural/prop.py
 msgid "Structural Load Attributes"
-msgstr ""
+msgstr "结构荷载属性"
 
 #: bim/module/structural/prop.py
 msgid "Filtered Structural Loads"
-msgstr ""
+msgstr "已过滤的结构荷载"
 
 #: bim/module/structural/prop.py
 msgid "Active Boundary Condition Index"
-msgstr ""
+msgstr "当前激活边界条件索引"
 
 #: bim/module/structural/prop.py
 msgid "Active Boundary Condition Id"
-msgstr ""
+msgstr "当前激活边界条件ID"
 
 #: bim/module/structural/prop.py
 msgid "Is Editing Boundary Conditions"
-msgstr ""
+msgstr "是否在编辑边界条件"
 
 #: bim/module/structural/prop.py
 msgid "Boundary Condition Types"
-msgstr ""
+msgstr "边界条件类型"
 
 #: bim/module/structural/prop.py
 msgid "Boundary Condition Attributes"
-msgstr ""
+msgstr "边界条件属性"
 
 #: bim/module/structural/prop.py
 msgid "Filtered Boundary Conditions"
-msgstr ""
+msgstr "已过滤的边界条件"
 
 #: bim/module/structural/prop.py
 msgid "Active Boundary Condition"
-msgstr ""
+msgstr "当前激活边界条件"
 
 #: bim/module/structural/prop.py
 msgid "Active Connects Structural Member"
-msgstr ""
+msgstr "当前激活连接的结构构件"
 
 #: bim/module/structural/prop.py
 msgid "Relating Structural Member"
-msgstr ""
+msgstr "关联的结构构件"
 
 #: bim/module/structural/prop.py
 msgid "Is Editing Axis"
-msgstr ""
+msgstr "是否在编辑轴"
 
 #: bim/module/structural/prop.py
 msgid "Axis Angle"
-msgstr ""
+msgstr "轴角度"
 
 #: bim/module/structural/prop.py
 msgid "Axis Empty"
-msgstr ""
+msgstr "轴为空"
 
 #: bim/module/structural/prop.py
 msgid "Relating Structural Activity"
-msgstr ""
+msgstr "关联的结构活动"
 
 #: bim/module/structural/prop.py
 msgid "Is Editing Connection CS"
-msgstr ""
+msgstr "是否在编辑连接坐标系"
 
 #: bim/module/structural/prop.py
 msgid "Connection CS X Angle"
-msgstr ""
+msgstr "连接坐标系 X 角度"
 
 #: bim/module/structural/prop.py
 msgid "Connection CS Y Angle"
-msgstr ""
+msgstr "连接坐标系 Y 角度"
 
 #: bim/module/structural/prop.py
 msgid "Connection CS Z Angle"
-msgstr ""
+msgstr "连接坐标系 Z 角度"
 
 #: bim/module/structural/prop.py
 msgid "CCS Empty"
-msgstr ""
+msgstr "连接坐标系为空"
 
 #: bim/module/sequence/__init__.py
 msgid "P6 (.xml)"
-msgstr ""
+msgstr "P6 (.xml)"
 
 #: bim/module/sequence/__init__.py
 msgid "Microsoft Project (.xml)"
-msgstr ""
+msgstr "Microsoft Project (.xml)"
 
 #: bim/module/sequence/__init__.py
 msgid "Work Schedule (.csv)"
-msgstr ""
+msgstr "工作计划 (.csv)"
 
 #: bim/module/sequence/__init__.py
 msgid "P6 (.xer)"
-msgstr ""
+msgstr "P6 (.xer)"
 
 #: bim/module/sequence/__init__.py
 msgid "Powerproject (.pp)"
-msgstr ""
+msgstr "Powerproject (.pp)"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Enable Status Filters"
-msgstr ""
+msgstr "启用状态过滤"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Disable Status Filters"
-msgstr ""
+msgstr "禁用状态过滤"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Activate Status Filters"
-msgstr ""
+msgstr "激活状态过滤"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Select Status Filter"
-msgstr ""
+msgstr "选择状态过滤器"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Add Work Plan"
-msgstr ""
+msgstr "添加工作计划"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Edit Work Plan"
-msgstr ""
+msgstr "编辑工作计划"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Remove Work Plan"
-msgstr ""
+msgstr "移除工作计划"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Enable Editing Work Plan"
-msgstr ""
+msgstr "启用工作计划编辑"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Disable Editing Work Plan"
-msgstr ""
+msgstr "禁用工作计划编辑"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Enable Editing Work Plan Schedules"
-msgstr ""
+msgstr "启用工作计划排程编辑"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Assign Work Schedule"
-msgstr ""
+msgstr "分配工作计划"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Unassign Work Schedule"
-msgstr ""
+msgstr "取消分配工作计划"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Add Work Schedule"
-msgstr ""
+msgstr "添加工作计划"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Edit Work Schedule"
-msgstr ""
+msgstr "编辑工作计划"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Remove Work Schedule"
-msgstr ""
+msgstr "移除工作计划"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Enable Editing Work Schedule"
-msgstr ""
+msgstr "启用工作计划编辑"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Enable Editing Work Schedule Tasks"
-msgstr ""
+msgstr "启用工作计划任务编辑"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Load Task Properties"
-msgstr ""
+msgstr "加载任务属性"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Disable Editing Work Schedule"
-msgstr ""
+msgstr "禁用工作计划编辑"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Add Task"
-msgstr ""
+msgstr "添加任务"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Expand Task"
-msgstr ""
+msgstr "展开任务"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Contract Task"
-msgstr ""
+msgstr "收起任务"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Remove Task"
-msgstr ""
+msgstr "移除任务"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Enable Editing Task Time"
-msgstr ""
+msgstr "启用任务时间编辑"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Edit Task Time"
-msgstr ""
+msgstr "编辑任务时间"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Enable Editing Task Attributes"
-msgstr ""
+msgstr "启用任务属性编辑"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Disable Editing Task"
-msgstr ""
+msgstr "禁用任务编辑"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Edit Task"
-msgstr ""
+msgstr "编辑任务"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Copy Task Attribute"
-msgstr ""
+msgstr "复制任务属性"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Assign Predecessor"
-msgstr ""
+msgstr "分配前置任务"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Assign Successor"
-msgstr ""
+msgstr "分配后续任务"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Unassign Predecessor"
-msgstr ""
+msgstr "取消分配前置任务"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Unassign Successor"
-msgstr ""
+msgstr "取消分配后续任务"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Assign Product"
-msgstr ""
+msgstr "分配产品"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Unassign Product"
-msgstr ""
+msgstr "取消分配产品"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Assign Process"
-msgstr ""
+msgstr "分配工序"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Unassign Process"
-msgstr ""
+msgstr "取消分配工序"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Generate Gantt Chart"
-msgstr ""
+msgstr "生成甘特图"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Add Work Calendar"
-msgstr ""
+msgstr "添加工作日历"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Edit Work Calendar"
-msgstr ""
+msgstr "编辑工作日历"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Enable Editing Work Calendar"
-msgstr ""
+msgstr "启用工作日历编辑"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Disable Editing Work Calendar"
-msgstr ""
+msgstr "禁用工作日历编辑"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Import CSV"
-msgstr ""
+msgstr "导入 CSV"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Import P6"
-msgstr ""
+msgstr "导入 P6"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Import P6 XER"
-msgstr ""
+msgstr "导入 P6 XER"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Import Powerproject .pp"
-msgstr ""
+msgstr "导入 Powerproject .pp"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Import MSP"
-msgstr ""
+msgstr "导入 MSP"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Export MSP"
-msgstr ""
+msgstr "导出 MSP"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Export P6"
-msgstr ""
+msgstr "导出 P6"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Enable Editing Work Calendar Times"
-msgstr ""
+msgstr "启用工作日历时间编辑"
 
 #: bim/module/sequence/operator.py
 #: bim/module/sequence/ui.py
 msgctxt "Operator"
 msgid "Add Work Time"
-msgstr ""
+msgstr "添加工作时间"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Enable Editing Work Time"
-msgstr ""
+msgstr "启用工作时间编辑"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Disable Editing Work Time"
-msgstr ""
+msgstr "禁用工作时间编辑"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Edit Work Time"
-msgstr ""
+msgstr "编辑工作时间"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Assign Recurrence Pattern"
-msgstr ""
+msgstr "分配重复模式"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Unassign Recurrence Pattern"
-msgstr ""
+msgstr "取消分配重复模式"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Add Time Period"
-msgstr ""
+msgstr "添加时间段"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Remove Time Period"
-msgstr ""
+msgstr "移除时间段"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Enable Editing Task Calendar"
-msgstr ""
+msgstr "启用任务日历编辑"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Edit Task Calendar"
-msgstr ""
+msgstr "编辑任务日历"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Remove Task Calendar"
-msgstr ""
+msgstr "移除任务日历"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Enable Editing Task Sequence"
-msgstr ""
+msgstr "启用任务序列编辑"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Disable Editing Task Time"
-msgstr ""
+msgstr "禁用任务时间编辑"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Enable Editing Sequence Attributes"
-msgstr ""
+msgstr "启用序列属性编辑"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Enable Editing Sequence Time Lag"
-msgstr ""
+msgstr "启用序列时滞编辑"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Unassign Time Lag"
-msgstr ""
+msgstr "取消分配时滞"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Assign Time Lag"
-msgstr ""
+msgstr "分配时滞"
 
 #: bim/module/sequence/operator.py
 #: bim/module/sequence/ui.py
 msgctxt "Operator"
 msgid "Edit Sequence"
-msgstr ""
+msgstr "编辑序列"
 
 #: bim/module/sequence/operator.py
 #: bim/module/sequence/ui.py
 msgctxt "Operator"
 msgid "Edit Time Lag"
-msgstr ""
+msgstr "编辑时滞"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Disable Editing Sequence"
-msgstr ""
+msgstr "禁用序列编辑"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Select All Output Products"
-msgstr ""
+msgstr "选择所有输出产品"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Select All Input Products"
-msgstr ""
+msgstr "选择所有输入产品"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Visualise Work Schedule Date"
-msgstr ""
+msgstr "可视化工作计划日期"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Guess Work Schedule Date Range"
-msgstr ""
+msgstr "猜测工作计划日期范围"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Visualise Work Schedule Date Range"
-msgstr ""
+msgstr "可视化工作计划日期范围"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Date Picker"
-msgstr ""
+msgstr "日期选择器"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Set Date"
-msgstr ""
+msgstr "设置日期"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Redraw Datepicker Window"
-msgstr ""
+msgstr "重绘日期选择窗口"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Recalculate Schedule"
-msgstr ""
+msgstr "重新计算计划"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Add Task Column"
-msgstr ""
+msgstr "添加任务列"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Setip Default Task Columns"
-msgstr ""
+msgstr "设置默认任务列"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Remove Task Column"
-msgstr ""
+msgstr "移除任务列"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Set Task Sort Column"
-msgstr ""
+msgstr "设置任务排序列"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Calculate Task Duration"
-msgstr ""
+msgstr "计算任务持续时间"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Expands All Tasks"
-msgstr ""
+msgstr "展开所有任务"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Show Task Bars"
-msgstr ""
+msgstr "显示任务条"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Load Animation Colors"
-msgstr ""
+msgstr "加载动画颜色"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Save Animation Color Scheme"
-msgstr ""
+msgstr "保存动画配色方案"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Load Animation Color Scheme"
-msgstr ""
+msgstr "加载动画配色方案"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Copy Task"
-msgstr ""
+msgstr "复制任务"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Load Product Tasks"
-msgstr ""
+msgstr "加载产品任务"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Highlight Task"
-msgstr ""
+msgstr "突出显示任务"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Select Work Schedule Products"
-msgstr ""
+msgstr "选择工作计划产品"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Select Unassigned Work Schedule Products"
-msgstr ""
+msgstr "选择未分配的工作计划产品"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Create Schedule Baseline"
-msgstr ""
+msgstr "创建计划基线"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Clear Previous Animation"
-msgstr ""
+msgstr "清除之前的动画"
 
 #: bim/module/sequence/operator.py
 msgctxt "Operator"
 msgid "Add Camera to Scene"
-msgstr ""
+msgstr "向场景中添加相机"
 
 #: bim/module/sequence/operator.py
 msgid "Deactivate status filters panel.\nCan be used to refresh the displayed statuses"
-msgstr ""
+msgstr "停用状态过滤面板。\n可用于刷新显示的状态"
 
 #: bim/module/sequence/operator.py
 msgid "Filter and display objects based on currently selected IFC statuses"
-msgstr ""
+msgstr "根据当前选定的 IFC 状态过滤并显示对象"
 
 #: bim/module/sequence/operator.py
 msgid "Select elements with currently selected status"
-msgstr ""
+msgstr "选择具有当前选定状态的元素"
 
 #: bim/module/sequence/operator.py
 msgid "Finds the related Task"
-msgstr ""
+msgstr "查找相关任务"
 
 #: bim/module/sequence/operator.py
 msgid "Shows the Status of each task"
-msgstr ""
+msgstr "显示每个任务的状态"
 
 #: bim/module/sequence/operator.py
 msgid "Saves the current animation color scheme"
-msgstr ""
+msgstr "保存当前动画配色方案"
 
 #: bim/module/sequence/operator.py
 msgid "Loads the animation color scheme"
-msgstr ""
+msgstr "加载动画配色方案"
 
 #: bim/module/sequence/operator.py
 msgid "  "
-msgstr ""
+msgstr "  "
 
 #: bim/module/sequence/operator.py
 msgid "Baseline Name"
-msgstr ""
+msgstr "基线名称"
 
 #: bim/module/sequence/operator.py
 msgid "Holiday Start Date"
-msgstr ""
+msgstr "假期开始日期"
 
 #: bim/module/sequence/operator.py
 msgid "Holiday Finish Date"
-msgstr ""
+msgstr "假期结束日期"
 
 #: bim/module/sequence/operator.py
 #: bim/module/sequence/prop.py
 msgid "Display Date"
-msgstr ""
+msgstr "显示日期"
 
 #: bim/module/sequence/operator.py
 msgid "Target date prop to set"
-msgstr ""
+msgstr "要设置的目标日期属性"
 
 #: bim/module/sequence/operator.py
 msgid "No statuses selected."
-msgstr ""
+msgstr "未选择状态。"
 
 #: bim/module/sequence/ui.py
 #: bim/module/sequence/prop.py
 msgctxt "Operator"
 msgid "Work Plans"
-msgstr ""
+msgstr "工作计划"
 
 #: bim/module/sequence/ui.py
 #: bim/module/sequence/prop.py
 msgctxt "Operator"
 msgid "Work Schedules"
-msgstr ""
+msgstr "工作日程"
 
 #: bim/module/sequence/ui.py
 msgctxt "Operator"
 msgid "Animation Tools"
-msgstr ""
+msgstr "动画工具"
 
 #: bim/module/sequence/ui.py
 msgctxt "Operator"
 msgid "Animation Color Scheme"
-msgstr ""
+msgstr "动画配色方案"
 
 #: bim/module/sequence/ui.py
 msgctxt "Operator"
 msgid "Task ICOM"
-msgstr ""
+msgstr "任务 ICOM"
 
 #: bim/module/sequence/ui.py
 #: bim/module/sequence/prop.py
 msgctxt "Operator"
 msgid "Work Calendars"
-msgstr ""
+msgstr "工作日历"
 
 #: bim/module/sequence/ui.py
 msgctxt "Operator"
 msgid "4D Tools"
-msgstr ""
+msgstr "4D 工具"
 
 #: bim/module/sequence/ui.py
 msgid "Statuses found in the project:"
-msgstr ""
+msgstr "项目中发现的状态："
 
 #: bim/module/sequence/ui.py
 msgid "No Work Plans found."
-msgstr ""
+msgstr "未找到工作计划。"
 
 #: bim/module/sequence/ui.py
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 #: bim/module/sequence/ui.py
 msgid "No schedules found. See Work Schedule Panel"
-msgstr ""
+msgstr "未找到日程。请查看工作日程面板"
 
 #: bim/module/sequence/ui.py
 msgid "No Work Schedules found."
-msgstr ""
+msgstr "未找到工作日程。"
 
 #: bim/module/sequence/ui.py
 msgid "Generate Gantt"
-msgstr ""
+msgstr "生成甘特图"
 
 #: bim/module/sequence/ui.py
 msgid "Re-calculate Schedule"
-msgstr ""
+msgstr "重新计算日程"
 
 #: bim/module/sequence/ui.py
 msgid "Select Assigned"
-msgstr ""
+msgstr "选择已分配"
 
 #: bim/module/sequence/ui.py
 msgid "Select Unassigned"
-msgstr ""
+msgstr "选择未分配"
 
 #: bim/module/sequence/ui.py
 msgid "Setup Default Columns"
-msgstr ""
+msgstr "设置默认列"
 
 #: bim/module/sequence/ui.py
 msgid "Task Tools"
-msgstr ""
+msgstr "任务工具"
 
 #: bim/module/sequence/ui.py
 msgid "Add Summary Task"
-msgstr ""
+msgstr "添加汇总任务"
 
 #: bim/module/sequence/ui.py
 msgid "Add Time Lag"
-msgstr ""
+msgstr "添加时滞"
 
 #: bim/module/sequence/ui.py
 msgid "Must Create a Calendar First. See Work Calendar Panel"
-msgstr ""
+msgstr "必须先创建日历。请查看工作日历面板"
 
 #: bim/module/sequence/ui.py
 msgid "Add Baseline"
-msgstr ""
+msgstr "添加基线"
 
 #: bim/module/sequence/ui.py
 msgid "Compare"
-msgstr ""
+msgstr "比较"
 
 #: bim/module/sequence/ui.py
 msgid "Display Schedule"
-msgstr ""
+msgstr "显示日程"
 
 #: bim/module/sequence/ui.py
 msgid "Disable editing"
-msgstr ""
+msgstr "禁用编辑"
 
 #: bim/module/sequence/ui.py
 msgid "Animation Settings"
-msgstr ""
+msgstr "动画设置"
 
 #: bim/module/sequence/ui.py
 msgid "Snapshot Settings"
-msgstr ""
+msgstr "快照设置"
 
 #: bim/module/sequence/ui.py
 msgid "Processing Tools"
-msgstr ""
+msgstr "处理工具"
 
 #: bim/module/sequence/ui.py
 msgid "Add Camera"
-msgstr ""
+msgstr "添加相机"
 
 #: bim/module/sequence/ui.py
 msgid "Reset Animation"
-msgstr ""
+msgstr "重置动画"
 
 #: bim/module/sequence/ui.py
 msgid "Start Date/ Date Range:"
-msgstr ""
+msgstr "开始日期/日期范围："
 
 #: bim/module/sequence/ui.py
 msgid "Guess"
-msgstr ""
+msgstr "猜测"
 
 #: bim/module/sequence/ui.py
 msgid "Speed Settings"
-msgstr ""
+msgstr "速度设置"
 
 #: bim/module/sequence/ui.py
 msgid "->"
-msgstr ""
+msgstr "->"
 
 #: bim/module/sequence/ui.py
 msgid "Display Settings"
-msgstr ""
+msgstr "显示设置"
 
 #: bim/module/sequence/ui.py
 msgid "Task Bars"
-msgstr ""
+msgstr "任务条"
 
 #: bim/module/sequence/ui.py
 msgid "Task Bar Options"
-msgstr ""
+msgstr "任务条选项"
 
 #: bim/module/sequence/ui.py
 msgid "Enable Selection"
-msgstr ""
+msgstr "启用选择"
 
 #: bim/module/sequence/ui.py
 msgid "Generate bars"
-msgstr ""
+msgstr "生成任务条"
 
 #: bim/module/sequence/ui.py
 msgid "Color Scheme"
-msgstr ""
+msgstr "配色方案"
 
 #: bim/module/sequence/ui.py
 msgid "No Color Scheme Saved"
-msgstr ""
+msgstr "未保存配色方案"
 
 #: bim/module/sequence/ui.py
 msgid "Create Animation"
-msgstr ""
+msgstr "创建动画"
 
 #: bim/module/sequence/ui.py
 msgid "Date of Snapshot:"
-msgstr ""
+msgstr "快照日期："
 
 #: bim/module/sequence/ui.py
 msgid "Create SnapShot"
-msgstr ""
+msgstr "创建快照"
 
 #: bim/module/sequence/ui.py
 msgid "Load default"
-msgstr ""
+msgstr "加载默认设置"
 
 #: bim/module/sequence/ui.py
 msgid "Load Scheme"
-msgstr ""
+msgstr "加载方案"
 
 #: bim/module/sequence/ui.py
 msgid "Save Scheme"
-msgstr ""
+msgstr "保存方案"
 
 #: bim/module/sequence/ui.py
 msgid "INPUT COLORS"
-msgstr ""
+msgstr "输入颜色"
 
 #: bim/module/sequence/ui.py
 msgid "OUTPUT COLORS"
-msgstr ""
+msgstr "输出颜色"
 
 #: bim/module/sequence/ui.py
 msgid "Select"
-msgstr ""
+msgstr "选择"
 
 #: bim/module/sequence/ui.py
 msgid "Show Nested"
-msgstr ""
+msgstr "显示嵌套"
 
 #: bim/module/sequence/ui.py
 msgid "No Work Calendars found."
-msgstr ""
+msgstr "未找到工作日历。"
 
 #: bim/module/sequence/ui.py
 msgid "Add Exception Time"
-msgstr ""
+msgstr "添加例外时间"
 
 #: bim/module/sequence/ui.py
 msgid "Load Tasks"
-msgstr ""
+msgstr "加载任务"
 
 #: bim/module/sequence/ui.py
 msgid "Filter by Active Schedule"
-msgstr ""
+msgstr "按活动日程过滤"
 
 #: bim/module/sequence/ui.py
 msgid "Product Input Tasks"
-msgstr ""
+msgstr "产品输入任务"
 
 #: bim/module/sequence/ui.py
 msgid "Product Output Tasks"
-msgstr ""
+msgstr "产品输出任务"
 
 #: bim/module/sequence/prop.py
 msgid "Show Task Bar Animation"
-msgstr ""
+msgstr "显示任务条动画"
 
 #: bim/module/sequence/prop.py
 msgid "Start"
-msgstr ""
+msgstr "开始"
 
 #: bim/module/sequence/prop.py
 msgid "Finish"
-msgstr ""
+msgstr "结束"
 
 #: bim/module/sequence/prop.py
 msgid "Calendar"
-msgstr ""
+msgstr "日历"
 
 #: bim/module/sequence/prop.py
 msgid "Derived Start"
-msgstr ""
+msgstr "派生开始"
 
 #: bim/module/sequence/prop.py
 msgid "Derived Finish"
-msgstr ""
+msgstr "派生结束"
 
 #: bim/module/sequence/prop.py
 msgid "Derived Duration"
-msgstr ""
+msgstr "派生持续时间"
 
 #: bim/module/sequence/prop.py
 msgid "Derived Calendar"
-msgstr ""
+msgstr "派生日历"
 
 #: bim/module/sequence/prop.py
 msgid "Is Predecessor"
-msgstr ""
+msgstr "是否为前置任务"
 
 #: bim/module/sequence/prop.py
 msgid "Is Successor"
-msgstr ""
+msgstr "是否为后续任务"
 
 #: bim/module/sequence/prop.py
 msgid "Work Plan Attributes"
-msgstr ""
+msgstr "工作计划属性"
 
 #: bim/module/sequence/prop.py
 msgid "Editing Type"
-msgstr ""
+msgstr "编辑类型"
 
 #: bim/module/sequence/prop.py
 msgid "Active Work Plan Index"
-msgstr ""
+msgstr "活动工作计划索引"
 
 #: bim/module/sequence/prop.py
 msgid "Active Work Plan Id"
-msgstr ""
+msgstr "活动工作计划ID"
 
 #: bim/module/sequence/prop.py
 msgid "Is Visible"
-msgstr ""
+msgstr "是否可见"
 
 #: bim/module/sequence/prop.py
 msgid "Is Enabled"
-msgstr ""
+msgstr "是否启用"
 
 #: bim/module/sequence/prop.py
 msgid "Statuses"
-msgstr ""
+msgstr "状态"
 
 #: bim/module/sequence/prop.py
 msgid "Object Type"
-msgstr ""
+msgstr "对象类型"
 
 #: bim/module/sequence/prop.py
 msgid "Durations Attributes"
-msgstr ""
+msgstr "持续时间属性"
 
 #: bim/module/sequence/prop.py
 msgid "Work Schedule Attributes"
-msgstr ""
+msgstr "工作日程属性"
 
 #: bim/module/sequence/prop.py
 msgid "Editing Task Type"
-msgstr ""
+msgstr "编辑任务类型"
 
 #: bim/module/sequence/prop.py
 msgid "Active Work Schedules Index"
-msgstr ""
+msgstr "活动工作日程索引"
 
 #: bim/module/sequence/prop.py
 msgid "Active Work Schedules Id"
-msgstr ""
+msgstr "活动工作日程ID"
 
 #: bim/module/sequence/prop.py
 msgid "Active Task Index"
-msgstr ""
+msgstr "活动任务索引"
 
 #: bim/module/sequence/prop.py
 msgid "Active Task Id"
-msgstr ""
+msgstr "活动任务ID"
 
 #: bim/module/sequence/prop.py
 msgid "Highlited Task Id"
-msgstr ""
+msgstr "高亮任务ID"
 
 #: bim/module/sequence/prop.py
 msgid "Should Show Visualisation UI"
-msgstr ""
+msgstr "是否显示可视化界面"
 
 #: bim/module/sequence/prop.py
 msgid "Add to task bar"
-msgstr ""
+msgstr "添加到任务条"
 
 #: bim/module/sequence/prop.py
 msgid "Should Show Snapshot UI"
-msgstr ""
+msgstr "是否显示快照界面"
 
 #: bim/module/sequence/prop.py
 msgid "Sort Column"
-msgstr ""
+msgstr "排序列"
 
 #: bim/module/sequence/prop.py
 msgid "Is Sort Reversed"
-msgstr ""
+msgstr "是否倒序排序"
 
 #: bim/module/sequence/prop.py
 msgid "Task Columns"
-msgstr ""
+msgstr "任务列"
 
 #: bim/module/sequence/prop.py
 msgid "Task Time Columns"
-msgstr ""
+msgstr "任务时间列"
 
 #: bim/module/sequence/prop.py
 msgid "Active Task Time Id"
-msgstr ""
+msgstr "活动任务时间ID"
 
 #: bim/module/sequence/prop.py
 msgid "Task Time Attributes"
-msgstr ""
+msgstr "任务时间属性"
 
 #: bim/module/sequence/prop.py
 msgid "Contracted Task Items"
-msgstr ""
+msgstr "收缩任务项"
 
 #: bim/module/sequence/prop.py
 msgid "Checked Task Items"
-msgstr ""
+msgstr "选中的任务项"
 
 #: bim/module/sequence/prop.py
 msgid "Is Task Update Enabled"
-msgstr ""
+msgstr "是否启用任务更新"
 
 #: bim/module/sequence/prop.py
 msgid "Editing Sequence Type"
-msgstr ""
+msgstr "编辑序列类型"
 
 #: bim/module/sequence/prop.py
 msgid "Active Sequence Id"
-msgstr ""
+msgstr "活动序列ID"
 
 #: bim/module/sequence/prop.py
 msgid "Sequence Attributes"
-msgstr ""
+msgstr "序列属性"
 
 #: bim/module/sequence/prop.py
 msgid "Time Lag Attributes"
-msgstr ""
+msgstr "时滞属性"
 
 #: bim/module/sequence/prop.py
 msgid "Visualisation Start"
-msgstr ""
+msgstr "可视化开始时间"
 
 #: bim/module/sequence/prop.py
 msgid "Visualisation Finish"
-msgstr ""
+msgstr "可视化结束时间"
 
 #: bim/module/sequence/prop.py
 msgid "Speed Multiplier"
-msgstr ""
+msgstr "速度倍数"
 
 #: bim/module/sequence/prop.py
 msgid "Speed Animation Duration"
-msgstr ""
+msgstr "动画播放时长"
 
 #: bim/module/sequence/prop.py
 msgid "Speed Animation Frames"
-msgstr ""
+msgstr "动画帧数"
 
 #: bim/module/sequence/prop.py
 msgid "Speed Real Duration"
-msgstr ""
+msgstr "实际播放时长"
 
 #: bim/module/sequence/prop.py
 msgid "Task Resources"
-msgstr ""
+msgstr "任务资源"
 
 #: bim/module/sequence/prop.py
 msgid "Active Task Resource Index"
-msgstr ""
+msgstr "活动任务资源索引"
 
 #: bim/module/sequence/prop.py
 msgid "Task Inputs"
-msgstr ""
+msgstr "任务输入"
 
 #: bim/module/sequence/prop.py
 msgid "Active Task Input Index"
-msgstr ""
+msgstr "活动任务输入索引"
 
 #: bim/module/sequence/prop.py
 msgid "Task Outputs"
-msgstr ""
+msgstr "任务输出"
 
 #: bim/module/sequence/prop.py
 msgid "Active Task Output Index"
-msgstr ""
+msgstr "活动任务输出索引"
 
 #: bim/module/sequence/prop.py
 msgid "Product Task Inputs"
-msgstr ""
+msgstr "产品任务输入"
 
 #: bim/module/sequence/prop.py
 msgid "Product Task Outputs"
-msgstr ""
+msgstr "产品任务输出"
 
 #: bim/module/sequence/prop.py
 msgid "Active Product Output Task Index"
-msgstr ""
+msgstr "活动产品输出任务索引"
 
 #: bim/module/sequence/prop.py
 msgid "Active Product Input Task Index"
-msgstr ""
+msgstr "活动产品输入任务索引"
 
 #: bim/module/sequence/prop.py
 msgid "Show Task Options"
-msgstr ""
+msgstr "显示任务选项"
 
 #: bim/module/sequence/prop.py
 msgid "Baselines"
-msgstr ""
+msgstr "基线"
 
 #: bim/module/sequence/prop.py
 msgid "Is Specified"
-msgstr ""
+msgstr "是否指定"
 
 #: bim/module/sequence/prop.py
 msgid "Work Calendar Attributes"
-msgstr ""
+msgstr "工作日历属性"
 
 #: bim/module/sequence/prop.py
 msgid "Work Time Attributes"
-msgstr ""
+msgstr "工作时间属性"
 
 #: bim/module/sequence/prop.py
 msgid "Active Work Calendar Id"
-msgstr ""
+msgstr "活动工作日历ID"
 
 #: bim/module/sequence/prop.py
 msgid "Active Work Time Id"
-msgstr ""
+msgstr "活动工作时间ID"
 
 #: bim/module/sequence/prop.py
 msgid "Day Components"
-msgstr ""
+msgstr "天组件"
 
 #: bim/module/sequence/prop.py
 msgid "Weekday Components"
-msgstr ""
+msgstr "工作日组件"
 
 #: bim/module/sequence/prop.py
 msgid "Month Components"
-msgstr ""
+msgstr "月组件"
 
 #: bim/module/sequence/prop.py
 msgid "Position"
-msgstr ""
+msgstr "位置"
 
 #: bim/module/sequence/prop.py
 msgid "Recurrence Interval"
-msgstr ""
+msgstr "重复间隔"
 
 #: bim/module/sequence/prop.py
 msgid "Occurs N Times"
-msgstr ""
+msgstr "出现 N 次"
 
 #: bim/module/sequence/prop.py
 msgid "Start Time"
-msgstr ""
+msgstr "开始时间"
 
 #: bim/module/sequence/prop.py
 msgid "End Time"
-msgstr ""
+msgstr "结束时间"
 
 #: bim/module/sequence/prop.py
 msgid "Selected Date"
-msgstr ""
+msgstr "选定日期"
 
 #: bim/module/sequence/prop.py
 msgid "Start Frame"
-msgstr ""
+msgstr "起始帧"
 
 #: bim/module/sequence/prop.py
 msgid "Total Frames"
-msgstr ""
+msgstr "总帧数"
 
 #: bim/module/sequence/prop.py
 msgid "Saved Colour Schemes"
-msgstr ""
+msgstr "已保存的配色方案"
 
 #: bim/module/sequence/prop.py
 msgid "Active Color Component Index"
-msgstr ""
+msgstr "活动颜色组件索引"
 
 #: bim/module/sequence/prop.py
 msgid "Show Task Bar Options"
-msgstr ""
+msgstr "显示任务条选项"
 
 #: bim/module/demo/operator.py
 msgctxt "Operator"
 msgid "Print Hello World"
-msgstr ""
+msgstr "打印 Hello World"
 
 #: bim/module/demo/operator.py
 msgctxt "Operator"
 msgid "Rename IFC Project"
-msgstr ""
+msgstr "重命名 IFC 项目"
 
 #: bim/module/demo/operator.py
 msgid "Prints the text 'Hello World'"
-msgstr ""
+msgstr "打印文本 'Hello World'"
 
 #: bim/module/demo/operator.py
 msgid "Renames your IFC project name and prints the name"
-msgstr ""
+msgstr "重命名你的 IFC 项目并打印项目名称"
 
 #: bim/module/demo/ui.py
 msgctxt "Operator"
 msgid "BlenderBIM Demo"
-msgstr ""
+msgstr "BlenderBIM 演示"
 
 #: bim/module/demo/ui.py
 msgid "This is a demo panel"
-msgstr ""
+msgstr "这是一个演示面板"
 
 #: bim/module/demo/ui.py
 msgid "Load or create an IFC project first"
-msgstr ""
+msgstr "请先加载或创建一个 IFC 项目"
 
 #: bim/module/demo/ui.py
 msgid "Name cannot be blank!"
-msgstr ""
+msgstr "名称不能为空！"
 
 #: bim/module/demo/prop.py
 msgid "Message"
-msgstr ""
+msgstr "消息"
 
 #: bim/module/demo/prop.py
 msgid "Show Hints"
-msgstr ""
+msgstr "显示提示"
 
 #: bim/module/qto/operator.py
 msgctxt "Operator"
 msgid "Calculate Circle Radius"
-msgstr ""
+msgstr "计算圆半径"
 
 #: bim/module/qto/operator.py
 msgctxt "Operator"
 msgid "Calculate Edge Lengths"
-msgstr ""
+msgstr "计算边长"
 
 #: bim/module/qto/operator.py
 msgctxt "Operator"
 msgid "Calculate Face Areas"
-msgstr ""
+msgstr "计算面面积"
 
 #: bim/module/qto/operator.py
 msgctxt "Operator"
 msgid "Calculate Object Volumes"
-msgstr ""
+msgstr "计算对象体积"
 
 #: bim/module/qto/operator.py
 msgctxt "Operator"
 msgid "Execute Qto Method"
-msgstr ""
+msgstr "执行 Qto 方法"
 
 #: bim/module/qto/operator.py
 msgctxt "Operator"
 msgid "Quantify Objects"
-msgstr ""
+msgstr "量化对象"
 
 #: bim/module/qto/operator.py
 msgctxt "Operator"
 msgid "Assign IFC Object Quantity Set"
-msgstr ""
+msgstr "分配 IFC 对象数量集"
 
 #: bim/module/qto/operator.py
 msgctxt "Operator"
 msgid "Calculate All Quantities"
-msgstr ""
+msgstr "计算所有数量"
 
 #: bim/module/qto/operator.py
 msgid "Assign IFC quantity set to selected object"
-msgstr ""
+msgstr "将 IFC 数量集分配给选定的对象"
 
 #: bim/module/qto/operator.py
 msgid "Calculate all possible quantities and assign them to selected object"
-msgstr ""
+msgstr "计算所有可能的数量并分配给选定的对象"
 
 #: bim/module/qto/ui.py
 msgctxt "Operator"
 msgid "Quantity Take-off"
-msgstr ""
+msgstr "数量提取"
 
 #: bim/module/qto/ui.py
 msgid "Results"
-msgstr ""
+msgstr "结果"
 
 #: bim/module/qto/prop.py
 msgid "Qto Result"
-msgstr ""
+msgstr "Qto 结果"
 
 #: bim/module/qto/prop.py
 msgid "Prop Name"
-msgstr ""
+msgstr "属性名称"
 
 #: bim/module/gis/operator.py
 msgctxt "Operator"
 msgid "Convert CityJSON to IFC"
-msgstr ""
+msgstr "将 CityJSON 转换为 IFC"
 
 #: bim/module/gis/operator.py
 msgctxt "Operator"
 msgid "Find LODs in CityJSON File"
-msgstr ""
+msgstr "在 CityJSON 文件中查找 LODs"
 
 #: bim/module/gis/ui.py
 msgctxt "Operator"
 msgid "CityJSON"
-msgstr ""
+msgstr "CityJSON"
 
 #: bim/module/gis/prop.py
 msgid "CityJSON Input"
-msgstr ""
+msgstr "CityJSON 输入"
 
 #: bim/module/gis/prop.py
 msgid "IFC Output"
-msgstr ""
+msgstr "IFC 输出"
 
 #: bim/module/gis/prop.py
 msgid "Identifier"
-msgstr ""
+msgstr "标识符"
 
 #: bim/module/gis/prop.py
 msgid "Should Split LOD"
-msgstr ""
+msgstr "是否拆分 LOD"
 
 #: bim/module/gis/prop.py
 msgid "LODs"
-msgstr ""
+msgstr "LODs"
 
 #: bim/module/gis/prop.py
 msgid "LOD"
-msgstr ""
+msgstr "LOD"
 
 #: bim/module/gis/prop.py
 msgid "Is LOD Found"
-msgstr ""
+msgstr "是否找到 LOD"
 
 #: bim/module/gis/prop.py
 msgid "Load After Converting"
-msgstr ""
+msgstr "转换后加载"
 
 #: bim/module/spatial/workspace.py
 msgctxt "Operator"
 msgid "Spatial Tool"
-msgstr ""
+msgstr "空间工具"
 
 #: bim/module/spatial/workspace.py
 msgid "Gives you Spatial related superpowers"
-msgstr ""
+msgstr "赋予你与空间相关的超能力"
 
 #: bim/module/spatial/operator.py
 msgctxt "Operator"
 msgid "Reference Structure"
-msgstr ""
+msgstr "引用结构"
 
 #: bim/module/spatial/operator.py
 msgctxt "Operator"
 msgid "Dereference Structure"
-msgstr ""
+msgstr "取消引用结构"
 
 #: bim/module/spatial/operator.py
 msgctxt "Operator"
 msgid "Assign Container"
-msgstr ""
+msgstr "分配容器"
 
 #: bim/module/spatial/operator.py
 msgctxt "Operator"
 msgid "Enable Editing Container"
-msgstr ""
+msgstr "启用容器编辑"
 
 #: bim/module/spatial/operator.py
 msgctxt "Operator"
 msgid "Change Spatial Level"
-msgstr ""
+msgstr "更改空间层级"
 
 #: bim/module/spatial/operator.py
 msgctxt "Operator"
 msgid "Disable Editing Container"
-msgstr ""
+msgstr "禁用容器编辑"
 
 #: bim/module/spatial/operator.py
 msgctxt "Operator"
 msgid "Remove Container"
-msgstr ""
+msgstr "移除容器"
 
 #: bim/module/spatial/operator.py
 msgctxt "Operator"
 msgid "Copy To Container"
-msgstr ""
+msgstr "复制到容器"
 
 #: bim/module/spatial/operator.py
 msgctxt "Operator"
 msgid "Select Container"
-msgstr ""
+msgstr "选择容器"
 
 #: bim/module/spatial/operator.py
 msgctxt "Operator"
 msgid "Select Similar Container"
-msgstr ""
+msgstr "选择相似容器"
 
 #: bim/module/spatial/operator.py
 msgctxt "Operator"
 msgid "Select Product"
-msgstr ""
+msgstr "选择产品"
 
 #: bim/module/spatial/operator.py
 msgctxt "Operator"
 msgid "Load Container Manager"
-msgstr ""
+msgstr "加载容器管理器"
 
 #: bim/module/spatial/operator.py
 msgctxt "Operator"
 msgid "Edit container attributes"
-msgstr ""
+msgstr "编辑容器属性"
 
 #: bim/module/spatial/operator.py
 msgctxt "Operator"
 msgid "Contract Container"
-msgstr ""
+msgstr "折叠容器"
 
 #: bim/module/spatial/operator.py
 msgctxt "Operator"
 msgid "Expand Container"
-msgstr ""
+msgstr "展开容器"
 
 #: bim/module/spatial/operator.py
 msgctxt "Operator"
 msgid "Delete Container"
-msgstr ""
+msgstr "删除容器"
 
 #: bim/module/spatial/operator.py
 msgctxt "Operator"
 msgid "Add Storey"
-msgstr ""
+msgstr "添加楼层"
 
 #: bim/module/spatial/operator.py
 #: bim/module/spatial/ui.py
 msgctxt "Operator"
 msgid "Select Children"
-msgstr ""
+msgstr "选择子项"
 
 #: bim/module/spatial/ui.py
 msgctxt "Operator"
 msgid "Spatial Container"
-msgstr ""
+msgstr "空间容器"
 
 #: bim/module/spatial/ui.py
 msgctxt "Operator"
 msgid "Spatial Manager"
-msgstr ""
+msgstr "空间管理器"
 
 #: bim/module/spatial/ui.py
 msgid "No Spatial Container"
-msgstr ""
+msgstr "没有空间容器"
 
 #: bim/module/spatial/ui.py
 msgid "Load Spatial Structure"
-msgstr ""
+msgstr "加载空间结构"
 
 #: bim/module/spatial/ui.py
 msgid "Add storey"
-msgstr ""
+msgstr "添加楼层"
 
 #: bim/module/spatial/prop.py
 msgid "Long Name"
-msgstr ""
+msgstr "全名"
 
 #: bim/module/spatial/prop.py
 msgid "Has Decomposition"
-msgstr ""
+msgstr "是否分解"
 
 #: bim/module/spatial/prop.py
 msgid "Containers"
-msgstr ""
+msgstr "容器"
 
 #: bim/module/spatial/prop.py
 msgid "Active Container Index"
-msgstr ""
+msgstr "活动容器索引"
 
 #: bim/module/spatial/prop.py
 msgid "Active Container Id"
-msgstr ""
+msgstr "活动容器ID"
 
 #: bim/module/spatial/prop.py
 msgid "Elevation"
-msgstr ""
+msgstr "标高"
 
 #: bim/module/spatial/prop.py
 msgid "Contracted containers"
-msgstr ""
+msgstr "折叠的容器"
 
 #: bim/module/spatial/prop.py
 msgid "Expanded containers"
-msgstr ""
+msgstr "展开的容器"
 
 #: bim/module/spatial/prop.py
 msgid "Container Name"
-msgstr ""
+msgstr "容器名称"
 
 #: bim/module/spatial/prop.py
 msgid "Is Container Update Enabled"
-msgstr ""
-
+msgstr "是否启用容器更新"
